@@ -1,1 +1,1 @@
-# utrecht-figma-designtokens
+# figma-designtokens
