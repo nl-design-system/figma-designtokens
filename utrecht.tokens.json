@@ -425,7 +425,7 @@
           },
           "disabled": {
             "background-color": {
-              "value": "$colors.common.forms.disabled.color",
+              "value": "{utrecht.form-input.disabled.color}",
               "description": "Tekst kleur",
               "type": "color"
             },
