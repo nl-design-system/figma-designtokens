@@ -690,6 +690,16 @@
           "paragraphSpacing": "0"
         },
         "description": "Tekstlabel van formulierelementen"
+      },
+      "hover": {
+        "value": "{utrecht.color.blue.blue-35}",
+        "description": "Kleur van disabled formulier elementen labels",
+        "type": "color"
+      },
+      "invalid": {
+        "value": "{utrecht.color.red.red-30}",
+        "description": "Kleur van disabled formulier elementen labels",
+        "type": "color"
       }
     },
     "checkbox": {
@@ -703,6 +713,11 @@
       "checked": {
         "background-color": {
           "value": "$utrecht.color.blue.blue-35",
+          "description": "Achtergrond van selected checkbox",
+          "type": "color"
+        },
+        "forgeground-color": {
+          "value": "{utrecht.color.basis.white}",
           "description": "Achtergrond van selected checkbox",
           "type": "color"
         }
