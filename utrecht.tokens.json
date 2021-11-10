@@ -678,6 +678,18 @@
         "value": "$utrecht.color.grey.grey-80",
         "description": "Kleur van disabled formulier elementen labels",
         "type": "color"
+      },
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Tekstlabel van formulierelementen"
       }
     },
     "checkbox": {
