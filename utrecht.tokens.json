@@ -512,7 +512,7 @@
           }
         },
         "border-radius": {
-          "value": "$utrecht.common.border-width.border-radius",
+          "value": "{utrecht.common.border-radius.border-radius-none}",
           "type": "borderRadius"
         },
         "border-width": {
