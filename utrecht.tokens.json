@@ -284,54 +284,6 @@
             "type": "borderWidth"
           }
         },
-        "size": {
-          "block": {
-            "block-3xs": {
-              "value": "1",
-              "type": "sizing"
-            },
-            "block-2xs": {
-              "value": "2",
-              "type": "sizing"
-            },
-            "block-xs": {
-              "value": "4",
-              "type": "sizing"
-            },
-            "block-sm": {
-              "value": "8",
-              "type": "sizing"
-            },
-            "block-md": {
-              "value": "12",
-              "type": "sizing"
-            },
-            "block-lg": {
-              "value": "16",
-              "type": "sizing"
-            },
-            "block-xl": {
-              "value": "20",
-              "type": "sizing"
-            },
-            "block-2xl": {
-              "value": "24",
-              "type": "sizing"
-            },
-            "block-3xl": {
-              "value": "32",
-              "type": "sizing"
-            },
-            "block-4xl": {
-              "value": "48",
-              "type": "sizing"
-            },
-            "block-5xl": {
-              "value": "64",
-              "type": "sizing"
-            }
-          }
-        },
         "space": {
           "inline": {
             "inline-3xs": {
