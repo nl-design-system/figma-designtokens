@@ -334,6 +334,10 @@
         },
         "space": {
           "inline": {
+            "inline-3xs": {
+              "value": "2",
+              "type": "spacing"
+            },
             "inline-2xs": {
               "value": "4",
               "type": "spacing"
@@ -351,49 +355,57 @@
               "type": "spacing"
             },
             "inline-lg": {
-              "value": "24",
+              "value": "20",
               "type": "spacing"
             },
             "inline-xl": {
-              "value": "28",
+              "value": "24",
               "type": "spacing"
             },
             "inline-2xl": {
-              "value": "32",
+              "value": "28",
               "type": "spacing"
             },
             "inline-3xl": {
+              "value": "32",
+              "type": "spacing"
+            },
+            "inline-4xl": {
               "value": "48",
               "type": "spacing"
             }
           },
           "block": {
+            "block-3xs": {
+              "value": "1",
+              "type": "spacing"
+            },
             "block-2xs": {
-              "value": "4",
+              "value": "2",
               "type": "spacing"
             },
             "block-xs": {
-              "value": "8",
+              "value": "4",
               "type": "spacing"
             },
             "block-sm": {
-              "value": "12",
+              "value": "8",
               "type": "spacing"
             },
             "block-md": {
-              "value": "16",
+              "value": "12",
               "type": "spacing"
             },
             "block-lg": {
-              "value": "20",
+              "value": "16",
               "type": "spacing"
             },
             "block-xl": {
-              "value": "24",
+              "value": "20",
               "type": "spacing"
             },
             "block-2xl": {
-              "value": "28",
+              "value": "24",
               "type": "spacing"
             },
             "block-3xl": {
@@ -402,6 +414,10 @@
             },
             "block-4xl": {
               "value": "48",
+              "type": "spacing"
+            },
+            "block-5xl": {
+              "value": "64",
               "type": "spacing"
             }
           }
