@@ -311,7 +311,7 @@
               "type": "sizing"
             },
             "block-xl": {
-              "value": "19",
+              "value": "20",
               "type": "sizing"
             },
             "block-2xl": {
@@ -385,18 +385,22 @@
               "type": "spacing"
             },
             "block-lg": {
-              "value": "24",
+              "value": "20",
               "type": "spacing"
             },
             "block-xl": {
-              "value": "28",
+              "value": "24",
               "type": "spacing"
             },
             "block-2xl": {
-              "value": "32",
+              "value": "28",
               "type": "spacing"
             },
             "block-3xl": {
+              "value": "32",
+              "type": "spacing"
+            },
+            "block-4xl": {
               "value": "48",
               "type": "spacing"
             }
