@@ -545,43 +545,47 @@
       }
     },
     "sizing": {
-      "Icon size": {
+      "brand-tokens": {
+        "sizing-2xs": {
+          "value": "16",
+          "type": "sizing"
+        },
+        "sizing-xs": {
+          "value": "24",
+          "type": "sizing"
+        },
         "sizing-sm": {
-          "value": "20",
+          "value": "32",
           "type": "sizing"
         },
         "sizing-md": {
-          "value": "24",
+          "value": "48",
+          "type": "sizing"
+        },
+        "sizing-lg": {
+          "value": "64",
+          "type": "sizing"
+        },
+        "sizing-xl": {
+          "value": "96",
+          "type": "sizing"
+        },
+        "sizing-2xl": {
+          "value": "160",
           "type": "sizing"
         }
       },
-      "sizing-2xs": {
-        "value": "16",
-        "type": "sizing"
-      },
-      "sizing-xs": {
-        "value": "24",
-        "type": "sizing"
-      },
-      "sizing-sm": {
-        "value": "32",
-        "type": "sizing"
-      },
-      "sizing-md": {
-        "value": "48",
-        "type": "sizing"
-      },
-      "sizing-lg": {
-        "value": "64",
-        "type": "sizing"
-      },
-      "sizing-xl": {
-        "value": "96",
-        "type": "sizing"
-      },
-      "sizing-2xl": {
-        "value": "160",
-        "type": "sizing"
+      "component-tokens": {
+        "icons": {
+          "sizing-sm": {
+            "value": "20",
+            "type": "sizing"
+          },
+          "sizing-md": {
+            "value": "24",
+            "type": "sizing"
+          }
+        } 
       }
     },
     "borderRadius": {
