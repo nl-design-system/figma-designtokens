@@ -241,6 +241,10 @@
       }
     },
     "lineHeights": {
+      "none": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
       "loose": {
         "value": "150%",
         "type": "lineHeights"
