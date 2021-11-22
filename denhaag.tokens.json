@@ -867,7 +867,7 @@
       },
       "component-tokens": {
         "input": {
-          "Default": {
+          "default": {
             "value": "{denhaag.borderWidth.brand-tokens.sm}",
             "type": "borderWidth"
           },
