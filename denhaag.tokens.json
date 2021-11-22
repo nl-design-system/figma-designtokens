@@ -148,12 +148,36 @@
         }
       },
       "common-tokens": {
+        "backcolor-feedback-info": {
+          "value": "{denhaag.colors.brand-tokens.Blue.1}",
+          "type": "color"
+        },
+        "forecolor-feedback-info": {
+          "value": "{denhaag.colors.brand-tokens.Blue.3}",
+          "type": "color"
+        },
+        "backcolor-feedback-success": {
+          "value": "{denhaag.colors.brand-tokens.Green.1}",
+          "type": "color"
+        },
+        "forecolor-feedback-success": {
+          "value": "{denhaag.colors.brand-tokens.Green.3}",
+          "type": "color"
+        },
+        "backcolor-feedback-warning": {
+          "value": "{denhaag.colors.brand-tokens.Orange.1}",
+          "type": "color"
+        },
+        "forecolor-feedback-warning": {
+          "value": "{denhaag.colors.brand-tokens.Orange.5}",
+          "type": "color"
+        },
         "backcolor-feedback-error": {
-          "value": "#ffdbad",
+          "value": "{denhaag.colors.brand-tokens.Red.1}",
           "type": "color"
         },
         "forecolor-feedback-error": {
-          "value": "#ffdbad",
+          "value": "{denhaag.colors.brand-tokens.Red.3}",
           "type": "color"
         }
       },
