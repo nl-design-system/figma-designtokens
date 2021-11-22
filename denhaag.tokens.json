@@ -653,7 +653,7 @@
             "value": "$borderWidth.brand-tokens.sm",
             "type": "borderWidth"
           },
-          "Hover": {
+          "hover": {
             "value": "$borderWidth.brand-tokens.md",
             "type": "borderWidth"
           }
