@@ -880,6 +880,18 @@
         }
       },
       "component-tokens": {
+        "button": {
+          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "type": "borderWidth"
+        },
+        "button-secondary": {
+          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "type": "borderWidth"
+        },
+        "divider": {
+            "value": "{denhaag.borderWidth.brand-tokens.sm}",
+            "type": "borderWidth"
+        },
         "input": {
           "default": {
             "value": "{denhaag.borderWidth.brand-tokens.sm}",
