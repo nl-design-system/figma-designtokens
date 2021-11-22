@@ -148,6 +148,26 @@
         }
       },
       "common-tokens": {
+        "text-default": {
+          "value": "{denhaag.colors.brand-tokens.Neutrals.Black}",
+          "type": "color"
+        },
+        "text-heading": {
+          "value": "{denhaag.colors.brand-tokens.Neutrals.Black}",
+          "type": "color"
+        },
+        "text-support": {
+          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "type": "color"
+        },
+        "text-disabled": {
+          "value": "{denhaag.colors.brand-tokens.Grey.2}",
+          "type": "color"
+        },
+        "text-link": {
+          "value": "{denhaag.colors.brand-tokens.Blue.3}",
+          "type": "color"
+        },
         "backcolor-feedback-info": {
           "value": "{denhaag.colors.brand-tokens.Blue.1}",
           "type": "color"
@@ -184,6 +204,14 @@
       "component-tokens": {
         "form-placeholder": {
           "value": "{denhaag.colors.brand-tokens.Grey.3}",
+          "type": "color"
+        },
+        "form-input-border": {
+          "value": "{denhaag.colors.brand-tokens.Grey.3}",
+          "type": "color"
+        },
+        "form-helpertext": {
+          "value": "{denhaag.colors.brand-tokens.Grey.4}",
           "type": "color"
         },
         "form-input": {
