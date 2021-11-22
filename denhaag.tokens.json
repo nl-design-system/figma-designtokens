@@ -149,20 +149,20 @@
       },
       "component-tokens": {
         "form-placeholder": {
-          "value": "$colors.brand-tokens.Grey.3",
+          "value": "{denhaag.colors.brand-tokens.Grey.3}",
           "type": "color"
         },
         "form-input": {
           "default": {
-            "value": "$colors.brand-tokens.Grey.4",
+            "value": "{denhaag.colors.brand-tokens.Grey.4}",
             "type": "color"
           },
           "disabled": {
-            "value": "$colors.brand-tokens.Grey.2",
+            "value": "{denhaag.colors.brand-tokens.Grey.2}",
             "type": "color"
           },
           "hover": {
-            "value": "$colors.brand-tokens.Blue.3",
+            "value": "{denhaag.colors.brand-tokens.Blue.3}",
             "type": "color"
           }
         }
@@ -587,7 +587,7 @@
             "value": "24",
             "type": "sizing"
           }
-        } 
+        }
       }
     },
     "borderRadius": {
