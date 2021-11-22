@@ -499,49 +499,51 @@
       }
     },
     "spacing": {
-      "3xs": {
-        "value": "2",
-        "type": "spacing"
-      },
-      "2xs": {
-        "value": "4",
-        "type": "spacing"
-      },
-      "xs": {
-        "value": "8",
-        "type": "spacing"
-      },
-      "sm": {
-        "value": "12",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "16",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "20",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "2xl": {
-        "value": "32",
-        "type": "spacing"
-      },
-      "3xl": {
-        "value": "40",
-        "type": "spacing"
-      },
-      "4xl": {
-        "value": "48",
-        "type": "spacing"
-      },
-      "5xl": {
-        "value": "56",
-        "type": "spacing"
+      "brand-tokens": {
+        "3xs": {
+          "value": "2",
+          "type": "spacing"
+        },
+        "2xs": {
+          "value": "4",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "8",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "12",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "20",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "2xl": {
+          "value": "32",
+          "type": "spacing"
+        },
+        "3xl": {
+          "value": "40",
+          "type": "spacing"
+        },
+        "4xl": {
+          "value": "48",
+          "type": "spacing"
+        },
+        "5xl": {
+          "value": "56",
+          "type": "spacing"
+        }
       }
     },
     "sizing": {
