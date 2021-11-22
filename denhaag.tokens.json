@@ -810,6 +810,14 @@
     },
     "borderRadius": {
       "brand-tokens": {
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
+        },
+        "sm": {
+          "value": "1",
+          "type": "borderRadius"
+        },
         "md": {
           "value": "3",
           "type": "borderRadius"
@@ -820,14 +828,6 @@
         },
         "circle": {
           "value": "50%",
-          "type": "borderRadius"
-        },
-        "sm": {
-          "value": "1",
-          "type": "borderRadius"
-        },
-        "none": {
-          "value": "0",
           "type": "borderRadius"
         }
       },
