@@ -255,16 +255,16 @@
         "value": "Regular",
         "type": "fontWeights"
       },
+      "font-thesans-c4s-700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
       "font-themixb-400": {
         "value": "W5 Plain",
         "type": "fontWeights"
       },
       "font-themixb-700": {
         "value": "W7 Bold",
-        "type": "fontWeights"
-      },
-      "font-thesans-c4s-700": {
-        "value": "Bold",
         "type": "fontWeights"
       }
     },
@@ -513,51 +513,161 @@
               "paragraphSpacing": "$paragraphSpacing.none"
             }
           }
-        },
-        "form-placeholder": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.font-thesans-c4s",
-            "fontWeight": "$fontWeights.font-thesans-c4s-400",
-            "lineHeight": "$lineHeights.loose",
-            "fontSize": "$fontSizes.md",
-            "letterSpacing": "$letterSpacing.none",
-            "paragraphSpacing": "$paragraphSpacing.none"
-          }
-        },
-        "form-input": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.font-thesans-c4s",
-            "fontWeight": "$fontWeights.font-thesans-c4s-400",
-            "lineHeight": "$lineHeights.loose",
-            "fontSize": "$fontSizes.md",
-            "letterSpacing": "$letterSpacing.none",
-            "paragraphSpacing": "$paragraphSpacing.none"
-          }
-        },
-        "form-helper-text": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.font-thesans-c4s",
-            "fontWeight": "$fontWeights.font-thesans-c4s-400",
-            "lineHeight": "$lineHeights.loose",
-            "fontSize": "$fontSizes.sm",
-            "letterSpacing": "$letterSpacing.none",
-            "paragraphSpacing": "$paragraphSpacing.none"
-          }
-        },
-        "form-error-text": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$fontFamilies.font-thesans-c4s",
-            "fontWeight": "$fontWeights.font-thesans-c4s-400",
-            "lineHeight": "$lineHeights.loose",
-            "fontSize": "$fontSizes.sm",
-            "letterSpacing": "$letterSpacing.none",
-            "paragraphSpacing": "$paragraphSpacing.none"
-          }
         }
+      },
+      "paragraph": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Standard paragraph text"
+      },
+      "paragraph-intro": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-700}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Standard paragraph text"
+      },
+      "heading-1": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontWeight": "{denhaag.fontWeights.font-themixb-700}",
+          "lineHeight": "{denhaag.lineHeights.tight}",
+          "fontSize": "{denhaag.fontSizes.3xl}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Heading level 1"
+      },
+      "heading-2": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontWeight": "{denhaag.fontWeights.font-themixb-700}",
+          "lineHeight": "{denhaag.lineHeights.tight}",
+          "fontSize": "{denhaag.fontSizes.2xl}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Heading level 2"
+      },
+      "heading-3": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontWeight": "{denhaag.fontWeights.font-themixb-400}",
+          "lineHeight": "{denhaag.lineHeights.tight}",
+          "fontSize": "{denhaag.fontSizes.xl}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Heading level 3"
+      },
+      "heading-4": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontWeight": "{denhaag.fontWeights.font-themixb-400}",
+          "lineHeight": "{denhaag.lineHeights.tight}",
+          "fontSize": "{denhaag.fontSizes.lg}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Heading level 4"
+      },
+      "heading-5": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontWeight": "{denhaag.fontWeights.font-themixb-700}",
+          "lineHeight": "{denhaag.lineHeights.tight}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Heading level 5"
+      },
+      "form-placeholder": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Form placeholder text"
+      },
+      "form-input": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Form input text"
+      },
+      "form-helper-text": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.sm}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Form helper text"
+      },
+      "form-error-text": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.sm}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Form error text"
       }
     },
     "spacing": {
@@ -889,8 +999,8 @@
           "type": "borderWidth"
         },
         "divider": {
-            "value": "{denhaag.borderWidth.brand-tokens.sm}",
-            "type": "borderWidth"
+          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "type": "borderWidth"
         },
         "input": {
           "default": {
@@ -902,6 +1012,18 @@
             "type": "borderWidth"
           }
         }
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "textCase": {
+      "normal": {
+        "value": "none",
+        "type": "textCase"
       }
     }
   }
