@@ -865,6 +865,20 @@
           "type": "borderWidth"
         }
       },
+      "common-tokens": {
+        "icon": {
+          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "type": "borderWidth"
+        },
+        "active": {
+          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "type": "borderWidth"
+        },
+        "focus": {
+          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "type": "borderWidth"
+        }
+      },
       "component-tokens": {
         "input": {
           "default": {
