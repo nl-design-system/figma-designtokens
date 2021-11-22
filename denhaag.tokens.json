@@ -677,7 +677,7 @@
       },
       "component-tokens": {
         "input": {
-          "value": "$borderRadius.brand-tokens.md",
+          "value": "{borderRadius.brand-tokens.md}",
           "type": "borderRadius"
         }
       }
@@ -712,11 +712,11 @@
       "component-tokens": {
         "input": {
           "Default": {
-            "value": "$borderWidth.brand-tokens.sm",
+            "value": "{borderWidth.brand-tokens.sm}",
             "type": "borderWidth"
           },
           "hover": {
-            "value": "$borderWidth.brand-tokens.md",
+            "value": "{borderWidth.brand-tokens.md}",
             "type": "borderWidth"
           }
         }
