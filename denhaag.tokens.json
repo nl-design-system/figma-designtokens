@@ -324,7 +324,7 @@
           "400": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-400",
               "lineHeight": "$lineHeights.loose",
               "fontSize": "$fontSizes.xs",
@@ -337,7 +337,7 @@
           "400": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-400",
               "lineHeight": "$lineHeights.loose",
               "fontSize": "$fontSizes.sm",
@@ -348,7 +348,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-700",
               "lineHeight": "$lineHeights.loose",
               "fontSize": "$fontSizes.sm",
@@ -361,7 +361,7 @@
           "400": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-400",
               "lineHeight": "$lineHeights.loose",
               "fontSize": "$fontSizes.md",
@@ -372,7 +372,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-700",
               "lineHeight": "$lineHeights.loose",
               "fontSize": "$fontSizes.md",
@@ -385,7 +385,7 @@
           "400": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-400",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.lg",
@@ -396,7 +396,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-700",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.lg",
@@ -409,7 +409,7 @@
           "400": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-400",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.xl",
@@ -420,7 +420,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-thesans-c4s",
+              "fontFamily": "$fontFamilies.document-font-family",
               "fontWeight": "$fontWeights.font-thesans-c4s-700",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.xl",
@@ -435,7 +435,7 @@
           "400": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-themixb",
+              "fontFamily": "$fontFamilies.heading-font-family",
               "fontWeight": "$fontWeights.font-themixb-400",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.lg",
@@ -446,7 +446,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-themixb",
+              "fontFamily": "$fontFamilies.heading-font-family",
               "fontWeight": "$fontWeights.font-themixb-700",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.lg",
@@ -459,7 +459,7 @@
           "400": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-themixb",
+              "fontFamily": "$fontFamilies.heading-font-family",
               "fontWeight": "$fontWeights.font-themixb-400",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.xl",
@@ -470,7 +470,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-themixb",
+              "fontFamily": "$fontFamilies.heading-font-family",
               "fontWeight": "$fontWeights.font-themixb-700",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.xl",
@@ -483,7 +483,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-themixb",
+              "fontFamily": "$fontFamilies.heading-font-family",
               "fontWeight": "$fontWeights.font-themixb-700",
               "lineHeight": "$lineHeights.loose",
               "fontSize": "$fontSizes.md",
@@ -496,7 +496,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-themixb",
+              "fontFamily": "$fontFamilies.heading-font-family",
               "fontWeight": "$fontWeights.font-themixb-700",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.2xl",
@@ -509,7 +509,7 @@
           "700": {
             "type": "typography",
             "value": {
-              "fontFamily": "$fontFamilies.font-themixb",
+              "fontFamily": "$fontFamilies.heading-font-family",
               "fontWeight": "$fontWeights.font-themixb-700",
               "lineHeight": "$lineHeights.tight",
               "fontSize": "$fontSizes.3xl",
@@ -522,7 +522,7 @@
       "paragraph": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -536,7 +536,7 @@
       "paragraph-intro": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-700}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -550,7 +550,7 @@
       "heading-1": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-themixb-700}",
           "lineHeight": "{denhaag.lineHeights.tight}",
           "fontSize": "{denhaag.fontSizes.3xl}",
@@ -564,7 +564,7 @@
       "heading-2": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-themixb-700}",
           "lineHeight": "{denhaag.lineHeights.tight}",
           "fontSize": "{denhaag.fontSizes.2xl}",
@@ -578,7 +578,7 @@
       "heading-3": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-themixb-400}",
           "lineHeight": "{denhaag.lineHeights.tight}",
           "fontSize": "{denhaag.fontSizes.xl}",
@@ -592,7 +592,7 @@
       "heading-4": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-themixb-400}",
           "lineHeight": "{denhaag.lineHeights.tight}",
           "fontSize": "{denhaag.fontSizes.lg}",
@@ -606,7 +606,7 @@
       "heading-5": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-themixb}",
+          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-themixb-700}",
           "lineHeight": "{denhaag.lineHeights.tight}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -620,7 +620,7 @@
       "form-label": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -634,7 +634,7 @@
       "form-optional": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -648,7 +648,7 @@
       "form-input": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -662,7 +662,7 @@
       "form-placeholder": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -676,7 +676,7 @@
       "form-helper-text": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.sm}",
@@ -690,7 +690,7 @@
       "form-disabled-text": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
@@ -704,7 +704,7 @@
       "form-error-text": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
           "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.sm}",
