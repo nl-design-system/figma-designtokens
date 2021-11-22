@@ -577,6 +577,68 @@
           "type": "sizing"
         }
       },
+      "common-tokens": {
+        "inline": {
+          "size-inline-2xs": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-2xs}",
+            "type": "sizing"
+          },
+          "size-inline-xs": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
+            "type": "sizing"
+          },
+          "size-inline-sm": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-sm}",
+            "type": "sizing"
+          },
+          "size-inline-md": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-md}",
+            "type": "sizing"
+          },
+          "size-inline-lg": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-lg}",
+            "type": "sizing"
+          },
+          "size-inline-xl": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-xl}",
+            "type": "sizing"
+          },
+          "size-inline-2xl": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-2xl}",
+            "type": "sizing"
+          }
+        },
+        "block": {
+          "size-block-2xs": {
+            "value": "{denhaag.sizing.brand-tokens.sizing-2xs}",
+            "type": "sizing"
+          }
+        },
+        "size-block-xs": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
+          "type": "sizing"
+        },
+        "size-block-sm": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-sm}",
+          "type": "sizing"
+        },
+        "size-block-md": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-md}",
+          "type": "sizing"
+        },
+        "size-block-lg": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-lg}",
+          "type": "sizing"
+        },
+        "size-block-xl": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-xl}",
+          "type": "sizing"
+        },
+        "size-block-2xl": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-2xl}",
+          "type": "sizing"
+        }
+      },
       "component-tokens": {
         "icons": {
           "sizing-sm": {
