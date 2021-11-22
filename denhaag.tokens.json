@@ -613,7 +613,21 @@
         },
         "description": "Heading level 5"
       },
-      "form-placeholder": {
+      "form-label": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Form placeholder text"
+      },
+      "form-optional": {
         "type": "typography",
         "value": {
           "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
@@ -641,6 +655,20 @@
         },
         "description": "Form input text"
       },
+      "form-placeholder": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Form placeholder text"
+      },
       "form-helper-text": {
         "type": "typography",
         "value": {
@@ -654,6 +682,20 @@
           "textCase": "none"
         },
         "description": "Form helper text"
+      },
+      "form-disabled-text": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{denhaag.fontFamilies.font-thesans-c4s}",
+          "fontWeight": "{denhaag.fontWeights.font-thesans-c4s-400}",
+          "lineHeight": "{denhaag.lineHeights.loose}",
+          "fontSize": "{denhaag.fontSizes.md}",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Form placeholder text"
       },
       "form-error-text": {
         "type": "typography",
