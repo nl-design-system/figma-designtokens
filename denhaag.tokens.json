@@ -580,11 +580,11 @@
       "component-tokens": {
         "icons": {
           "sizing-sm": {
-            "value": "20",
+            "value": "{denhaag.sizing.brand-tokens.sizing-2xs} * 1.25",
             "type": "sizing"
           },
           "sizing-md": {
-            "value": "24",
+            "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
             "type": "sizing"
           }
         }
