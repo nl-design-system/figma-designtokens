@@ -1032,15 +1032,15 @@
         }
       },
       "component-tokens": {
-        "button": {
+        "button-border-width": {
           "value": "{denhaag.borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
-        "button-secondary": {
+        "button-secondary-border-width": {
           "value": "{denhaag.borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
-        "divider": {
+        "divider-border-width": {
           "value": "{denhaag.borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
