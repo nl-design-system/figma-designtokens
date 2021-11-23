@@ -149,89 +149,89 @@
       },
       "common-tokens": {
         "document-color": {
-          "value": "{denhaag.colors.brand-tokens.Neutrals.Black}",
+          "value": "{colors.brand-tokens.Neutrals.Black}",
           "type": "color"
         },
         "heading-color": {
-          "value": "{denhaag.colors.brand-tokens.Neutrals.Black}",
+          "value": "{colors.brand-tokens.Neutrals.Black}",
           "type": "color"
         },
         "support-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "value": "{colors.brand-tokens.Grey.4}",
           "type": "color"
         },
         "disabled-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.2}",
+          "value": "{colors.brand-tokens.Grey.2}",
           "type": "color"
         },
         "link-color": {
-          "value": "{denhaag.colors.brand-tokens.Blue.3}",
+          "value": "{colors.brand-tokens.Blue.3}",
           "type": "color"
         },
         "feedback-info-background-color": {
-          "value": "{denhaag.colors.brand-tokens.Blue.1}",
+          "value": "{colors.brand-tokens.Blue.1}",
           "type": "color"
         },
         "feedback-info-color": {
-          "value": "{denhaag.colors.brand-tokens.Blue.3}",
+          "value": "{colors.brand-tokens.Blue.3}",
           "type": "color"
         },
         "feedback-success-background-color": {
-          "value": "{denhaag.colors.brand-tokens.Green.1}",
+          "value": "{colors.brand-tokens.Green.1}",
           "type": "color"
         },
         "feedback-success-color": {
-          "value": "{denhaag.colors.brand-tokens.Green.3}",
+          "value": "{colors.brand-tokens.Green.3}",
           "type": "color"
         },
         "feedback-warning-background-color": {
-          "value": "{denhaag.colors.brand-tokens.Orange.1}",
+          "value": "{colors.brand-tokens.Orange.1}",
           "type": "color"
         },
         "feedback-warning-color": {
-          "value": "{denhaag.colors.brand-tokens.Orange.5}",
+          "value": "{colors.brand-tokens.Orange.5}",
           "type": "color"
         },
         "feedback-error-background-color": {
-          "value": "{denhaag.colors.brand-tokens.Red.1}",
+          "value": "{colors.brand-tokens.Red.1}",
           "type": "color"
         },
         "feedback-error-color": {
-          "value": "{denhaag.colors.brand-tokens.Red.3}",
+          "value": "{colors.brand-tokens.Red.3}",
           "type": "color"
         }
       },
       "component-tokens": {
         "form-label-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "value": "{colors.brand-tokens.Grey.4}",
           "type": "color"
         },
         "form-input-placeholder-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.3}",
+          "value": "{colors.brand-tokens.Grey.3}",
           "type": "color"
         },
         "form-input-border-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.3}",
+          "value": "{colors.brand-tokens.Grey.3}",
           "type": "color"
         },
         "form-helpertext-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "value": "{colors.brand-tokens.Grey.4}",
           "type": "color"
         },
         "form-input-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "value": "{colors.brand-tokens.Grey.4}",
           "type": "color"
         },
         "form-input-disabled-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.2}",
+          "value": "{colors.brand-tokens.Grey.2}",
           "type": "color"
         },
         "form-input-hover-color": {
-          "value": "{denhaag.colors.brand-tokens.Blue.3}",
+          "value": "{colors.brand-tokens.Blue.3}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "value": "{colors.brand-tokens.Grey.4}",
           "type": "color"
         }
       }
@@ -528,10 +528,10 @@
       "paragraph": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-regular}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -542,10 +542,10 @@
       "paragraph-intro": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-bold}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-bold}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -556,10 +556,10 @@
       "heading-1": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
-          "fontWeight": "{denhaag.fontWeights.themix-bold}",
-          "lineHeight": "{denhaag.lineHeights.tight}",
-          "fontSize": "{denhaag.fontSizes.3xl}",
+          "fontFamily": "{fontFamilies.heading-font-family}",
+          "fontWeight": "{fontWeights.themix-bold}",
+          "lineHeight": "{lineHeights.tight}",
+          "fontSize": "{fontSizes.3xl}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -570,10 +570,10 @@
       "heading-2": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
-          "fontWeight": "{denhaag.fontWeights.themix-bold}",
-          "lineHeight": "{denhaag.lineHeights.tight}",
-          "fontSize": "{denhaag.fontSizes.2xl}",
+          "fontFamily": "{fontFamilies.heading-font-family}",
+          "fontWeight": "{fontWeights.themix-bold}",
+          "lineHeight": "{lineHeights.tight}",
+          "fontSize": "{fontSizes.2xl}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -584,10 +584,10 @@
       "heading-3": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
-          "fontWeight": "{denhaag.fontWeights.themix-regular}",
-          "lineHeight": "{denhaag.lineHeights.tight}",
-          "fontSize": "{denhaag.fontSizes.xl}",
+          "fontFamily": "{fontFamilies.heading-font-family}",
+          "fontWeight": "{fontWeights.themix-regular}",
+          "lineHeight": "{lineHeights.tight}",
+          "fontSize": "{fontSizes.xl}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -598,10 +598,10 @@
       "heading-4": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
-          "fontWeight": "{denhaag.fontWeights.themix-regular}",
-          "lineHeight": "{denhaag.lineHeights.tight}",
-          "fontSize": "{denhaag.fontSizes.lg}",
+          "fontFamily": "{fontFamilies.heading-font-family}",
+          "fontWeight": "{fontWeights.themix-regular}",
+          "lineHeight": "{lineHeights.tight}",
+          "fontSize": "{fontSizes.lg}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -612,10 +612,10 @@
       "heading-5": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.heading-font-family}",
-          "fontWeight": "{denhaag.fontWeights.themix-bold}",
-          "lineHeight": "{denhaag.lineHeights.tight}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.heading-font-family}",
+          "fontWeight": "{fontWeights.themix-bold}",
+          "lineHeight": "{lineHeights.tight}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -626,10 +626,10 @@
       "form-label": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-bold}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-bold}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -640,10 +640,10 @@
       "form-optional": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-regular}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -654,10 +654,10 @@
       "form-input": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-regular}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -668,10 +668,10 @@
       "form-placeholder": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-regular}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -682,10 +682,10 @@
       "form-helper-text": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.sm}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-regular}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.sm}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -696,10 +696,10 @@
       "form-disabled-text": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.md}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-regular}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.md}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -710,10 +710,10 @@
       "form-error-text": {
         "type": "typography",
         "value": {
-          "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
-          "lineHeight": "{denhaag.lineHeights.loose}",
-          "fontSize": "{denhaag.fontSizes.sm}",
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontWeight": "{fontWeights.thesans-regular}",
+          "lineHeight": "{lineHeights.loose}",
+          "fontSize": "{fontSizes.sm}",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
           "textDecoration": "none",
@@ -772,93 +772,93 @@
       "common-tokens": {
         "inline": {
           "space-inline-3xs": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-3xs}",
+            "value": "{spacing.brand-tokens.spacing-3xs}",
             "type": "spacing"
           },
           "space-inline-2xs": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-2xs}",
+            "value": "{spacing.brand-tokens.spacing-2xs}",
             "type": "spacing"
           },
           "space-inline-xs": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-xs}",
+            "value": "{spacing.brand-tokens.spacing-xs}",
             "type": "spacing"
           },
           "space-inline-sm": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-sm}",
+            "value": "{spacing.brand-tokens.spacing-sm}",
             "type": "spacing"
           },
           "space-inline-md": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-md}",
+            "value": "{spacing.brand-tokens.spacing-md}",
             "type": "spacing"
           },
           "space-inline-lg": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-lg}",
+            "value": "{spacing.brand-tokens.spacing-lg}",
             "type": "spacing"
           },
           "space-inline-xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-xl}",
+            "value": "{spacing.brand-tokens.spacing-xl}",
             "type": "spacing"
           },
           "space-inline-2xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-2xl}",
+            "value": "{spacing.brand-tokens.spacing-2xl}",
             "type": "spacing"
           },
           "space-inline-3xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-3xl}",
+            "value": "{spacing.brand-tokens.spacing-3xl}",
             "type": "spacing"
           },
           "space-inline-4xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-4xl}",
+            "value": "{spacing.brand-tokens.spacing-4xl}",
             "type": "spacing"
           },
           "space-inline-5xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-5xl}",
+            "value": "{spacing.brand-tokens.spacing-5xl}",
             "type": "spacing"
           }
         },
         "block": {
           "space-block-3xs": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-3xs}",
+            "value": "{spacing.brand-tokens.spacing-3xs}",
             "type": "spacing"
           },
           "space-block-2xs": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-2xs}",
+            "value": "{spacing.brand-tokens.spacing-2xs}",
             "type": "spacing"
           },
           "space-block-xs": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-xs}",
+            "value": "{spacing.brand-tokens.spacing-xs}",
             "type": "spacing"
           },
           "space-block-sm": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-sm}",
+            "value": "{spacing.brand-tokens.spacing-sm}",
             "type": "spacing"
           },
           "space-block-md": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-md}",
+            "value": "{spacing.brand-tokens.spacing-md}",
             "type": "spacing"
           },
           "space-block-lg": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-lg}",
+            "value": "{spacing.brand-tokens.spacing-lg}",
             "type": "spacing"
           },
           "space-block-xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-xl}",
+            "value": "{spacing.brand-tokens.spacing-xl}",
             "type": "spacing"
           },
           "space-block-2xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-2xl}",
+            "value": "{spacing.brand-tokens.spacing-2xl}",
             "type": "spacing"
           },
           "space-block-3xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-3xl}",
+            "value": "{spacing.brand-tokens.spacing-3xl}",
             "type": "spacing"
           },
           "space-block-4xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-4xl}",
+            "value": "{spacing.brand-tokens.spacing-4xl}",
             "type": "spacing"
           },
           "space-block-5xl": {
-            "value": "{denhaag.spacing.brand-tokens.spacing-5xl}",
+            "value": "{spacing.brand-tokens.spacing-5xl}",
             "type": "spacing"
           }
         }
@@ -898,72 +898,72 @@
       "common-tokens": {
         "inline": {
           "size-inline-2xs": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-2xs}",
+            "value": "{sizing.brand-tokens.sizing-2xs}",
             "type": "sizing"
           },
           "size-inline-xs": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
+            "value": "{sizing.brand-tokens.sizing-xs}",
             "type": "sizing"
           },
           "size-inline-sm": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-sm}",
+            "value": "{sizing.brand-tokens.sizing-sm}",
             "type": "sizing"
           },
           "size-inline-md": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-md}",
+            "value": "{sizing.brand-tokens.sizing-md}",
             "type": "sizing"
           },
           "size-inline-lg": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-lg}",
+            "value": "{sizing.brand-tokens.sizing-lg}",
             "type": "sizing"
           },
           "size-inline-xl": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-xl}",
+            "value": "{sizing.brand-tokens.sizing-xl}",
             "type": "sizing"
           },
           "size-inline-2xl": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-2xl}",
+            "value": "{sizing.brand-tokens.sizing-2xl}",
             "type": "sizing"
           }
         },
         "block": {
           "size-block-2xs": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-2xs}",
+            "value": "{sizing.brand-tokens.sizing-2xs}",
             "type": "sizing"
           }
         },
         "size-block-xs": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
+          "value": "{sizing.brand-tokens.sizing-xs}",
           "type": "sizing"
         },
         "size-block-sm": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-sm}",
+          "value": "{sizing.brand-tokens.sizing-sm}",
           "type": "sizing"
         },
         "size-block-md": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-md}",
+          "value": "{sizing.brand-tokens.sizing-md}",
           "type": "sizing"
         },
         "size-block-lg": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-lg}",
+          "value": "{sizing.brand-tokens.sizing-lg}",
           "type": "sizing"
         },
         "size-block-xl": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-xl}",
+          "value": "{sizing.brand-tokens.sizing-xl}",
           "type": "sizing"
         },
         "size-block-2xl": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-2xl}",
+          "value": "{sizing.brand-tokens.sizing-2xl}",
           "type": "sizing"
         }
       },
       "component-tokens": {
         "icon-size-sm": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-2xs} * 1.25",
+          "value": "{sizing.brand-tokens.sizing-2xs} * 1.25",
           "type": "sizing"
         },
         "icon-size-md": {
-          "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
+          "value": "{sizing.brand-tokens.sizing-xs}",
           "type": "sizing"
         }
       }
@@ -993,7 +993,7 @@
       },
       "component-tokens": {
         "form-input-border-radius": {
-          "value": "{denhaag.borderRadius.brand-tokens.md}",
+          "value": "{borderRadius.brand-tokens.md}",
           "type": "borderRadius"
         }
       }
@@ -1027,37 +1027,37 @@
       },
       "common-tokens": {
         "icon": {
-          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "value": "{borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
         "active": {
-          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "value": "{borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
         "focus": {
-          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "value": "{borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         }
       },
       "component-tokens": {
         "button-border-width": {
-          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "value": "{borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
         "button-secondary-border-width": {
-          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "value": "{borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
         "divider-border-width": {
-          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "value": "{borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
         "form-input-border-width": {
-          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "value": "{borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
         "form-input-border-width-hover": {
-          "value": "{denhaag.borderWidth.brand-tokens.md}",
+          "value": "{borderWidth.brand-tokens.md}",
           "type": "borderWidth"
         }
       }
