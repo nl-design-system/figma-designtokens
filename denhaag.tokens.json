@@ -950,15 +950,13 @@
         }
       },
       "component-tokens": {
-        "icons": {
-          "sizing-sm": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-2xs} * 1.25",
-            "type": "sizing"
-          },
-          "sizing-md": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
-            "type": "sizing"
-          }
+        "icon-size-sm": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-2xs} * 1.25",
+          "type": "sizing"
+        },
+        "icon-size-md": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
+          "type": "sizing"
         }
       }
     },
