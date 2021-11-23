@@ -148,85 +148,83 @@
         }
       },
       "common-tokens": {
-        "text-default": {
+        "document-color": {
           "value": "{denhaag.colors.brand-tokens.Neutrals.Black}",
           "type": "color"
         },
-        "text-heading": {
+        "heading-color": {
           "value": "{denhaag.colors.brand-tokens.Neutrals.Black}",
           "type": "color"
         },
-        "text-support": {
+        "support-color": {
           "value": "{denhaag.colors.brand-tokens.Grey.4}",
           "type": "color"
         },
-        "text-disabled": {
+        "disabled-color": {
           "value": "{denhaag.colors.brand-tokens.Grey.2}",
           "type": "color"
         },
-        "text-link": {
+        "link-color": {
           "value": "{denhaag.colors.brand-tokens.Blue.3}",
           "type": "color"
         },
-        "backcolor-feedback-info": {
+        "feedback-info-background-color": {
           "value": "{denhaag.colors.brand-tokens.Blue.1}",
           "type": "color"
         },
-        "forecolor-feedback-info": {
+        "feedback-info-color": {
           "value": "{denhaag.colors.brand-tokens.Blue.3}",
           "type": "color"
         },
-        "backcolor-feedback-success": {
+        "feedback-success-background-color": {
           "value": "{denhaag.colors.brand-tokens.Green.1}",
           "type": "color"
         },
-        "forecolor-feedback-success": {
+        "feedback-success-color": {
           "value": "{denhaag.colors.brand-tokens.Green.3}",
           "type": "color"
         },
-        "backcolor-feedback-warning": {
+        "feedback-warning-background-color": {
           "value": "{denhaag.colors.brand-tokens.Orange.1}",
           "type": "color"
         },
-        "forecolor-feedback-warning": {
+        "feedback-warning-color": {
           "value": "{denhaag.colors.brand-tokens.Orange.5}",
           "type": "color"
         },
-        "backcolor-feedback-error": {
+        "feedback-error-background-color": {
           "value": "{denhaag.colors.brand-tokens.Red.1}",
           "type": "color"
         },
-        "forecolor-feedback-error": {
+        "feedback-error-color": {
           "value": "{denhaag.colors.brand-tokens.Red.3}",
           "type": "color"
         }
       },
       "component-tokens": {
-        "form-placeholder": {
+        "form-input-placeholder-color": {
           "value": "{denhaag.colors.brand-tokens.Grey.3}",
           "type": "color"
         },
-        "form-input-border": {
+        "form-input-border-color": {
           "value": "{denhaag.colors.brand-tokens.Grey.3}",
           "type": "color"
         },
-        "form-helpertext": {
+        "form-helpertext-color": {
           "value": "{denhaag.colors.brand-tokens.Grey.4}",
           "type": "color"
         },
-        "form-input": {
-          "default": {
-            "value": "{denhaag.colors.brand-tokens.Grey.4}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{denhaag.colors.brand-tokens.Grey.2}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{denhaag.colors.brand-tokens.Blue.3}",
-            "type": "color"
-          }
+        "form-input-color": {
+          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "type": "color"
+        },
+        "form-input-disabled-color": {
+          "value": "{denhaag.colors.brand-tokens.Grey.2}",
+          "type": "color"
+        },
+        "form-input-hover-color": {
+          "value": "{denhaag.colors.brand-tokens.Blue.3}",
+          "type": "color"
         }
       }
     },
@@ -952,15 +950,13 @@
         }
       },
       "component-tokens": {
-        "icons": {
-          "sizing-sm": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-2xs} * 1.25",
-            "type": "sizing"
-          },
-          "sizing-md": {
-            "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
-            "type": "sizing"
-          }
+        "icon-size-sm": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-2xs} * 1.25",
+          "type": "sizing"
+        },
+        "icon-size-md": {
+          "value": "{denhaag.sizing.brand-tokens.sizing-xs}",
+          "type": "sizing"
         }
       }
     },
@@ -988,7 +984,7 @@
         }
       },
       "component-tokens": {
-        "input": {
+        "form-input-border-radius": {
           "value": "{denhaag.borderRadius.brand-tokens.md}",
           "type": "borderRadius"
         }
@@ -1036,27 +1032,25 @@
         }
       },
       "component-tokens": {
-        "button": {
+        "button-border-width": {
           "value": "{denhaag.borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
-        "button-secondary": {
+        "button-secondary-border-width": {
           "value": "{denhaag.borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
-        "divider": {
+        "divider-border-width": {
           "value": "{denhaag.borderWidth.brand-tokens.sm}",
           "type": "borderWidth"
         },
-        "input": {
-          "default": {
-            "value": "{denhaag.borderWidth.brand-tokens.sm}",
-            "type": "borderWidth"
-          },
-          "hover": {
-            "value": "{denhaag.borderWidth.brand-tokens.md}",
-            "type": "borderWidth"
-          }
+        "form-input-border-width": {
+          "value": "{denhaag.borderWidth.brand-tokens.sm}",
+          "type": "borderWidth"
+        },
+        "form-input-border-width-hover": {
+          "value": "{denhaag.borderWidth.brand-tokens.md}",
+          "type": "borderWidth"
         }
       }
     },
