@@ -202,6 +202,10 @@
         }
       },
       "component-tokens": {
+        "form-label-color": {
+          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "type": "color"
+        },
         "form-input-placeholder-color": {
           "value": "{denhaag.colors.brand-tokens.Grey.3}",
           "type": "color"
@@ -619,7 +623,7 @@
         "type": "typography",
         "value": {
           "fontFamily": "{denhaag.fontFamilies.document-font-family}",
-          "fontWeight": "{denhaag.fontWeights.thesans-regular}",
+          "fontWeight": "{denhaag.fontWeights.thesans-bold}",
           "lineHeight": "{denhaag.lineHeights.loose}",
           "fontSize": "{denhaag.fontSizes.md}",
           "letterSpacing": "none",
