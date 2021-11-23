@@ -229,6 +229,10 @@
         "form-input-hover-color": {
           "value": "{denhaag.colors.brand-tokens.Blue.3}",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "{denhaag.colors.brand-tokens.Grey.4}",
+          "type": "color"
         }
       }
     },
