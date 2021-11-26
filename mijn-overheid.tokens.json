@@ -109,6 +109,10 @@
         "value": "{brand-tokens.Text.Blue}",
         "type": "color"
       },
+      "disabled-color": {
+        "value": "{brand-tokens.General.Grey}",
+        "type": "color"
+      },
       "feedback-info-background-color": {
         "value": "{brand-tokens.Blue.Light-blue}",
         "type": "color"
