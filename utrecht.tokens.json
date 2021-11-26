@@ -328,47 +328,47 @@
             }
           },
           "block": {
-            "block-3xs": {
+            "block-4xs": {
               "value": "1",
               "type": "spacing"
             },
-            "block-2xs": {
+            "block-3xs": {
               "value": "2",
               "type": "spacing"
             },
-            "block-xs": {
+            "block-2xs": {
               "value": "4",
               "type": "spacing"
             },
-            "block-sm": {
+            "block-xs": {
               "value": "8",
               "type": "spacing"
             },
-            "block-md": {
+            "block-sm": {
               "value": "12",
               "type": "spacing"
             },
-            "block-lg": {
+            "block-md": {
               "value": "16",
               "type": "spacing"
             },
-            "block-xl": {
+            "block-lg": {
               "value": "20",
               "type": "spacing"
             },
-            "block-2xl": {
+            "block-xl": {
               "value": "24",
               "type": "spacing"
             },
-            "block-3xl": {
+            "block-2xl": {
               "value": "32",
               "type": "spacing"
             },
-            "block-4xl": {
+            "block-3xl": {
               "value": "48",
               "type": "spacing"
             },
-            "block-5xl": {
+            "block-4xl": {
               "value": "64",
               "type": "spacing"
             }
