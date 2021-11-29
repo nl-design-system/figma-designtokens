@@ -145,6 +145,24 @@
         "value": "{brand-tokens.Red.Red}",
         "type": "color"
       }
+    },
+    "document-font-family": {
+      "value": "RijksoverheidSansText",
+      "description": "Broodtekst",
+      "type": "fontFamilies"
+    },
+    "heading-font-family": {
+      "value": " rijksoverheidsansheading",
+      "description": "Kopteksten",
+      "type": "fontFamilies"
+    },
+    "font-weight-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "font-weight-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
     }
   }
 }
