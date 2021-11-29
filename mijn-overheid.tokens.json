@@ -158,11 +158,13 @@
     },
     "font-weight-regular": {
       "value": "Regular",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "Normaal lettergewicht"
     },
     "font-weight-bold": {
       "value": "Bold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "Vet lettergewicht"
     }
   }
 }
