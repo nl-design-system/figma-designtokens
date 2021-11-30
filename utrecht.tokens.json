@@ -551,9 +551,40 @@
       }
     },
     "form-toggle": {
-      "border-width": {
-        "value": "$utrecht.common.border-width.border-width-sm",
-        "type": "borderWidth"
+      "default": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-30",
+          "description": "Achtergrond van standaard toggle",
+          "type": "color"
+        }
+      },
+      "checked": {
+        "background-color": {
+          "value": "{utrecht.color.green.green-40}",
+          "description": "Achtergrond van selected toggle",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "$utrecht.color.blue.blue-35",
+          "description": "toggle in hover staat",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-80",
+          "description": "toggle in disabled staat",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background-color": {
+          "value": "$utrecht.color.red.red-30",
+          "description": "toggle in foutieve staat",
+          "type": "color"
+        }
       }
     },
     "heading-1": {
