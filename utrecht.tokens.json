@@ -1,860 +1,858 @@
 {
   "utrecht": {
     "utrecht": {
-      "utrecht": {
-        "typography": {
-          "fontFamilies": {
-            "sans-serif": {
-              "value": "Lucida Grande",
-              "type": "fontFamilies"
-            }
-          },
-          "fontSizes": {
-            "font-size-2xs": {
-              "value": "8",
-              "type": "fontSizes"
-            },
-            "font-size-xs": {
-              "value": "11",
-              "type": "fontSizes"
-            },
-            "font-size-sm": {
-              "value": "14",
-              "type": "fontSizes"
-            },
-            "font-size-md": {
-              "value": "16",
-              "type": "fontSizes"
-            },
-            "font-size-lg": {
-              "value": "18",
-              "type": "fontSizes"
-            },
-            "font-size-xl": {
-              "value": "20",
-              "type": "fontSizes"
-            },
-            "font-size-2xl": {
-              "value": "22",
-              "type": "fontSizes"
-            },
-            "font-size-3xl": {
-              "value": "24",
-              "type": "fontSizes"
-            },
-            "font-size-4xl": {
-              "value": "32",
-              "type": "fontSizes"
-            }
-          },
-          "fontWeights": {
-            "font-weight-regular": {
-              "value": "Regular",
-              "type": "fontWeights"
-            },
-            "font-weight-bold": {
-              "value": "Bold",
-              "type": "fontWeights"
-            }
+      "typography": {
+        "fontFamilies": {
+          "sans-serif": {
+            "value": "Lucida Grande",
+            "type": "fontFamilies"
           }
         },
-        "letterSpacings": {
-          "letterSpacing-size-sm": {
-            "value": "0.72px",
-            "description": "letterspacing van 0,72px",
-            "type": "letterSpacing"
+        "fontSizes": {
+          "font-size-2xs": {
+            "value": "8",
+            "type": "fontSizes"
           },
-          "letterSpacing-size-md": {
-            "value": "0px",
-            "description": "letterspacing 0px",
-            "type": "letterSpacing"
+          "font-size-xs": {
+            "value": "11",
+            "type": "fontSizes"
           },
-          "letterSpacing-size-lg": {
-            "value": "2px",
-            "description": "letterspacing van 2px",
-            "type": "letterSpacing"
+          "font-size-sm": {
+            "value": "14",
+            "type": "fontSizes"
+          },
+          "font-size-md": {
+            "value": "16",
+            "type": "fontSizes"
+          },
+          "font-size-lg": {
+            "value": "18",
+            "type": "fontSizes"
+          },
+          "font-size-xl": {
+            "value": "20",
+            "type": "fontSizes"
+          },
+          "font-size-2xl": {
+            "value": "22",
+            "type": "fontSizes"
+          },
+          "font-size-3xl": {
+            "value": "24",
+            "type": "fontSizes"
+          },
+          "font-size-4xl": {
+            "value": "32",
+            "type": "fontSizes"
           }
+        },
+        "fontWeights": {
+          "font-weight-regular": {
+            "value": "Regular",
+            "type": "fontWeights"
+          },
+          "font-weight-bold": {
+            "value": "Bold",
+            "type": "fontWeights"
+          }
+        }
+      },
+      "letterSpacings": {
+        "letterSpacing-size-sm": {
+          "value": "0.72px",
+          "description": "letterspacing van 0,72px",
+          "type": "letterSpacing"
+        },
+        "letterSpacing-size-md": {
+          "value": "0px",
+          "description": "letterspacing 0px",
+          "type": "letterSpacing"
+        },
+        "letterSpacing-size-lg": {
+          "value": "2px",
+          "description": "letterspacing van 2px",
+          "type": "letterSpacing"
+        }
+      },
+      "lineHeights": {
+        "linehight-size-tighter": {
+          "value": "100%",
+          "description": "linehHeight factor 1 / 100% ",
+          "type": "lineHeights"
         },
         "lineHeights": {
-          "linehight-size-tighter": {
-            "value": "100%",
-            "description": "linehHeight factor 1 / 100% ",
+          "lineheight-size-tight": {
+            "value": "130%",
+            "description": "lineheight factor 1,3 / 130% ",
             "type": "lineHeights"
           },
-          "lineHeights": {
-            "lineheight-size-tight": {
-              "value": "130%",
-              "description": "lineheight factor 1,3 / 130% ",
-              "type": "lineHeights"
-            },
-            "lineheight-size-normal": {
-              "value": "140%",
-              "description": "lineheight factor 1,4 / 140% ",
-              "type": "lineHeights"
-            },
-            "lineheight-size-loose": {
-              "value": "150%",
-              "description": "lineheight factor 1,5 / 150% ",
-              "type": "lineHeights"
-            }
+          "lineheight-size-normal": {
+            "value": "140%",
+            "description": "lineheight factor 1,4 / 140% ",
+            "type": "lineHeights"
+          },
+          "lineheight-size-loose": {
+            "value": "150%",
+            "description": "lineheight factor 1,5 / 150% ",
+            "type": "lineHeights"
+          }
+        }
+      },
+      "color": {
+        "basis": {
+          "black": {
+            "value": "hsl(0, 0%, 0%)",
+            "description": "basis zwart",
+            "type": "color"
+          },
+          "white": {
+            "value": "hsl(0, 0%, 100%)",
+            "description": "basis wit",
+            "type": "color"
           }
         },
-        "color": {
-          "basis": {
-            "black": {
-              "value": "hsl(0, 0%, 0%)",
-              "description": "basis zwart",
-              "type": "color"
-            },
-            "white": {
-              "value": "hsl(0, 0%, 100%)",
-              "description": "basis wit",
-              "type": "color"
-            }
+        "red": {
+          "red-20": {
+            "value": "hsl(0, 100%, 20%)",
+            "description": "donker rood",
+            "type": "color"
           },
-          "red": {
-            "red-20": {
-              "value": "hsl(0, 100%, 20%)",
-              "description": "donker rood",
-              "type": "color"
-            },
-            "red-30": {
-              "value": "hsl(0, 100%, 30%)",
-              "description": "hover rood",
-              "type": "color"
-            },
-            "red-40": {
-              "value": "hsl(0, 100%, 40%)",
-              "description": "basis rood #cc0000",
-              "type": "color"
-            },
-            "red-95": {
-              "value": "hsl(0, 100%, 95%)",
-              "description": "Licht rood #ffcccc",
-              "type": "color"
-            }
+          "red-30": {
+            "value": "hsl(0, 100%, 30%)",
+            "description": "hover rood",
+            "type": "color"
           },
-          "blue": {
-            "blue-20": {
-              "value": "hsl(211, 60%, 20%)",
-              "description": "basis donkerblauw (OS focus)",
-              "type": "color"
-            },
-            "blue-35": {
-              "value": "hsl(211, 60%, 35%)",
-              "description": "basis link en knoppen CTA donkerblauw",
-              "type": "color"
-            },
-            "blue-40": {
-              "value": "hsl(211, 60%, 40%)",
-              "description": "blauw variant bij hover/focus #3669a5",
-              "type": "color"
-            },
-            "blue-80": {
-              "value": "hsl(211, 60%, 80%)",
-              "description": "licht blauw voor achtergrond",
-              "type": "color"
-            },
-            "blue-90": {
-              "value": "hsl(211, 60%, 90%)",
-              "description": "ijsblauw variant achtergrond, spotlight en uitgelicht",
-              "type": "color"
-            }
+          "red-40": {
+            "value": "hsl(0, 100%, 40%)",
+            "description": "basis rood #cc0000",
+            "type": "color"
           },
-          "grey": {
-            "grey-10": {
-              "value": "hsl(0, 0%, 10%)",
-              "description": "Background donkergrijs",
-              "type": "color"
-            },
-            "grey-15": {
-              "value": "hsl(0, 0%, 15%)",
-              "description": "Background grijs",
-              "type": "color"
-            },
-            "grey-20": {
-              "value": "hsl(0, 0%, 20%)",
-              "description": "Hover grijs",
-              "type": "color"
-            },
-            "grey-30": {
-              "value": "hsl(0, 0%, 30%)",
-              "description": "order grijs #888",
-              "type": "color"
-            },
-            "grey-40": {
-              "value": "hsl(0, 0%, 40%)",
-              "description": "basis grijs #727272",
-              "type": "color"
-            },
-            "grey-80": {
-              "value": "hsl(0, 0%, 80%)",
-              "description": "grijs variant voor achtergrond content #e5e5e5",
-              "type": "color"
-            },
-            "grey-90": {
-              "value": "hsl(0, 0%, 90%)",
-              "description": "grijs variant voor achtergrond templates #e6e6e6",
-              "type": "color"
-            },
-            "grey-95": {
-              "value": "hsl(0, 0%, 95%)",
-              "description": "grijs variant voor achtergrond templates #f2f2f2",
-              "type": "color"
-            }
-          },
-          "yellow": {
-            "yellow-40": {
-              "value": "hsl(48, 100%, 40%)",
-              "description": "donker geel",
-              "type": "color"
-            },
-            "yellow-50": {
-              "value": "hsl(48, 100%, 50%)",
-              "description": "basis geel #ffcc00",
-              "type": "color"
-            },
-            "yellow-60": {
-              "value": "hsl(48, 100%, 60%)",
-              "description": "selecteer geel",
-              "type": "color"
-            },
-            "yellow-80": {
-              "value": "hsl(48, 100%, 80%)",
-              "description": "spotlight en uitgelicht",
-              "type": "color"
-            }
-          },
-          "green": {
-            "green-40": {
-              "value": "hsl(90, 30%, 40%)",
-              "description": "Donker groen",
-              "type": "color"
-            },
-            "green-50": {
-              "value": "hsl(90, 30%, 50%)",
-              "description": "Button groen",
-              "type": "color"
-            },
-            "green-80": {
-              "value": "hsl(90, 30%, 80%)",
-              "description": "Achtergrond groen",
-              "type": "color"
-            },
-            "green-90": {
-              "value": "hsl(90, 30%, 90%)",
-              "description": "Achtergrond groen",
-              "type": "color"
-            }
+          "red-95": {
+            "value": "hsl(0, 100%, 95%)",
+            "description": "Licht rood #ffcccc",
+            "type": "color"
           }
         },
-        "common": {
-          "border-width": {
-            "border-width-none": {
-              "value": "0",
-              "type": "borderWidth"
-            },
-            "border-width-sm": {
-              "value": "1",
-              "type": "borderWidth"
-            },
-            "border-width-md": {
-              "value": "2",
-              "type": "borderWidth"
-            }
+        "blue": {
+          "blue-20": {
+            "value": "hsl(211, 60%, 20%)",
+            "description": "basis donkerblauw (OS focus)",
+            "type": "color"
           },
-          "border-radius": {
-            "border-radius-none": {
-              "value": "0",
-              "type": "borderRadius"
-            }
+          "blue-35": {
+            "value": "hsl(211, 60%, 35%)",
+            "description": "basis link en knoppen CTA donkerblauw",
+            "type": "color"
           },
-          "focus": {
-            "box-shadow-color": {
-              "value": "$utrecht.color.basis.white",
-              "description": "Kleur achtergrond van de outline border",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "$utrecht.color.basis.black",
-              "description": "Kleur van de gestreepte lijn",
-              "type": "color"
-            },
-            "outline-width": {
-              "value": "$utrecht.common.border-width.border-width-md",
-              "type": "borderWidth"
-            }
+          "blue-40": {
+            "value": "hsl(211, 60%, 40%)",
+            "description": "blauw variant bij hover/focus #3669a5",
+            "type": "color"
           },
-          "space": {
-            "inline": {
-              "inline-3xs": {
-                "value": "2",
-                "type": "spacing"
-              },
-              "inline-2xs": {
-                "value": "4",
-                "type": "spacing"
-              },
-              "inline-xs": {
-                "value": "8",
-                "type": "spacing"
-              },
-              "inline-sm": {
-                "value": "12",
-                "type": "spacing"
-              },
-              "inline-md": {
-                "value": "16",
-                "type": "spacing"
-              },
-              "inline-lg": {
-                "value": "20",
-                "type": "spacing"
-              },
-              "inline-xl": {
-                "value": "24",
-                "type": "spacing"
-              },
-              "inline-2xl": {
-                "value": "28",
-                "type": "spacing"
-              },
-              "inline-3xl": {
-                "value": "32",
-                "type": "spacing"
-              },
-              "inline-4xl": {
-                "value": "48",
-                "type": "spacing"
-              }
-            },
-            "block": {
-              "block-4xs": {
-                "value": "1",
-                "type": "spacing"
-              },
-              "block-3xs": {
-                "value": "2",
-                "type": "spacing"
-              },
-              "block-2xs": {
-                "value": "4",
-                "type": "spacing"
-              },
-              "block-xs": {
-                "value": "8",
-                "type": "spacing"
-              },
-              "block-sm": {
-                "value": "12",
-                "type": "spacing"
-              },
-              "block-md": {
-                "value": "16",
-                "type": "spacing"
-              },
-              "block-lg": {
-                "value": "20",
-                "type": "spacing"
-              },
-              "block-xl": {
-                "value": "24",
-                "type": "spacing"
-              },
-              "block-2xl": {
-                "value": "32",
-                "type": "spacing"
-              },
-              "block-3xl": {
-                "value": "48",
-                "type": "spacing"
-              },
-              "block-4xl": {
-                "value": "64",
-                "type": "spacing"
-              }
-            }
+          "blue-80": {
+            "value": "hsl(211, 60%, 80%)",
+            "description": "licht blauw voor achtergrond",
+            "type": "color"
+          },
+          "blue-90": {
+            "value": "hsl(211, 60%, 90%)",
+            "description": "ijsblauw variant achtergrond, spotlight en uitgelicht",
+            "type": "color"
           }
         },
-        "button": {
-          "border-radius": {
-            "value": "$utrecht.common.border-radius.border-radius-none",
+        "grey": {
+          "grey-10": {
+            "value": "hsl(0, 0%, 10%)",
+            "description": "Background donkergrijs",
+            "type": "color"
+          },
+          "grey-15": {
+            "value": "hsl(0, 0%, 15%)",
+            "description": "Background grijs",
+            "type": "color"
+          },
+          "grey-20": {
+            "value": "hsl(0, 0%, 20%)",
+            "description": "Hover grijs",
+            "type": "color"
+          },
+          "grey-30": {
+            "value": "hsl(0, 0%, 30%)",
+            "description": "order grijs #888",
+            "type": "color"
+          },
+          "grey-40": {
+            "value": "hsl(0, 0%, 40%)",
+            "description": "basis grijs #727272",
+            "type": "color"
+          },
+          "grey-80": {
+            "value": "hsl(0, 0%, 80%)",
+            "description": "grijs variant voor achtergrond content #e5e5e5",
+            "type": "color"
+          },
+          "grey-90": {
+            "value": "hsl(0, 0%, 90%)",
+            "description": "grijs variant voor achtergrond templates #e6e6e6",
+            "type": "color"
+          },
+          "grey-95": {
+            "value": "hsl(0, 0%, 95%)",
+            "description": "grijs variant voor achtergrond templates #f2f2f2",
+            "type": "color"
+          }
+        },
+        "yellow": {
+          "yellow-40": {
+            "value": "hsl(48, 100%, 40%)",
+            "description": "donker geel",
+            "type": "color"
+          },
+          "yellow-50": {
+            "value": "hsl(48, 100%, 50%)",
+            "description": "basis geel #ffcc00",
+            "type": "color"
+          },
+          "yellow-60": {
+            "value": "hsl(48, 100%, 60%)",
+            "description": "selecteer geel",
+            "type": "color"
+          },
+          "yellow-80": {
+            "value": "hsl(48, 100%, 80%)",
+            "description": "spotlight en uitgelicht",
+            "type": "color"
+          }
+        },
+        "green": {
+          "green-40": {
+            "value": "hsl(90, 30%, 40%)",
+            "description": "Donker groen",
+            "type": "color"
+          },
+          "green-50": {
+            "value": "hsl(90, 30%, 50%)",
+            "description": "Button groen",
+            "type": "color"
+          },
+          "green-80": {
+            "value": "hsl(90, 30%, 80%)",
+            "description": "Achtergrond groen",
+            "type": "color"
+          },
+          "green-90": {
+            "value": "hsl(90, 30%, 90%)",
+            "description": "Achtergrond groen",
+            "type": "color"
+          }
+        }
+      },
+      "common": {
+        "border-width": {
+          "border-width-none": {
+            "value": "0",
+            "type": "borderWidth"
+          },
+          "border-width-sm": {
+            "value": "1",
+            "type": "borderWidth"
+          },
+          "border-width-md": {
+            "value": "2",
+            "type": "borderWidth"
+          }
+        },
+        "border-radius": {
+          "border-radius-none": {
+            "value": "0",
             "type": "borderRadius"
+          }
+        },
+        "focus": {
+          "box-shadow-color": {
+            "value": "$utrecht.color.basis.white",
+            "description": "Kleur achtergrond van de outline border",
+            "type": "color"
           },
-          "primary-action": {
-            "border-width": {
-              "value": "$utrecht.common.border-width.border-width-none",
-              "type": "borderWidth"
+          "border-color": {
+            "value": "$utrecht.color.basis.black",
+            "description": "Kleur van de gestreepte lijn",
+            "type": "color"
+          },
+          "outline-width": {
+            "value": "$utrecht.common.border-width.border-width-md",
+            "type": "borderWidth"
+          }
+        },
+        "space": {
+          "inline": {
+            "inline-3xs": {
+              "value": "2",
+              "type": "spacing"
             },
+            "inline-2xs": {
+              "value": "4",
+              "type": "spacing"
+            },
+            "inline-xs": {
+              "value": "8",
+              "type": "spacing"
+            },
+            "inline-sm": {
+              "value": "12",
+              "type": "spacing"
+            },
+            "inline-md": {
+              "value": "16",
+              "type": "spacing"
+            },
+            "inline-lg": {
+              "value": "20",
+              "type": "spacing"
+            },
+            "inline-xl": {
+              "value": "24",
+              "type": "spacing"
+            },
+            "inline-2xl": {
+              "value": "28",
+              "type": "spacing"
+            },
+            "inline-3xl": {
+              "value": "32",
+              "type": "spacing"
+            },
+            "inline-4xl": {
+              "value": "48",
+              "type": "spacing"
+            }
+          },
+          "block": {
+            "block-4xs": {
+              "value": "1",
+              "type": "spacing"
+            },
+            "block-3xs": {
+              "value": "2",
+              "type": "spacing"
+            },
+            "block-2xs": {
+              "value": "4",
+              "type": "spacing"
+            },
+            "block-xs": {
+              "value": "8",
+              "type": "spacing"
+            },
+            "block-sm": {
+              "value": "12",
+              "type": "spacing"
+            },
+            "block-md": {
+              "value": "16",
+              "type": "spacing"
+            },
+            "block-lg": {
+              "value": "20",
+              "type": "spacing"
+            },
+            "block-xl": {
+              "value": "24",
+              "type": "spacing"
+            },
+            "block-2xl": {
+              "value": "32",
+              "type": "spacing"
+            },
+            "block-3xl": {
+              "value": "48",
+              "type": "spacing"
+            },
+            "block-4xl": {
+              "value": "64",
+              "type": "spacing"
+            }
+          }
+        }
+      },
+      "button": {
+        "border-radius": {
+          "value": "$utrecht.common.border-radius.border-radius-none",
+          "type": "borderRadius"
+        },
+        "primary-action": {
+          "border-width": {
+            "value": "$utrecht.common.border-width.border-width-none",
+            "type": "borderWidth"
+          },
+          "background-color": {
+            "value": "$utrecht.color.blue.blue-35",
+            "description": "Achtergrondkleur primary button",
+            "type": "color"
+          },
+          "color": {
+            "value": "$utrecht.color.basis.white",
+            "description": "Tekst kleur",
+            "type": "color"
+          },
+          "disabled": {
             "background-color": {
-              "value": "$utrecht.color.blue.blue-35",
-              "description": "Achtergrondkleur primary button",
+              "value": "{utrecht.form-input.disabled.color}",
+              "description": "Tekst kleur",
               "type": "color"
             },
             "color": {
               "value": "$utrecht.color.basis.white",
               "description": "Tekst kleur",
               "type": "color"
-            },
-            "disabled": {
-              "background-color": {
-                "value": "{utrecht.form-input.disabled.color}",
-                "description": "Tekst kleur",
-                "type": "color"
-              },
-              "color": {
-                "value": "$utrecht.color.basis.white",
-                "description": "Tekst kleur",
-                "type": "color"
-              }
-            }
-          },
-          "secondary-action": {
-            "border-width": {
-              "value": "$utrecht.common.border-width.border-width-md",
-              "type": "borderWidth"
-            },
-            "background-color": {
-              "value": "$utrecht.color.basis.white",
-              "description": "Achtergrondkleur secondary button",
-              "type": "color"
-            },
-            "color": {
-              "value": "$utrecht.color.blue.blue-35",
-              "description": "Tekst kleur secondary button",
-              "type": "color"
-            },
-            "disabled": {
-              "background-color": {
-                "value": "$utrecht.color.basis.white",
-                "description": "Tekst kleur",
-                "type": "color"
-              },
-              "color": {
-                "value": "$utrecht.form-input.disabled.color",
-                "description": "Tekst kleur",
-                "type": "color"
-              }
-            }
-          },
-          "link": {
-            "border-width": {
-              "value": "$utrecht.common.border-width.border-width-none",
-              "type": "borderWidth"
             }
           }
         },
-        "document": {
-          "font-family": {
-            "value": "Lucida Grande",
-            "type": "fontFamilies"
-          }
-        },
-        "form-input": {
-          "default": {
-            "value": "$utrecht.color.basis.black",
-            "description": "Tekst invoer kleur",
+        "secondary-action": {
+          "border-width": {
+            "value": "$utrecht.common.border-width.border-width-md",
+            "type": "borderWidth"
+          },
+          "background-color": {
+            "value": "$utrecht.color.basis.white",
+            "description": "Achtergrondkleur secondary button",
+            "type": "color"
+          },
+          "color": {
+            "value": "$utrecht.color.blue.blue-35",
+            "description": "Tekst kleur secondary button",
             "type": "color"
           },
           "disabled": {
+            "background-color": {
+              "value": "$utrecht.color.basis.white",
+              "description": "Tekst kleur",
+              "type": "color"
+            },
             "color": {
-              "value": "$utrecht.color.grey.grey-80",
-              "description": "Niet actieve grijze kleur",
+              "value": "$utrecht.form-input.disabled.color",
+              "description": "Tekst kleur",
               "type": "color"
             }
-          },
-          "border-color": {
-            "color": {
-              "value": "$utrecht.color.grey.grey-30",
-              "description": "Kleur randen van de formulier velden",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "color": {
-              "value": "$utrecht.color.blue.blue-35",
-              "description": "Kleur van hover staat van de formulier velden",
-              "type": "color"
-            }
-          },
-          "invalid": {
-            "color": {
-              "value": "$utrecht.color.red.red-30",
-              "description": "Feedback rode kleur",
-              "type": "color"
-            }
-          },
-          "border-radius": {
-            "value": "{utrecht.common.border-radius.border-radius-none}",
-            "type": "borderRadius"
-          },
+          }
+        },
+        "link": {
           "border-width": {
-            "value": "$utrecht.common.border-width.border-width-sm",
+            "value": "$utrecht.common.border-width.border-width-none",
             "type": "borderWidth"
           }
         }
       },
+      "document": {
+        "font-family": {
+          "value": "Lucida Grande",
+          "type": "fontFamilies"
+        }
+      },
       "form-input": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-md",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Tekstinvoer van formulierelementen"
-        }
-      },
-      "form-placeholder": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-md",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Placeholder tekst van formulierelementen"
-        },
-        "color": {
-          "value": "$utrecht.color.grey.grey-80",
-          "description": "Kleur van placeholder tekst",
-          "type": "color"
-        }
-      },
-      "form-helpertext": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-sm",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Placeholder tekst van formulierelementen"
-        },
         "default": {
           "value": "$utrecht.color.basis.black",
-          "description": "Kleur van placeholder tekst",
+          "description": "Tekst invoer kleur",
           "type": "color"
         },
         "disabled": {
-          "value": "$utrecht.color.grey.grey-80",
-          "description": "Kleur van placeholder tekst",
-          "type": "color"
-        }
-      },
-      "form-toggle": {
-        "height": {
-          "value": "24",
-          "description": "Hoogte van toggle",
-          "type": "sizing"
-        },
-        "width": {
-          "value": "48",
-          "description": "Breedte van toggle",
-          "type": "sizing"
-        },
-        "default": {
-          "background-color": {
-            "value": "$utrecht.color.grey.grey-30",
-            "description": "Achtergrond van standaard toggle",
-            "type": "color"
-          }
-        },
-        "checked": {
-          "background-color": {
-            "value": "{utrecht.color.green.green-40}",
-            "description": "Achtergrond van selected toggle",
-            "type": "color"
-          }
-        },
-        "hover": {
-          "background-color": {
-            "value": "$utrecht.color.blue.blue-35",
-            "description": "toggle in hover staat",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "background-color": {
+          "color": {
             "value": "$utrecht.color.grey.grey-80",
-            "description": "toggle in disabled staat",
+            "description": "Niet actieve grijze kleur",
             "type": "color"
           }
         },
-        "error": {
-          "background-color": {
-            "value": "$utrecht.color.red.red-30",
-            "description": "toggle in foutieve staat",
+        "border-color": {
+          "color": {
+            "value": "$utrecht.color.grey.grey-30",
+            "description": "Kleur randen van de formulier velden",
             "type": "color"
           }
-        }
-      },
-      "heading-1": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
-            "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-3xl",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Layout voor header-1 H1 token"
-        }
-      },
-      "heading-2": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
-            "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Layout voor header-2 H2 token"
-        }
-      },
-      "heading-3": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Layout voor header-3 H3 token"
-        }
-      },
-      "heading-4": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-lg",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Layout voor header-4 H4 token"
-        }
-      },
-      "heading-5": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-md",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-sm",
-            "paragraphSpacing": "0"
-          },
-          "description": "Layout voor header-5 H5 token"
-        }
-      },
-      "heading-6": {
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-md",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-sm",
-            "paragraphSpacing": "0"
-          },
-          "description": "Layout voor header-6 H6 token"
-        }
-      },
-      "form-label": {
-        "default": {
-          "value": "$utrecht.color.basis.black",
-          "description": "Kleur van de formulier labels",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "$utrecht.color.grey.grey-80",
-          "description": "Kleur van disabled formulier elementen labels",
-          "type": "color"
-        },
-        "font": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "$utrecht.document.font-family",
-            "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-            "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
-            "fontSize": "$utrecht.typography.fontSizes.font-size-md",
-            "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-            "paragraphSpacing": "0"
-          },
-          "description": "Tekstlabel van formulierelementen"
         },
         "hover": {
-          "value": "{utrecht.color.blue.blue-35}",
-          "description": "Kleur van disabled formulier elementen labels",
-          "type": "color"
+          "color": {
+            "value": "$utrecht.color.blue.blue-35",
+            "description": "Kleur van hover staat van de formulier velden",
+            "type": "color"
+          }
         },
         "invalid": {
-          "value": "{utrecht.color.red.red-30}",
-          "description": "Kleur van disabled formulier elementen labels",
-          "type": "color"
-        }
-      },
-      "checkbox": {
-        "default": {
-          "background-color": {
-            "value": "$utrecht.color.grey.grey-30",
-            "description": "Achtergrond van standaard checkbox",
-            "type": "color"
-          }
-        },
-        "checked": {
-          "background-color": {
-            "value": "$utrecht.color.blue.blue-35",
-            "description": "Achtergrond van selected checkbox",
-            "type": "color"
-          },
-          "forgeground-color": {
-            "value": "{utrecht.color.basis.white}",
-            "description": "Achtergrond van selected checkbox",
-            "type": "color"
-          }
-        },
-        "hover": {
-          "background-color": {
-            "value": "$utrecht.color.blue.blue-35",
-            "description": "Checkbox in hover staat",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "background-color": {
-            "value": "$utrecht.color.grey.grey-80",
-            "description": "Checkbox in disabled staat",
-            "type": "color"
-          }
-        },
-        "error": {
-          "background-color": {
-            "value": "$utrecht.color.red.red-30",
-            "description": "Checkbox in foutieve staat",
-            "type": "color"
-          }
-        }
-      },
-      "radiobutton": {
-        "width": {
-          "value": "20",
-          "description": "Breedte van standaard radio button",
-          "type": "sizing"
-        },
-        "default": {
-          "background-color": {
-            "value": "$utrecht.color.grey.grey-30",
-            "description": "Achtergrond van standaard radio button",
-            "type": "color"
-          }
-        },
-        "checked": {
-          "background-color": {
-            "value": "$utrecht.color.blue.blue-35",
-            "description": "Achtergrond van selected radio button",
-            "type": "color"
-          }
-        },
-        "hover": {
-          "background-color": {
-            "value": "$utrecht.color.blue.blue-35",
-            "description": "Radio button in hover staat",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "background-color": {
-            "value": "$utrecht.color.grey.grey-80",
-            "description": "Radio button in disabled staat",
-            "type": "color"
-          }
-        },
-        "error": {
-          "background-color": {
-            "value": "$utrecht.color.red.red-30",
-            "description": "Radio button in foutieve staat",
-            "type": "color"
-          }
-        }
-      },
-      "link": {
-        "color": {
-          "value": "$utrecht.color.blue.blue-35",
-          "description": "Link kleur",
-          "type": "color"
-        },
-        "hover": {
           "color": {
-            "value": "$utrecht.color.blue.blue-40",
-            "description": "Link hover kleur",
+            "value": "$utrecht.color.red.red-30",
+            "description": "Feedback rode kleur",
             "type": "color"
           }
+        },
+        "border-radius": {
+          "value": "{utrecht.common.border-radius.border-radius-none}",
+          "type": "borderRadius"
+        },
+        "border-width": {
+          "value": "$utrecht.common.border-width.border-width-sm",
+          "type": "borderWidth"
+        }
+      }
+    },
+    "form-input": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Tekstinvoer van formulierelementen"
+      }
+    },
+    "form-placeholder": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Placeholder tekst van formulierelementen"
+      },
+      "color": {
+        "value": "$utrecht.color.grey.grey-80",
+        "description": "Kleur van placeholder tekst",
+        "type": "color"
+      }
+    },
+    "form-helpertext": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-sm",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Placeholder tekst van formulierelementen"
+      },
+      "default": {
+        "value": "$utrecht.color.basis.black",
+        "description": "Kleur van placeholder tekst",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "$utrecht.color.grey.grey-80",
+        "description": "Kleur van placeholder tekst",
+        "type": "color"
+      }
+    },
+    "form-toggle": {
+      "height": {
+        "value": "24",
+        "description": "Hoogte van toggle",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "48",
+        "description": "Breedte van toggle",
+        "type": "sizing"
+      },
+      "default": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-30",
+          "description": "Achtergrond van standaard toggle",
+          "type": "color"
         }
       },
-      "icon": {
+      "checked": {
+        "background-color": {
+          "value": "{utrecht.color.green.green-40}",
+          "description": "Achtergrond van selected toggle",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "$utrecht.color.blue.blue-35",
+          "description": "toggle in hover staat",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-80",
+          "description": "toggle in disabled staat",
+          "type": "color"
+        }
+      },
+      "error": {
         "background-color": {
           "value": "$utrecht.color.red.red-30",
-          "description": "Achtergrondkleur secondary button",
+          "description": "toggle in foutieve staat",
           "type": "color"
+        }
+      }
+    },
+    "heading-1": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
+          "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-3xl",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
         },
-        "color": {
-          "value": "$utrecht.color.basis.white",
-          "description": "Tekst kleur secondary button",
+        "description": "Layout voor header-1 H1 token"
+      }
+    },
+    "heading-2": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
+          "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Layout voor header-2 H2 token"
+      }
+    },
+    "heading-3": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Layout voor header-3 H3 token"
+      }
+    },
+    "heading-4": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-lg",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Layout voor header-4 H4 token"
+      }
+    },
+    "heading-5": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-sm",
+          "paragraphSpacing": "0"
+        },
+        "description": "Layout voor header-5 H5 token"
+      }
+    },
+    "heading-6": {
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-sm",
+          "paragraphSpacing": "0"
+        },
+        "description": "Layout voor header-6 H6 token"
+      }
+    },
+    "form-label": {
+      "default": {
+        "value": "$utrecht.color.basis.black",
+        "description": "Kleur van de formulier labels",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "$utrecht.color.grey.grey-80",
+        "description": "Kleur van disabled formulier elementen labels",
+        "type": "color"
+      },
+      "font": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "$utrecht.document.font-family",
+          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
+          "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
+          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
+          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
+          "paragraphSpacing": "0"
+        },
+        "description": "Tekstlabel van formulierelementen"
+      },
+      "hover": {
+        "value": "{utrecht.color.blue.blue-35}",
+        "description": "Kleur van disabled formulier elementen labels",
+        "type": "color"
+      },
+      "invalid": {
+        "value": "{utrecht.color.red.red-30}",
+        "description": "Kleur van disabled formulier elementen labels",
+        "type": "color"
+      }
+    },
+    "checkbox": {
+      "default": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-30",
+          "description": "Achtergrond van standaard checkbox",
           "type": "color"
         }
       },
-      "accordion": {
-        "color": {
+      "checked": {
+        "background-color": {
           "value": "$utrecht.color.blue.blue-35",
-          "description": "Tekst kleur accordion",
+          "description": "Achtergrond van selected checkbox",
+          "type": "color"
+        },
+        "forgeground-color": {
+          "value": "{utrecht.color.basis.white}",
+          "description": "Achtergrond van selected checkbox",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "$utrecht.color.blue.blue-35",
+          "description": "Checkbox in hover staat",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-80",
+          "description": "Checkbox in disabled staat",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background-color": {
+          "value": "$utrecht.color.red.red-30",
+          "description": "Checkbox in foutieve staat",
+          "type": "color"
+        }
+      }
+    },
+    "radiobutton": {
+      "width": {
+        "value": "20",
+        "description": "Breedte van standaard radio button",
+        "type": "sizing"
+      },
+      "default": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-30",
+          "description": "Achtergrond van standaard radio button",
+          "type": "color"
+        }
+      },
+      "checked": {
+        "background-color": {
+          "value": "$utrecht.color.blue.blue-35",
+          "description": "Achtergrond van selected radio button",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "$utrecht.color.blue.blue-35",
+          "description": "Radio button in hover staat",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "$utrecht.color.grey.grey-80",
+          "description": "Radio button in disabled staat",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background-color": {
+          "value": "$utrecht.color.red.red-30",
+          "description": "Radio button in foutieve staat",
+          "type": "color"
+        }
+      }
+    },
+    "link": {
+      "color": {
+        "value": "$utrecht.color.blue.blue-35",
+        "description": "Link kleur",
+        "type": "color"
+      },
+      "hover": {
+        "color": {
+          "value": "$utrecht.color.blue.blue-40",
+          "description": "Link hover kleur",
+          "type": "color"
+        }
+      }
+    },
+    "icon": {
+      "background-color": {
+        "value": "$utrecht.color.red.red-30",
+        "description": "Achtergrondkleur secondary button",
+        "type": "color"
+      },
+      "color": {
+        "value": "$utrecht.color.basis.white",
+        "description": "Tekst kleur secondary button",
+        "type": "color"
+      }
+    },
+    "accordion": {
+      "color": {
+        "value": "$utrecht.color.blue.blue-35",
+        "description": "Tekst kleur accordion",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "$utrecht.color.blue.blue-90",
+        "description": "Achtergrondkleur accordion",
+        "type": "color"
+      },
+      "disabled": {
+        "color": {
+          "value": "$utrecht.color.basis.white",
+          "description": "Tekst kleur accordion bij disabled",
           "type": "color"
         },
         "background-color": {
-          "value": "$utrecht.color.blue.blue-90",
-          "description": "Achtergrondkleur accordion",
+          "value": "$utrecht.form-input.disabled.color",
+          "description": "Achtergrond kleur disabled accordion",
           "type": "color"
-        },
-        "disabled": {
-          "color": {
-            "value": "$utrecht.color.basis.white",
-            "description": "Tekst kleur accordion bij disabled",
-            "type": "color"
-          },
-          "background-color": {
-            "value": "$utrecht.form-input.disabled.color",
-            "description": "Achtergrond kleur disabled accordion",
-            "type": "color"
-          }
-        },
-        "hover": {
-          "background-color": {
-            "value": "$utrecht.color.blue.blue-80",
-            "description": "Achtergrondkleur hover accordion",
-            "type": "color"
-          }
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "$utrecht.color.blue.blue-80",
+          "description": "Achtergrondkleur hover accordion",
+          "type": "color"
         }
       }
     }
