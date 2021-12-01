@@ -21,22 +21,20 @@
           "value": "150%",
           "description": "line height factor 1,5 / 150% ",
           "type": "lineHeights"
-        }
-      },
-      "letterSpacings": {
-        "letterSpacing-size-sm": {
-          "value": "0.72px",
-          "description": "letterspacing van 0,72px",
+        },
+        "letter-spacing-sm": {
+          "value": "0.8px",
+          "description": "letter spacing van 0,8px",
           "type": "letterSpacing"
         },
-        "letterSpacing-size-md": {
-          "value": "0px",
-          "description": "letterspacing 0px",
+        "letter-spacing-md": {
+          "value": "1px",
+          "description": "letterspacing 1px",
           "type": "letterSpacing"
         },
-        "letterSpacing-size-lg": {
-          "value": "2px",
-          "description": "letterspacing van 2px",
+        "letter-spacing-lg": {
+          "value": "3px",
+          "description": "letterspacing van 3px",
           "type": "letterSpacing"
         }
       },
