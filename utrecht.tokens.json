@@ -39,7 +39,7 @@
         }
       },
       "color": {
-        "basis": {
+        "neutral": {
           "black": {
             "value": "hsl(0, 0%, 0%)",
             "description": "basis zwart",
