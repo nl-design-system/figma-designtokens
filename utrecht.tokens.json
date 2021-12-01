@@ -2,59 +2,25 @@
   "utrecht": {
     "utrecht": {
       "typography": {
-        "fontFamilies": {
-          "sans-serif": {
-            "value": "Lucida Grande",
-            "type": "fontFamilies"
-          }
+        "line-height-tight": {
+          "value": "100%",
+          "description": "line height factor 1 / 100% ",
+          "type": "lineHeights"
         },
-        "fontSizes": {
-          "font-size-2xs": {
-            "value": "8",
-            "type": "fontSizes"
-          },
-          "font-size-xs": {
-            "value": "11",
-            "type": "fontSizes"
-          },
-          "font-size-sm": {
-            "value": "14",
-            "type": "fontSizes"
-          },
-          "font-size-md": {
-            "value": "16",
-            "type": "fontSizes"
-          },
-          "font-size-lg": {
-            "value": "18",
-            "type": "fontSizes"
-          },
-          "font-size-xl": {
-            "value": "20",
-            "type": "fontSizes"
-          },
-          "font-size-2xl": {
-            "value": "22",
-            "type": "fontSizes"
-          },
-          "font-size-3xl": {
-            "value": "24",
-            "type": "fontSizes"
-          },
-          "font-size-4xl": {
-            "value": "32",
-            "type": "fontSizes"
-          }
+        "line-height-normal": {
+          "value": "120%",
+          "description": "line height factor 1,2 / 120% ",
+          "type": "lineHeights"
         },
-        "fontWeights": {
-          "font-weight-regular": {
-            "value": "Regular",
-            "type": "fontWeights"
-          },
-          "font-weight-bold": {
-            "value": "Bold",
-            "type": "fontWeights"
-          }
+        "line-height-loose": {
+          "value": "140%",
+          "description": "line height factor 1,4 / 140% ",
+          "type": "lineHeights"
+        },
+        "line-height-looser": {
+          "value": "150%",
+          "description": "line height factor 1,5 / 150% ",
+          "type": "lineHeights"
         }
       },
       "letterSpacings": {
@@ -72,30 +38,6 @@
           "value": "2px",
           "description": "letterspacing van 2px",
           "type": "letterSpacing"
-        }
-      },
-      "lineHeights": {
-        "linehight-size-tighter": {
-          "value": "100%",
-          "description": "linehHeight factor 1 / 100% ",
-          "type": "lineHeights"
-        },
-        "lineHeights": {
-          "lineheight-size-tight": {
-            "value": "130%",
-            "description": "lineheight factor 1,3 / 130% ",
-            "type": "lineHeights"
-          },
-          "lineheight-size-normal": {
-            "value": "140%",
-            "description": "lineheight factor 1,4 / 140% ",
-            "type": "lineHeights"
-          },
-          "lineheight-size-loose": {
-            "value": "150%",
-            "description": "lineheight factor 1,5 / 150% ",
-            "type": "lineHeights"
-          }
         }
       },
       "color": {
