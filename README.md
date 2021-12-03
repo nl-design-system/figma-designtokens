@@ -2,4 +2,4 @@
 
 This repository is to test syncing of design tokens from the Figma Tokens plugin.
 
-This will eventually replace the current syncing method via JSONBin.
+This has replaced the previous syncing method via JSONBin.
