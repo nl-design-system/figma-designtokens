@@ -2,25 +2,27 @@
   "utrecht": {
     "utrecht": {
       "typography": {
-        "line-height-xs": {
-          "value": "100%",
-          "description": "line height factor 1 / 100%, thight",
-          "type": "lineHeights"
-        },
-        "line-height-sm": {
-          "value": "125%",
-          "description": "line height factor 1,22 / 125%, close to normal",
-          "type": "lineHeights"
-        },
-        "line-height-md": {
-          "value": "150%",
-          "description": "line height factor 1,5 / 150%, Default paragraph line-height",
-          "type": "lineHeights"
-        },
-        "line-height-lg": {
-          "value": "200%",
-          "description": "line height factor 2 / 200%, looser",
-          "type": "lineHeights"
+        "line-height": {
+          "xs": {
+            "value": "100%",
+            "description": "line height factor 1 / 100%, thight",
+            "type": "lineHeights"
+          },
+          "sm": {
+            "value": "125%",
+            "description": "line height factor 1,22 / 125%, close to normal",
+            "type": "lineHeights"
+          },
+          "md": {
+            "value": "150%",
+            "description": "line height factor 1,5 / 150%, Default paragraph line-height",
+            "type": "lineHeights"
+          },
+          "lg": {
+            "value": "200%",
+            "description": "line height factor 2 / 200%, looser",
+            "type": "lineHeights"
+          }
         },
         "letter-spacing-sm": {
           "value": "0.8px",
