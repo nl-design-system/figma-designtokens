@@ -431,6 +431,18 @@
           "value": "$utrecht.common.border-width.border-width-sm",
           "type": "borderWidth"
         }
+      },
+      "weight-scale": {
+        "normal": {
+          "value": "Normal",
+          "description": "Standaard font",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "Bold",
+          "description": "Vetgedrukt",
+          "type": "fontWeights"
+        }
       }
     },
     "form-input": {
