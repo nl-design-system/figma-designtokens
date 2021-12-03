@@ -203,7 +203,7 @@
         "type": "fontFamilies"
       },
       "heading-font-family": {
-        "value": " RijksoverheidSansHeading",
+        "value": "RijksoverheidSansHeading",
         "description": "Kopteksten",
         "type": "fontFamilies"
       },
