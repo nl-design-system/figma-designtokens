@@ -45,12 +45,12 @@
         },
         "weight-scale": {
           "normal": {
-            "value": "Normal",
+            "value": "Regular",
             "description": "Standaard font",
             "type": "fontWeights"
           },
           "bold": {
-            "value": "Bold",
+            "value": "bold",
             "description": "Vetgedrukt",
             "type": "fontWeights"
           }
