@@ -229,7 +229,8 @@
         "textDecoration": "none",
         "textCase": "none"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "H1"
     }
   }
 }
