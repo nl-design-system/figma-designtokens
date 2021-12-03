@@ -36,6 +36,71 @@
           "value": "3px",
           "description": "letterspacing van 3px",
           "type": "letterSpacing"
+        },
+        "document": {
+          "font-family": {
+            "value": "Lucida Grande",
+            "type": "fontFamilies"
+          }
+        },
+        "weight-scale": {
+          "normal": {
+            "value": "Normal",
+            "description": "Standaard font",
+            "type": "fontWeights"
+          },
+          "bold": {
+            "value": "Bold",
+            "description": "Vetgedrukt",
+            "type": "fontWeights"
+          }
+        },
+        "scale": {
+          "2xs": {
+            "value": "8px",
+            "description": "Extra Extra Small font size",
+            "type": "fontSizes"
+          },
+          "xs": {
+            "value": "11.2px",
+            "description": "Extra Small font size",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "14.4px",
+            "description": "Small font size",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "16px",
+            "description": "Medium font size",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "18px",
+            "description": "Large font size",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "22px",
+            "description": "Extra Large font size",
+            "type": "fontSizes"
+          },
+          "2xl": {
+            "value": "22px",
+            "description": "Extra Extra Large font size",
+            "type": "fontSizes"
+          },
+          "3xl": {
+            "value": "24px",
+            "description": "Extra Extra Extra Large font size",
+            "type": "fontSizes"
+          },
+          "4xl": {
+            "value": "32px",
+            "description": "Extra Extra Extra Extra Large font size",
+            "type": "fontSizes"
+          }
         }
       },
       "color": {
@@ -383,12 +448,6 @@
           }
         }
       },
-      "document": {
-        "font-family": {
-          "value": "Lucida Grande",
-          "type": "fontFamilies"
-        }
-      },
       "form-input": {
         "default": {
           "value": "$utrecht.color.neutral.black",
@@ -431,25 +490,13 @@
           "value": "$utrecht.common.border-width.border-width-sm",
           "type": "borderWidth"
         }
-      },
-      "weight-scale": {
-        "normal": {
-          "value": "Normal",
-          "description": "Standaard font",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "Bold",
-          "description": "Vetgedrukt",
-          "type": "fontWeights"
-        }
       }
     },
     "form-input": {
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
           "fontSize": "$utrecht.typography.fontSizes.font-size-md",
@@ -463,7 +510,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
           "fontSize": "$utrecht.typography.fontSizes.font-size-md",
@@ -482,7 +529,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
           "fontSize": "$utrecht.typography.fontSizes.font-size-sm",
@@ -553,7 +600,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
           "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
           "fontSize": "$utrecht.typography.fontSizes.font-size-3xl",
@@ -567,7 +614,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
           "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
           "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
@@ -581,7 +628,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
           "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
@@ -595,7 +642,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
           "fontSize": "$utrecht.typography.fontSizes.font-size-lg",
@@ -609,7 +656,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
           "fontSize": "$utrecht.typography.fontSizes.font-size-md",
@@ -623,7 +670,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
           "fontSize": "$utrecht.typography.fontSizes.font-size-md",
@@ -647,7 +694,7 @@
       "font": {
         "type": "typography",
         "value": {
-          "fontFamily": "$utrecht.document.font-family",
+          "fontFamily": "{utrecht.typography.document.font-family}",
           "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
           "lineHeight": "$utrecht.lineHeights.lineHeights.lineheight-size-loose",
           "fontSize": "$utrecht.typography.fontSizes.font-size-md",
