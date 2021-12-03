@@ -62,12 +62,12 @@
             "type": "fontSizes"
           },
           "xs": {
-            "value": "11.2px",
+            "value": "12px",
             "description": "Extra Small font size",
             "type": "fontSizes"
           },
           "sm": {
-            "value": "14.4px",
+            "value": "14px",
             "description": "Small font size",
             "type": "fontSizes"
           },
@@ -507,9 +507,9 @@
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.bold",
-          "lineHeight": "$utrecht.typography.line-height-sm",
+          "lineHeight": "$utrecht.typography.line-height.sm",
           "fontSize": "$utrecht.typography.scale.3xl",
-          "letterSpacing": "$utrecht.typography.letter-spacing-normal",
+          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
           "paragraphSpacing": "0",
           "textDecoration": "none",
           "textCase": "none"
@@ -521,9 +521,9 @@
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.bold",
-          "lineHeight": "$utrecht.typography.line-height-sm",
+          "lineHeight": "$utrecht.typography.line-height.sm",
           "fontSize": "$utrecht.typography.scale.xl",
-          "letterSpacing": "$utrecht.typography.letter-spacing-normal",
+          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
           "paragraphSpacing": "0",
           "textDecoration": "none",
           "textCase": "none"
@@ -535,9 +535,9 @@
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.normal",
-          "lineHeight": "$utrecht.typography.line-height-sm",
+          "lineHeight": "$utrecht.typography.line-height.sm",
           "fontSize": "$utrecht.typography.scale.xl",
-          "letterSpacing": "$utrecht.typography.letter-spacing-normal",
+          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
           "paragraphSpacing": "0",
           "textDecoration": "none",
           "textCase": "none"
@@ -549,9 +549,9 @@
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.normal",
-          "lineHeight": "$utrecht.typography.line-height-md",
+          "lineHeight": "$utrecht.typography.line-height.md",
           "fontSize": "$utrecht.typography.scale.lg",
-          "letterSpacing": "$utrecht.typography.letter-spacing-normal",
+          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
           "paragraphSpacing": "0",
           "textDecoration": "none",
           "textCase": "none"
