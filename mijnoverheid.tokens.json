@@ -100,37 +100,55 @@
             "type": "color"
           }
         },
-        "Body": {
-          "font-size-regular": {
-            "value": "16",
-            "type": "fontSizes"
-          }
+        "font-size-regular": {
+          "value": "16",
+          "type": "fontSizes"
         },
-        "Headers": {
-          "font-size-h1": {
-            "value": "$MijnOverheid.brand-tokens.Body.font-size-regular * 2",
-            "type": "fontSizes"
-          },
-          "font-size-h2": {
-            "value": "$MijnOverheid.brand-tokens.Body.font-size-regular * 1.625",
-            "type": "fontSizes"
-          },
-          "font-size-h3": {
-            "value": "$MijnOverheid.brand-tokens.Body.font-size-regular * 1.5",
-            "type": "fontSizes"
-          },
-          "font-size-h4": {
-            "value": "$MijnOverheid.brand-tokens.Body.font-size-regular * 1.25",
-            "type": "fontSizes"
-          },
-          "font-size-h5": {
-            "value": "$MijnOverheid.brand-tokens.Body.font-size-regular * 1.125",
-            "type": "fontSizes"
-          },
-          "font-size-h6": {
-            "value": "$MijnOverheid.brand-tokens.Body.font-size-regular",
-            "type": "fontSizes"
-          }
+        "font-size-3xl": {
+          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 2",
+          "description": "Extra extra extra large font size",
+          "type": "fontSizes"
+        },
+        "font-size-xxl": {
+          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.625",
+          "description": "Extra extra large font size",
+          "type": "fontSizes"
+        },
+        "font-size-xl": {
+          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.5",
+          "description": "Extra large font size",
+          "type": "fontSizes"
+        },
+        "font-size-l": {
+          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.25",
+          "description": "Large font size",
+          "type": "fontSizes"
+        },
+        "font-size-md": {
+          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.125",
+          "description": "Medium font size",
+          "type": "fontSizes"
+        },
+        "line-height-sm": {
+          "value": "20",
+          "description": "",
+          "type": "lineHeights"
+        },
+        "line-height-md": {
+          "value": "22",
+          "type": "lineHeights"
+        },
+        "line-height-l": {
+          "value": "24",
+          "type": "lineHeights"
+        },
+        "line-height-xl": {
+          "value": "32",
+          "type": "lineHeights"
+        },
+        "line-height-xxl": {
+          "value": "40",
+          "type": "lineHeights"
         }
       },
       "common-tokens": {
@@ -199,6 +217,19 @@
         "type": "fontWeights",
         "description": "Vet lettergewicht"
       }
+    },
+    "H1": {
+      "value": {
+        "fontFamily": "$MijnOverheid.heading-font-family",
+        "fontWeight": "$MijnOverheid.font-weight-bold",
+        "lineHeight": "$MijnOverheid.brand-tokens.line-height-xxl",
+        "fontSize": "$MijnOverheid.brand-tokens.font-size-3xl",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography"
     }
   }
 }
