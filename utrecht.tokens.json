@@ -586,6 +586,34 @@
         },
         "description": "Header h6 layout",
         "type": "typography"
+      },
+      "paragraph": {
+        "value": {
+          "fontFamily": "$utrecht.typography.sans-serif.font-family",
+          "fontWeight": "$utrecht.typography.weight-scale.normal",
+          "lineHeight": "$utrecht.typography.line-height.md",
+          "fontSize": "$utrecht.typography.scale.md",
+          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Paragraph layout",
+        "type": "typography"
+      },
+      "paragraph-lead": {
+        "value": {
+          "fontFamily": "$utrecht.typography.sans-serif.font-family",
+          "fontWeight": "$utrecht.typography.weight-scale.normal",
+          "lineHeight": "$utrecht.typography.line-height.md",
+          "fontSize": "$utrecht.typography.scale.lg",
+          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "description": "Paragraph layout",
+        "type": "typography"
       }
     },
     "form-input": {
@@ -690,90 +718,6 @@
           "description": "toggle in foutieve staat",
           "type": "color"
         }
-      }
-    },
-    "heading-1": {
-      "font": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{utrecht.typography.sans-serif.font-family}",
-          "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
-          "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
-          "fontSize": "$utrecht.typography.fontSizes.font-size-3xl",
-          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-          "paragraphSpacing": "0"
-        },
-        "description": "Layout voor header-1 H1 token"
-      }
-    },
-    "heading-2": {
-      "font": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{utrecht.typography.sans-serif.font-family}",
-          "fontWeight": "$utrecht.typography.fontWeights.font-weight-bold",
-          "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
-          "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
-          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-          "paragraphSpacing": "0"
-        },
-        "description": "Layout voor header-2 H2 token"
-      }
-    },
-    "heading-3": {
-      "font": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{utrecht.typography.sans-serif.font-family}",
-          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-          "lineHeight": "$utrecht.lineHeights.lineheight-size-tight",
-          "fontSize": "$utrecht.typography.fontSizes.font-size-xl",
-          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-          "paragraphSpacing": "0"
-        },
-        "description": "Layout voor header-3 H3 token"
-      }
-    },
-    "heading-4": {
-      "font": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{utrecht.typography.sans-serif.font-family}",
-          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-          "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
-          "fontSize": "$utrecht.typography.fontSizes.font-size-lg",
-          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-md",
-          "paragraphSpacing": "0"
-        },
-        "description": "Layout voor header-4 H4 token"
-      }
-    },
-    "heading-5": {
-      "font": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{utrecht.typography.sans-serif.font-family}",
-          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-          "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
-          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
-          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-sm",
-          "paragraphSpacing": "0"
-        },
-        "description": "Layout voor header-5 H5 token"
-      }
-    },
-    "heading-6": {
-      "font": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{utrecht.typography.sans-serif.font-family}",
-          "fontWeight": "$utrecht.typography.fontWeights.font-weight-regular",
-          "lineHeight": "$utrecht.lineHeights.lineheight-size-normal",
-          "fontSize": "$utrecht.typography.fontSizes.font-size-md",
-          "letterSpacing": "$utrecht.letterSpacings.letterSpacing-size-sm",
-          "paragraphSpacing": "0"
-        },
-        "description": "Layout voor header-6 H6 token"
       }
     },
     "form-label": {
