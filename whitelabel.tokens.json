@@ -224,7 +224,7 @@
         },
         "type": "typography"
       },
-      "backlink": {
+      "paragraph": {
         "value": {
           "fontFamily": "$fontFamilies.document-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
@@ -252,6 +252,32 @@
         "value": {
           "fontFamily": "$fontFamilies.document-font-family",
           "fontWeight": "$fontWeights.font-weight-bold",
+          "lineHeight": "$lineHeights.line-height-loose",
+          "fontSize": "$fontSizes.font-size-sm",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textDecoration": "none",
+          "textCase": "normal"
+        },
+        "type": "typography"
+      },
+      "backlink": {
+        "value": {
+          "fontFamily": "$fontFamilies.document-font-family",
+          "fontWeight": "$fontWeights.font-weight-regular",
+          "lineHeight": "$lineHeights.line-height-loose",
+          "fontSize": "$fontSizes.font-size-md",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textDecoration": "none",
+          "textCase": "normal"
+        },
+        "type": "typography"
+      },
+      "breadcrumb": {
+        "value": {
+          "fontFamily": "$fontFamilies.document-font-family",
+          "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-sm",
           "letterSpacing": "$letterSpacing.0",
