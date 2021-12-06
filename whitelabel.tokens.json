@@ -312,19 +312,6 @@
           "textCase": "normal"
         },
         "type": "typography"
-      },
-      "form-error-text": {
-        "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
-          "fontWeight": "$fontWeights.font-weight-regular",
-          "lineHeight": "$lineHeights.line-height-loose",
-          "fontSize": "$fontSizes.font-size-sm",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textDecoration": "none",
-          "textCase": "normal"
-        },
-        "type": "typography"
       }
     },
     "colors": {
