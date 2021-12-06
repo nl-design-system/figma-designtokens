@@ -2,7 +2,7 @@
   "white-label": {
     "fontFamilies": {
       "document-font-family": {
-        "value": "Arial",
+        "value": "Fira Sans",
         "type": "fontFamilies"
       }
     },
@@ -76,7 +76,7 @@
     },
     "paragraphSpacing": {
       "0": {
-        "value": 0,
+        "value": "0",
         "type": "paragraphSpacing"
       }
     },
@@ -243,6 +243,19 @@
           "fontSize": "$fontSizes.font-size-lg",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0"
+        },
+        "type": "typography"
+      },
+      "badge": {
+        "value": {
+          "fontFamily": "$fontFamilies.document-font-family",
+          "fontWeight": "$fontWeights.font-weight-regular",
+          "lineHeight": "$lineHeights.line-height-loose",
+          "fontSize": "$fontSizes.font-size-sm",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textDecoration": "none",
+          "textCase": "normal"
         },
         "type": "typography"
       }
