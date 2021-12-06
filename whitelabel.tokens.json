@@ -286,6 +286,19 @@
           "textCase": "normal"
         },
         "type": "typography"
+      },
+      "button": {
+        "value": {
+          "fontFamily": "$fontFamilies.document-font-family",
+          "fontWeight": "$fontWeights.font-weight-regular",
+          "lineHeight": "$lineHeights.line-height-loose",
+          "fontSize": "$fontSizes.font-size-md",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textDecoration": "none",
+          "textCase": "normal"
+        },
+        "type": "typography"
       }
     },
     "colors": {
