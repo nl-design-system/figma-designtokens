@@ -52,7 +52,7 @@
             "type": "fontWeights"
           },
           "bold": {
-            "value": "bold",
+            "value": "Bold",
             "description": "Vetgedrukt",
             "type": "fontWeights"
           }
