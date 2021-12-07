@@ -616,6 +616,20 @@
         },
         "description": "Paragraph layout",
         "type": "typography"
+      },
+      "paragraph-link": {
+        "value": {
+          "fontFamily": "$utrecht.typography.sans-serif.font-family",
+          "fontWeight": "$utrecht.typography.weight-scale.normal",
+          "lineHeight": "$utrecht.typography.line-height.md",
+          "fontSize": "$utrecht.typography.scale.md",
+          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
+          "paragraphSpacing": "0",
+          "textDecoration": "Underline",
+          "textCase": "none"
+        },
+        "description": "Link in a paragraph styling",
+        "type": "typography"
       }
     },
     "form-input": {
