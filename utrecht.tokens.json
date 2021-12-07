@@ -505,7 +505,7 @@
           "type": "borderWidth"
         }
       },
-      "header-1": {
+      "heading-1": {
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.bold",
@@ -519,7 +519,7 @@
         "description": "Header h1 layout",
         "type": "typography"
       },
-      "header-2": {
+      "heading-2": {
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.bold",
@@ -533,7 +533,7 @@
         "description": "Header h2 layout",
         "type": "typography"
       },
-      "header-3": {
+      "heading-3": {
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.normal",
@@ -547,7 +547,7 @@
         "description": "Header h3 layout",
         "type": "typography"
       },
-      "header-4": {
+      "heading-4": {
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.normal",
@@ -561,7 +561,7 @@
         "description": "Header h4 layout",
         "type": "typography"
       },
-      "header-5": {
+      "heading-5": {
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.normal",
@@ -575,7 +575,7 @@
         "description": "Header h5 layout",
         "type": "typography"
       },
-      "header-6": {
+      "heading-6": {
         "value": {
           "fontFamily": "$utrecht.typography.sans-serif.font-family",
           "fontWeight": "$utrecht.typography.weight-scale.normal",
