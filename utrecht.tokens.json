@@ -105,7 +105,7 @@
           }
         },
         "letter-spacing-normal": {
-          "value": "normal",
+          "value": "0",
           "description": "letter spacing normal",
           "type": "letterSpacing"
         },
@@ -114,6 +114,12 @@
             "value": "uppercase",
             "description": "UPPERCASE",
             "type": "textCase"
+          }
+        },
+        "text-decoration": {
+          "underline": {
+            "value": "underline",
+            "type": "textDecoration"
           }
         }
       },
@@ -623,10 +629,10 @@
           "fontWeight": "$utrecht.typography.weight-scale.normal",
           "lineHeight": "$utrecht.typography.line-height.md",
           "fontSize": "$utrecht.typography.scale.md",
-          "letterSpacing": "$utrecht.typography.letter-spacing.normal",
+          "letterSpacing": "$utrecht.typography.letter-spacing-normal",
           "paragraphSpacing": "0",
-          "textDecoration": "Underline",
-          "textCase": "none"
+          "textDecoration": "$utrecht.typography.text-decoration.underline",
+          "textCase": "normal"
         },
         "description": "Link in a paragraph styling",
         "type": "typography"
