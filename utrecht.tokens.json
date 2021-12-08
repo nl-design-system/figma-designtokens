@@ -606,7 +606,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "Paragraph layout",
+        "description": "Paragraaf tekst",
         "type": "typography"
       },
       "paragraph-lead": {
@@ -620,7 +620,7 @@
           "textDecoration": "none",
           "textCase": "none"
         },
-        "description": "Paragraph layout",
+        "description": "Intro paragraaf tekst",
         "type": "typography"
       },
       "paragraph-link": {
@@ -634,7 +634,7 @@
           "textDecoration": "$utrecht.typography.text-decoration.underline",
           "textCase": "normal"
         },
-        "description": "Link in a paragraph styling",
+        "description": "Link in paragraaf tekst",
         "type": "typography"
       }
     },
