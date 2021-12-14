@@ -106,7 +106,7 @@
         },
         "letter-spacing-normal": {
           "value": "0",
-          "description": "letter spacing normal",
+          "description": "letter spacing normal. Geen extra ruimte tussen de letters.",
           "type": "letterSpacing"
         },
         "text-transform": {
