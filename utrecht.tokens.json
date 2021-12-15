@@ -25,17 +25,17 @@
           }
         },
         "letter-spacing-sm": {
-          "value": "0.8px",
+          "value": "0.8 px",
           "description": "letter spacing van 0,8px",
           "type": "letterSpacing"
         },
         "letter-spacing-md": {
-          "value": "1px",
+          "value": "1 px",
           "description": "letterspacing 1px",
           "type": "letterSpacing"
         },
         "letter-spacing-lg": {
-          "value": "3px",
+          "value": "3 px",
           "description": "letterspacing van 3px",
           "type": "letterSpacing"
         },
@@ -590,7 +590,7 @@
           "letterSpacing": "$utrecht.typography.letter-spacing.sm",
           "paragraphSpacing": "0",
           "textDecoration": "none",
-          "textCase": "$utrecht.typography.text-transform.uppercase"
+          "textCase": "utrecht.typography.text-transform.uppercase"
         },
         "description": "Header h6 layout",
         "type": "typography"
