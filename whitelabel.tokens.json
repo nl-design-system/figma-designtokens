@@ -341,74 +341,84 @@
       }
     },
     "colors": {
-      "color-black": {
-        "value": "hsl(0, 0, 11)",
-        "description": "",
-        "type": "color"
+      "brand-tokens": {
+        "color-black": {
+          "value": "#1c1c1c",
+          "description": "",
+          "type": "color"
+        },
+        "color-grey-6": {
+          "value": "#3f3f3f",
+          "type": "color"
+        },
+        "color-grey-5": {
+          "value": "#646464",
+          "type": "color"
+        },
+        "color-grey-4": {
+          "value": "#888888",
+          "type": "color"
+        },
+        "color-grey-3": {
+          "value": "#acacac",
+          "type": "color"
+        },
+        "color-grey-2": {
+          "value": "#d1d1d1",
+          "type": "color"
+        },
+        "color-grey-1": {
+          "value": "#f5f5f5",
+          "type": "color"
+        },
+        "color-white": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "color-feedback-info": {
+          "value": "#1e90ff",
+          "type": "color"
+        },
+        "color-feedback-succes": {
+          "value": "#008000",
+          "type": "color"
+        },
+        "color-feedback-warning": {
+          "value": "#ffa500",
+          "type": "color"
+        },
+        "color-feedback-error": {
+          "value": "#dc143c",
+          "type": "color"
+        },
+        "link-color": {
+          "value": "#0000cd",
+          "type": "color"
+        },
+        "link-visited-color": {
+          "value": "#800080",
+          "type": "color"
+        }
       },
-      "color-grey-5": {
-        "value": "#646464",
-        "type": "color"
+      "common-tokens": {
+        "text-color": {
+          "value": "{colors.brand-tokens.color-black}",
+          "type": "color"
+        }
       },
-      "color-grey-6": {
-        "value": "#3f3f3f",
-        "type": "color"
-      },
-      "color-grey-4": {
-        "value": "#888888",
-        "type": "color"
-      },
-      "color-grey-3": {
-        "value": "#acacac",
-        "type": "color"
-      },
-      "color-grey-2": {
-        "value": "#d1d1d1",
-        "type": "color"
-      },
-      "color-grey-1": {
-        "value": "#f5f5f5",
-        "type": "color"
-      },
-      "color-white": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "color-feedback-info": {
-        "value": "#1e90ff",
-        "type": "color"
-      },
-      "color-feedback-succes": {
-        "value": "#008000",
-        "type": "color"
-      },
-      "color-feedback-warning": {
-        "value": "#ffa500",
-        "type": "color"
-      },
-      "color-feedback-error": {
-        "value": "#dc143c",
-        "type": "color"
-      },
-      "heading-color": {
-        "value": "$colors.color-black",
-        "type": "color"
-      },
-      "link-color": {
-        "value": "#0000cd",
-        "type": "color"
-      },
-      "link-visited-color": {
-        "value": "#800080",
-        "type": "color"
-      },
-      "form-input-border-color": {
-        "value": "$colors.color-grey-5",
-        "type": "color"
-      },
-      "form-helpertext-color": {
-        "value": "$colors.color-grey-6",
-        "type": "color"
+      "component-tokens": {
+        "heading-color": {
+          "value": "{colors.common-tokens.text-color}",
+          "type": "color"
+        },
+        "form-input-border-color": {
+          "value": "{colors.brand-tokens.color-grey-5}",
+          "type": "color"
+        },
+        "form-helpertext-color": {
+          "value": "{colors.brand-tokens.color-grey-6}",
+          "type": "color"
+        }
       }
     },
     "borderRadius": {
