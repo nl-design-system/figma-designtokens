@@ -675,6 +675,16 @@
     "status-step-border-width": {
       "value": "{borderWidth.border-width-2}",
       "type": "borderWidth"
+    },
+    "component": {
+      "status-step-margin-inline-end": {
+        "value": "{spacing.spacing-16}",
+        "type": "spacing"
+      },
+      "status-text-margin-block-end": {
+        "value": "{spacing.spacing-4}",
+        "type": "spacing"
+      }
     }
   }
 }
