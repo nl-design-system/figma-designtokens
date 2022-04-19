@@ -313,70 +313,72 @@
         },
         "type": "typography"
       },
-      "status-label-main": {
-        "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
-          "fontWeight": "$fontWeights.font-weight-bold",
-          "lineHeight": "$lineHeights.line-height-loose",
-          "fontSize": "$fontSizes.font-size-md",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textDecoration": "none",
-          "textCase": "normal"
+      "status": {
+        "status-label-main": {
+          "value": {
+            "fontFamily": "$fontFamilies.document-font-family",
+            "fontWeight": "$fontWeights.font-weight-bold",
+            "lineHeight": "$lineHeights.line-height-loose",
+            "fontSize": "$fontSizes.font-size-md",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textDecoration": "none",
+            "textCase": "normal"
+          },
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "status-label-sub": {
-        "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
-          "fontWeight": "$fontWeights.font-weight-regular",
-          "lineHeight": "$lineHeights.line-height-loose",
-          "fontSize": "$fontSizes.font-size-md",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textDecoration": "none",
-          "textCase": "normal"
+        "status-label-sub": {
+          "value": {
+            "fontFamily": "$fontFamilies.document-font-family",
+            "fontWeight": "$fontWeights.font-weight-regular",
+            "lineHeight": "$lineHeights.line-height-loose",
+            "fontSize": "$fontSizes.font-size-md",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textDecoration": "none",
+            "textCase": "normal"
+          },
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "status-date": {
-        "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
-          "fontWeight": "$fontWeights.font-weight-regular",
-          "lineHeight": "$lineHeights.line-height-loose",
-          "fontSize": "$fontSizes.font-size-md",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textDecoration": "none",
-          "textCase": "normal"
+        "status-date": {
+          "value": {
+            "fontFamily": "$fontFamilies.document-font-family",
+            "fontWeight": "$fontWeights.font-weight-regular",
+            "lineHeight": "$lineHeights.line-height-loose",
+            "fontSize": "$fontSizes.font-size-md",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textDecoration": "none",
+            "textCase": "normal"
+          },
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "status-details": {
-        "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
-          "fontWeight": "$fontWeights.font-weight-regular",
-          "lineHeight": "$lineHeights.line-height-loose",
-          "fontSize": "$fontSizes.font-size-md",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textDecoration": "none",
-          "textCase": "normal"
+        "status-details": {
+          "value": {
+            "fontFamily": "$fontFamilies.document-font-family",
+            "fontWeight": "$fontWeights.font-weight-regular",
+            "lineHeight": "$lineHeights.line-height-loose",
+            "fontSize": "$fontSizes.font-size-md",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textDecoration": "none",
+            "textCase": "normal"
+          },
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "status-indicator": {
-        "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
-          "fontWeight": "$fontWeights.font-weight-bold",
-          "lineHeight": "$lineHeights.line-height-loose",
-          "fontSize": "$fontSizes.font-size-md",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textDecoration": "none",
-          "textCase": "normal"
-        },
-        "type": "typography"
+        "status-indicator": {
+          "value": {
+            "fontFamily": "$fontFamilies.document-font-family",
+            "fontWeight": "$fontWeights.font-weight-bold",
+            "lineHeight": "$lineHeights.line-height-loose",
+            "fontSize": "$fontSizes.font-size-md",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textDecoration": "none",
+            "textCase": "normal"
+          },
+          "type": "typography"
+        }
       }
     },
     "colors": {
