@@ -314,7 +314,7 @@
         "type": "typography"
       },
       "status": {
-        "status-step-label-main": {
+        "status-step-label": {
           "value": {
             "fontFamily": "$fontFamilies.document-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
@@ -327,7 +327,7 @@
           },
           "type": "typography"
         },
-        "status-step-label-sub": {
+        "status-substep-label": {
           "value": {
             "fontFamily": "$fontFamilies.document-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
@@ -340,7 +340,7 @@
           },
           "type": "typography"
         },
-        "status-subtext": {
+        "status-metadata": {
           "value": {
             "fontFamily": "$fontFamilies.document-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
@@ -353,7 +353,7 @@
           },
           "type": "typography"
         },
-        "status-details": {
+        "status-description": {
           "value": {
             "fontFamily": "$fontFamilies.document-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
@@ -366,7 +366,7 @@
           },
           "type": "typography"
         },
-        "status-step-indicator-label": {
+        "status-marker-label": {
           "value": {
             "fontFamily": "$fontFamilies.document-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
@@ -460,55 +460,55 @@
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
-        "status-step-label-main-default-color": {
+        "status-step-label-default-color": {
           "value": "{colors.common-tokens.text-color}",
           "type": "color"
         },
-        "status-step-indicator-current-background-color": {
+        "status-step-marker-current-background-color": {
           "value": "{colors.brand-tokens.color-feedback-succes}",
           "type": "color"
         },
-        "status-substep-indicator-current-border-color": {
+        "status-substep-marker-current-border-color": {
           "value": "{colors.brand-tokens.color-feedback-succes}",
           "type": "color"
         },
-        "status-substep-indicator-warning-border-color": {
+        "status-substep-marker-warning-border-color": {
           "value": "{colors.brand-tokens.color-feedback-error}",
           "type": "color"
         },
-        "status-step-label-main-current-color": {
+        "status-step-label-current-color": {
           "value": "{colors.brand-tokens.color-feedback-succes}",
           "type": "color"
         },
-        "status-connector-completed-border-color": {
+        "status-line-checked-border-color": {
           "value": "{colors.brand-tokens.color-feedback-succes}",
           "type": "color"
         },
-        "status-connector-inactive-border-color": {
+        "status-line-notchecked-border-color": {
           "value": "{colors.brand-tokens.color-grey-4}",
           "type": "color"
         },
-        "status-connector-warning-border-color": {
+        "status-line-warning-border-color": {
           "value": "{colors.brand-tokens.color-feedback-error}",
           "type": "color"
         },
-        "status-indicator-label-main-inactive-color": {
+        "status-marker-label-inactive-color": {
           "value": "{colors.common-tokens.text-color}",
           "type": "color"
         },
-        "status-indicator-label-main-current-color": {
+        "status-marker-label-current-color": {
           "value": "{colors.brand-tokens.color-white}",
           "type": "color"
         },
-        "status-indicator-label-main-warning-color": {
+        "status-marker-label-warning-color": {
           "value": "{colors.brand-tokens.color-white}",
           "type": "color"
         },
-        "status-details-color": {
+        "status-description-color": {
           "value": "{colors.common-tokens.text-color}",
           "type": "color"
         },
-        "status-subtext-color": {
+        "status-metadata-color": {
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
@@ -516,11 +516,11 @@
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
-        "status-step-label-main-inactive-background-color": {
+        "status-step-label-inactive-background-color": {
           "value": "{colors.brand-tokens.color-grey-1}",
           "type": "color"
         },
-        "status-step-label-main-warning-background-color": {
+        "status-step-label-warning-background-color": {
           "value": "{colors.brand-tokens.color-grey-1}",
           "type": "color"
         }
