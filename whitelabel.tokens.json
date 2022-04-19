@@ -313,7 +313,7 @@
         },
         "type": "typography"
       },
-      "timeline-main-label": {
+      "status-label-main": {
         "value": {
           "fontFamily": "$fontFamilies.document-font-family",
           "fontWeight": "$fontWeights.font-weight-bold",
@@ -326,7 +326,7 @@
         },
         "type": "typography"
       },
-      "timeline-sub-label": {
+      "status-label-sub": {
         "value": {
           "fontFamily": "$fontFamilies.document-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
