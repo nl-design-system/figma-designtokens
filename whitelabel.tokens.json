@@ -480,6 +480,10 @@
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
+        "status-substep-label-color": {
+          "value": "{colors.brand-tokens.color-grey-6}",
+          "type": "color"
+        },
         "status-step-label-main-inactive-background-color": {
           "value": "{colors.brand-tokens.color-grey-1}",
           "type": "color"
