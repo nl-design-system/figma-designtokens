@@ -484,12 +484,24 @@
           "value": "{colors.brand-tokens.color-grey-4}",
           "type": "color"
         },
-        "status-connector-warning-background-color": {
+        "status-connector-warning-border-color": {
           "value": "{colors.brand-tokens.color-feedback-error}",
           "type": "color"
         },
         "status-step-label-main-default-color": {
           "value": "{colors.common-tokens.text-color}",
+          "type": "color"
+        },
+        "status-indicator-label-main-inactive-color": {
+          "value": "{colors.common-tokens.text-color}",
+          "type": "color"
+        },
+        "status-indicator-label-main-current-color": {
+          "value": "{colors.brand-tokens.color-white}",
+          "type": "color"
+        },
+        "status-indicator-label-main-warning-color": {
+          "value": "{colors.brand-tokens.color-white}",
           "type": "color"
         },
         "status-details-color": {
