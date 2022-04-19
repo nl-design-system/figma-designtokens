@@ -437,6 +437,18 @@
           "value": "{colors.common-tokens.text-color}",
           "type": "color"
         },
+        "status-label": {
+          "value": "{colors.common-tokens.text-color}",
+          "type": "color"
+        },
+        "status-date": {
+          "value": "{colors.common-tokens.text-color}",
+          "type": "color"
+        },
+        "status-details": {
+          "value": "{colors.brand-tokens.color-grey-6}",
+          "type": "color"
+        },
         "form-input-border-color": {
           "value": "{colors.brand-tokens.color-grey-5}",
           "type": "color"
