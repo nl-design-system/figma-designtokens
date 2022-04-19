@@ -456,6 +456,14 @@
         "form-helpertext-color": {
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
+        },
+        "status-indicator": {
+          "value": "{colors.brand-tokens.color-grey-4}",
+          "type": "color"
+        },
+        "status-indicator-completed": {
+          "value": "{colors.brand-tokens.color-feedback-succes}",
+          "type": "color"
         }
       }
     },
