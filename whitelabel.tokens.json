@@ -449,7 +449,7 @@
       },
       "component-tokens": {
         "heading": {
-          "value": "{colors.common-tokens.text-color}",
+          "value": "{colors.common-tokens.text}",
           "type": "color"
         },
         "form-input-border": {
@@ -466,11 +466,11 @@
             "type": "color"
           },
           "step-heading-not-checked": {
-            "value": "{colors.common-tokens.text-color}",
+            "value": "{colors.common-tokens.text}",
             "type": "color"
           },
           "step-heading-checked": {
-            "value": "{colors.common-tokens.text-color}",
+            "value": "{colors.common-tokens.text}",
             "type": "color"
           },
           "step-heading-warning": {
@@ -502,7 +502,7 @@
             "type": "color"
           },
           "step-marker-not-checked": {
-            "value": "{colors.common-tokens.text-color}",
+            "value": "{colors.common-tokens.text}",
             "type": "color"
           },
           "step-marker-current": {
@@ -514,7 +514,7 @@
             "type": "color"
           },
           "description": {
-            "value": "{colors.common-tokens.text-color}",
+            "value": "{colors.common-tokens.text}",
             "type": "color"
           },
           "metadata": {
