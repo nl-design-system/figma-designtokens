@@ -83,7 +83,7 @@
     "typography": {
       "form-label": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -94,7 +94,7 @@
       },
       "form-optional-text": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-sm",
@@ -105,7 +105,7 @@
       },
       "form-helper-text": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-sm",
@@ -116,7 +116,7 @@
       },
       "form-placeholder": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -127,7 +127,7 @@
       },
       "form-input-text": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -138,7 +138,7 @@
       },
       "form-disabled-text": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -149,7 +149,7 @@
       },
       "form-feedback-error-text": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-sm",
@@ -160,7 +160,7 @@
       },
       "heading-1": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.heading-line-height",
           "fontSize": "$fontSizes.font-size-5xl",
@@ -171,7 +171,7 @@
       },
       "heading-2": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.heading-line-height",
           "fontSize": "$fontSizes.font-size-4xl",
@@ -182,7 +182,7 @@
       },
       "heading-3": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.heading-line-height",
           "fontSize": "$fontSizes.font-size-3xl",
@@ -193,7 +193,7 @@
       },
       "heading-4": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.heading-line-height",
           "fontSize": "$fontSizes.font-size-2xl",
@@ -204,7 +204,7 @@
       },
       "heading-5": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.heading-line-height",
           "fontSize": "$fontSizes.font-size-xl",
@@ -215,7 +215,7 @@
       },
       "heading-6": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.heading-line-height",
           "fontSize": "$fontSizes.font-size-lg",
@@ -226,7 +226,7 @@
       },
       "paragraph": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -239,7 +239,7 @@
       },
       "lead-paragraph-text": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-lg",
@@ -250,7 +250,7 @@
       },
       "badge": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-bold",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-sm",
@@ -263,7 +263,7 @@
       },
       "backlink": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -276,7 +276,7 @@
       },
       "breadcrumb": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-sm",
@@ -289,7 +289,7 @@
       },
       "button": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -302,7 +302,7 @@
       },
       "pagination": {
         "value": {
-          "fontFamily": "$fontFamilies.document-font-family",
+          "fontFamily": "$status-font-family",
           "fontWeight": "$fontWeights.font-weight-regular",
           "lineHeight": "$lineHeights.line-height-loose",
           "fontSize": "$fontSizes.font-size-md",
@@ -316,7 +316,7 @@
       "status": {
         "status-step-label": {
           "value": {
-            "fontFamily": "$fontFamilies.document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-lg",
@@ -329,7 +329,7 @@
         },
         "status-substep-label": {
           "value": {
-            "fontFamily": "$fontFamilies.document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -342,7 +342,7 @@
         },
         "status-metadata": {
           "value": {
-            "fontFamily": "$fontFamilies.document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -355,7 +355,7 @@
         },
         "status-description": {
           "value": {
-            "fontFamily": "$fontFamilies.document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -368,7 +368,7 @@
         },
         "status-marker-label": {
           "value": {
-            "fontFamily": "$fontFamilies.document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -685,10 +685,6 @@
         "value": "{spacing.spacing-4}",
         "type": "spacing"
       }
-    },
-    "status-font-family": {
-      "value": "{fontFamilies.document-font-family}",
-      "type": "fontFamilies"
     }
   }
 }
