@@ -468,11 +468,11 @@
           "value": "{colors.brand-tokens.color-feedback-succes}",
           "type": "color"
         },
-        "status-substep-marker-current-border-color": {
+        "status-sub-step-marker-current-border-color": {
           "value": "{colors.brand-tokens.color-feedback-succes}",
           "type": "color"
         },
-        "status-substep-marker-warning-border-color": {
+        "status-sub-step-marker-warning-border-color": {
           "value": "{colors.brand-tokens.color-feedback-error}",
           "type": "color"
         },
@@ -512,7 +512,7 @@
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
-        "status-substep-label-color": {
+        "status-sub-step-label-color": {
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
