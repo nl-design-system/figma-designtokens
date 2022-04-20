@@ -353,7 +353,7 @@
           },
           "type": "typography"
         },
-        "status-marker-label": {
+        "status-marker": {
           "value": {
             "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
