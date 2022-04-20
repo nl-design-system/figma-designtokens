@@ -300,6 +300,10 @@
         "type": "sizing",
         "value": "1"
       },
+      "sizing-8": {
+        "type": "sizing",
+        "value": "8"
+      },
       "sizing-12": {
         "type": "sizing",
         "value": "12"
@@ -344,10 +348,6 @@
         "type": "sizing",
         "value": "72"
       },
-      "sizing-8": {
-        "type": "sizing",
-        "value": "8"
-      },
       "sizing-80": {
         "type": "sizing",
         "value": "80"
@@ -361,6 +361,10 @@
       "spacing-1": {
         "type": "spacing",
         "value": "1"
+      },
+      "spacing-8": {
+        "type": "spacing",
+        "value": "8"
       },
       "spacing-12": {
         "type": "spacing",
@@ -401,10 +405,6 @@
       "spacing-64": {
         "type": "spacing",
         "value": "64"
-      },
-      "spacing-8": {
-        "type": "spacing",
-        "value": "8"
       }
     },
     "status": {
@@ -707,7 +707,7 @@
             "textDecoration": "none"
           }
         },
-        "sub-step-label": {
+        "sub-step-heading": {
           "type": "typography",
           "value": {
             "fontFamily": "$status-font-family",
