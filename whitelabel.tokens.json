@@ -316,7 +316,7 @@
       "status": {
         "status-step-heading": {
           "value": {
-            "fontFamily": "$document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-lg",
@@ -329,7 +329,7 @@
         },
         "status-sub-step-label": {
           "value": {
-            "fontFamily": "$document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -342,7 +342,7 @@
         },
         "status-metadata": {
           "value": {
-            "fontFamily": "$document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -355,7 +355,7 @@
         },
         "status-description": {
           "value": {
-            "fontFamily": "$document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -368,7 +368,7 @@
         },
         "status-marker-label": {
           "value": {
-            "fontFamily": "$document-font-family",
+            "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
             "lineHeight": "$lineHeights.line-height-loose",
             "fontSize": "$fontSizes.font-size-md",
@@ -460,8 +460,20 @@
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
-        "status-step-heading-not-checked-color": {
+        "status-step-heading-current": {
+          "value": "{colors.brand-tokens.color-feedback-succes}",
+          "type": "color"
+        },
+        "status-step-heading-not-checked": {
           "value": "{colors.common-tokens.text-color}",
+          "type": "color"
+        },
+        "status-step-heading-checked": {
+          "value": "{colors.common-tokens.text-color}",
+          "type": "color"
+        },
+        "status-step-heading-warning": {
+          "value": "{colors.brand-tokens.color-feedback-error}",
           "type": "color"
         },
         "status-step-marker-current-background-color": {
@@ -474,10 +486,6 @@
         },
         "status-sub-step-marker-warning-border-color": {
           "value": "{colors.brand-tokens.color-feedback-error}",
-          "type": "color"
-        },
-        "status-step-heading-current-color": {
-          "value": "{colors.brand-tokens.color-feedback-succes}",
           "type": "color"
         },
         "status-line-checked-border-color": {
