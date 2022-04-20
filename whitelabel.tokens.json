@@ -301,7 +301,7 @@
         "type": "typography"
       },
       "status": {
-        "status-step-heading": {
+        "step-heading": {
           "value": {
             "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-bold",
@@ -314,7 +314,7 @@
           },
           "type": "typography"
         },
-        "status-sub-step-label": {
+        "sub-step-label": {
           "value": {
             "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
@@ -327,7 +327,7 @@
           },
           "type": "typography"
         },
-        "status-metadata": {
+        "metadata": {
           "value": {
             "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
@@ -340,7 +340,7 @@
           },
           "type": "typography"
         },
-        "status-description": {
+        "description": {
           "value": {
             "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
