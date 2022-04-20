@@ -92,6 +92,34 @@
         "text": {
           "type": "color",
           "value": "{colors.brand-tokens.black}"
+        },
+        "text-link": {
+          "value": "{colors.brand-tokens.link}",
+          "type": "color"
+        },
+        "feedback-information": {
+          "value": "{colors.brand-tokens.feedback-info}",
+          "type": "color"
+        },
+        "feedback-success": {
+          "value": "{colors.brand-tokens.feedback-succes}",
+          "type": "color"
+        },
+        "feedback-warning": {
+          "value": "{colors.brand-tokens.feedback-warning}",
+          "type": "color"
+        },
+        "feedback-danger": {
+          "value": "{colors.brand-tokens.feedback-error}",
+          "type": "color"
+        },
+        "icon-active": {
+          "value": "{colors.brand-tokens.link}",
+          "type": "color"
+        },
+        "icon-inactive": {
+          "value": "{colors.brand-tokens.grey-6}",
+          "type": "color"
         }
       },
       "component-tokens": {
