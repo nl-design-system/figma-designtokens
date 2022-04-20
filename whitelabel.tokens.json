@@ -685,6 +685,10 @@
         "value": "{spacing.spacing-4}",
         "type": "spacing"
       }
+    },
+    "status-font-family": {
+      "value": "{fontFamilies.document-font-family}",
+      "type": "fontFamilies"
     }
   }
 }
