@@ -91,17 +91,17 @@
       "common-tokens": {
         "text": {
           "type": "color",
-          "value": "{colors.brand-tokens.color-black}"
+          "value": "{colors.brand-tokens.black}"
         }
       },
       "component-tokens": {
         "form-helpertext": {
           "type": "color",
-          "value": "{colors.brand-tokens.color-grey-6}"
+          "value": "{colors.brand-tokens.grey-6}"
         },
         "form-input-border": {
           "type": "color",
-          "value": "{colors.brand-tokens.color-grey-5}"
+          "value": "{colors.brand-tokens.grey-5}"
         },
         "heading": {
           "type": "color",
@@ -114,7 +114,7 @@
           },
           "metadata": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-grey-6}"
+            "value": "{colors.brand-tokens.grey-6}"
           },
           "step-heading-checked": {
             "type": "color",
@@ -122,7 +122,7 @@
           },
           "step-heading-current": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-succes}"
+            "value": "{colors.brand-tokens.feedback-succes}"
           },
           "step-heading-not-checked": {
             "type": "color",
@@ -130,35 +130,35 @@
           },
           "step-heading-not-checked-background": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-grey-1}"
+            "value": "{colors.brand-tokens.grey-1}"
           },
           "step-heading-warning": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-error}"
+            "value": "{colors.brand-tokens.feedback-error}"
           },
           "step-heading-warning-background": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-grey-1}"
+            "value": "{colors.brand-tokens.grey-1}"
           },
           "step-line-checked": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-succes}"
+            "value": "{colors.brand-tokens.feedback-succes}"
           },
           "step-line-not-checked": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-grey-4}"
+            "value": "{colors.brand-tokens.grey-4}"
           },
           "step-line-warning": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-error}"
+            "value": "{colors.brand-tokens.feedback-error}"
           },
           "step-marker-current": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-white}"
+            "value": "{colors.brand-tokens.white}"
           },
           "step-marker-current-background": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-succes}"
+            "value": "{colors.brand-tokens.feedback-succes}"
           },
           "step-marker-not-checked": {
             "type": "color",
@@ -166,35 +166,35 @@
           },
           "step-marker-warning": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-white}"
+            "value": "{colors.brand-tokens.white}"
           },
           "sub-step-heading": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-grey-6}"
+            "value": "{colors.brand-tokens.grey-6}"
           },
           "sub-step-marker-checked-border-color": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-grey-4}"
+            "value": "{colors.brand-tokens.grey-4}"
           },
           "sub-step-marker-current-border": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-succes}"
+            "value": "{colors.brand-tokens.feedback-succes}"
           },
           "sub-step-marker-current-border-color": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-succes}"
+            "value": "{colors.brand-tokens.feedback-succes}"
           },
           "sub-step-marker-not-checked-border-color": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-grey-4}"
+            "value": "{colors.brand-tokens.grey-4}"
           },
           "sub-step-marker-warning-border": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-error}"
+            "value": "{colors.brand-tokens.feedback-error}"
           },
           "sub-step-marker-warning-border-color": {
             "type": "color",
-            "value": "{colors.brand-tokens.color-feedback-error}"
+            "value": "{colors.brand-tokens.feedback-error}"
           }
         }
       }
