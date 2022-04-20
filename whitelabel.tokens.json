@@ -505,15 +505,15 @@
             "value": "{colors.common-tokens.text}",
             "type": "color"
           },
-          "step-line-checked-border": {
+          "step-line-checked": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "step-line-not-checked-border": {
+          "step-line-not-checked": {
             "value": "{colors.brand-tokens.color-grey-4}",
             "type": "color"
           },
-          "step-line-warning-border": {
+          "step-line-warning": {
             "value": "{colors.brand-tokens.color-feedback-error}",
             "type": "color"
           },
@@ -698,9 +698,15 @@
         "type": "opacity"
       }
     },
-    "status-step-border-width": {
-      "value": "{borderWidth.border-width-2}",
-      "type": "borderWidth"
+    "status": {
+      "step-border-width": {
+        "value": "{borderWidth.border-width-2}",
+        "type": "borderWidth"
+      },
+      "step-line-stroke-width": {
+        "value": "{borderWidth.border-width-2}",
+        "type": "borderWidth"
+      }
     },
     "component": {
       "status-step-margin-inline-end": {
