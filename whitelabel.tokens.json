@@ -432,31 +432,31 @@
           "value": "#dc143c",
           "type": "color"
         },
-        "link-color": {
+        "link": {
           "value": "#0000cd",
           "type": "color"
         },
-        "link-visited-color": {
+        "link-visited": {
           "value": "#800080",
           "type": "color"
         }
       },
       "common-tokens": {
-        "text-color": {
+        "text": {
           "value": "{colors.brand-tokens.color-black}",
           "type": "color"
         }
       },
       "component-tokens": {
-        "heading-color": {
+        "heading": {
           "value": "{colors.common-tokens.text-color}",
           "type": "color"
         },
-        "form-input-border-color": {
+        "form-input-border": {
           "value": "{colors.brand-tokens.color-grey-5}",
           "type": "color"
         },
-        "form-helpertext-color": {
+        "form-helpertext": {
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
@@ -477,59 +477,59 @@
             "value": "{colors.brand-tokens.color-feedback-error}",
             "type": "color"
           },
-          "step-marker-current-background-color": {
+          "step-marker-current-background": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "sub-step-marker-current-border-color": {
+          "sub-step-marker-current-border": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "sub-step-marker-warning-border-color": {
+          "sub-step-marker-warning-border": {
             "value": "{colors.brand-tokens.color-feedback-error}",
             "type": "color"
           },
-          "line-checked-border-color": {
+          "line-checked-border": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "line-not-checked-border-color": {
+          "line-not-checked-border": {
             "value": "{colors.brand-tokens.color-grey-4}",
             "type": "color"
           },
-          "line-warning-border-color": {
+          "line-warning-border": {
             "value": "{colors.brand-tokens.color-feedback-error}",
             "type": "color"
           },
-          "step-marker-inactive-color": {
+          "step-marker-not-checked": {
             "value": "{colors.common-tokens.text-color}",
             "type": "color"
           },
-          "step-marker-current-color": {
+          "step-marker-current": {
             "value": "{colors.brand-tokens.color-white}",
             "type": "color"
           },
-          "step-marker-warning-color": {
+          "step-marker-warning": {
             "value": "{colors.brand-tokens.color-white}",
             "type": "color"
           },
-          "description-color": {
+          "description": {
             "value": "{colors.common-tokens.text-color}",
             "type": "color"
           },
-          "metadata-color": {
+          "metadata": {
             "value": "{colors.brand-tokens.color-grey-6}",
             "type": "color"
           },
-          "sub-step-label-color": {
+          "sub-step-label": {
             "value": "{colors.brand-tokens.color-grey-6}",
             "type": "color"
           },
-          "step-heading-not-checked-background-color": {
+          "step-heading-not-checked-background": {
             "value": "{colors.brand-tokens.color-grey-1}",
             "type": "color"
           },
-          "step-heading-warning-background-color": {
+          "step-heading-warning-background": {
             "value": "{colors.brand-tokens.color-grey-1}",
             "type": "color"
           }
