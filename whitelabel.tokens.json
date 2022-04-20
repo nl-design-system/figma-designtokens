@@ -327,7 +327,7 @@
           },
           "type": "typography"
         },
-        "status-substep-label": {
+        "status-sub-step-label": {
           "value": {
             "fontFamily": "$status-font-family",
             "fontWeight": "$fontWeights.font-weight-regular",
