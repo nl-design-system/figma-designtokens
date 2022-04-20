@@ -93,6 +93,10 @@
           "type": "color",
           "value": "{colors.brand-tokens.black}"
         },
+        "text-dimmed": {
+          "type": "color",
+          "value": "{colors.brand-tokens.grey-5}"
+        },
         "text-light": {
           "type": "color",
           "value": "{colors.brand-tokens.white}"
