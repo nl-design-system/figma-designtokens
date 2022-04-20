@@ -460,7 +460,7 @@
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
-        "status-step-heading-default-color": {
+        "status-step-heading-not-checked-color": {
           "value": "{colors.common-tokens.text-color}",
           "type": "color"
         },
@@ -516,7 +516,7 @@
           "value": "{colors.brand-tokens.color-grey-6}",
           "type": "color"
         },
-        "status-step-heading-inactive-background-color": {
+        "status-step-heading-not-checked-background-color": {
           "value": "{colors.brand-tokens.color-grey-1}",
           "type": "color"
         },
