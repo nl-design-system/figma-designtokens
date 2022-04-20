@@ -461,75 +461,75 @@
           "type": "color"
         },
         "status": {
-          "status-step-heading-current": {
+          "step-heading-current": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "status-step-heading-not-checked": {
+          "step-heading-not-checked": {
             "value": "{colors.common-tokens.text-color}",
             "type": "color"
           },
-          "status-step-heading-checked": {
+          "step-heading-checked": {
             "value": "{colors.common-tokens.text-color}",
             "type": "color"
           },
-          "status-step-heading-warning": {
+          "step-heading-warning": {
             "value": "{colors.brand-tokens.color-feedback-error}",
             "type": "color"
           },
-          "status-step-marker-current-background-color": {
+          "step-marker-current-background-color": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "status-sub-step-marker-current-border-color": {
+          "sub-step-marker-current-border-color": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "status-sub-step-marker-warning-border-color": {
+          "sub-step-marker-warning-border-color": {
             "value": "{colors.brand-tokens.color-feedback-error}",
             "type": "color"
           },
-          "status-line-checked-border-color": {
+          "line-checked-border-color": {
             "value": "{colors.brand-tokens.color-feedback-succes}",
             "type": "color"
           },
-          "status-line-not-checked-border-color": {
+          "line-not-checked-border-color": {
             "value": "{colors.brand-tokens.color-grey-4}",
             "type": "color"
           },
-          "status-line-warning-border-color": {
+          "line-warning-border-color": {
             "value": "{colors.brand-tokens.color-feedback-error}",
             "type": "color"
           },
-          "status-marker-label-inactive-color": {
+          "step-marker-inactive-color": {
             "value": "{colors.common-tokens.text-color}",
             "type": "color"
           },
-          "status-marker-label-current-color": {
+          "step-marker-current-color": {
             "value": "{colors.brand-tokens.color-white}",
             "type": "color"
           },
-          "status-marker-label-warning-color": {
+          "step-marker-warning-color": {
             "value": "{colors.brand-tokens.color-white}",
             "type": "color"
           },
-          "status-description-color": {
+          "description-color": {
             "value": "{colors.common-tokens.text-color}",
             "type": "color"
           },
-          "status-metadata-color": {
+          "metadata-color": {
             "value": "{colors.brand-tokens.color-grey-6}",
             "type": "color"
           },
-          "status-sub-step-label-color": {
+          "sub-step-label-color": {
             "value": "{colors.brand-tokens.color-grey-6}",
             "type": "color"
           },
-          "status-step-heading-not-checked-background-color": {
+          "step-heading-not-checked-background-color": {
             "value": "{colors.brand-tokens.color-grey-1}",
             "type": "color"
           },
-          "status-step-heading-warning-background-color": {
+          "step-heading-warning-background-color": {
             "value": "{colors.brand-tokens.color-grey-1}",
             "type": "color"
           }
