@@ -246,6 +246,18 @@
         "type": "sizing",
         "value": "1"
       },
+      "sizing-2": {
+        "type": "sizing",
+        "value": "2"
+      },
+      "sizing-4": {
+        "type": "sizing",
+        "value": "4"
+      },
+      "sizing-8": {
+        "type": "sizing",
+        "value": "8"
+      },
       "sizing-12": {
         "type": "sizing",
         "value": "12"
@@ -254,10 +266,6 @@
         "type": "sizing",
         "value": "16"
       },
-      "sizing-2": {
-        "type": "sizing",
-        "value": "2"
-      },
       "sizing-24": {
         "type": "sizing",
         "value": "24"
@@ -265,10 +273,6 @@
       "sizing-32": {
         "type": "sizing",
         "value": "32"
-      },
-      "sizing-4": {
-        "type": "sizing",
-        "value": "4"
       },
       "sizing-40": {
         "type": "sizing",
@@ -290,10 +294,6 @@
         "type": "sizing",
         "value": "72"
       },
-      "sizing-8": {
-        "type": "sizing",
-        "value": "8"
-      },
       "sizing-80": {
         "type": "sizing",
         "value": "80"
@@ -308,6 +308,18 @@
         "type": "spacing",
         "value": "1"
       },
+      "spacing-2": {
+        "type": "spacing",
+        "value": "2"
+      },
+      "spacing-4": {
+        "type": "spacing",
+        "value": "4"
+      },
+      "spacing-8": {
+        "type": "spacing",
+        "value": "8"
+      },
       "spacing-12": {
         "type": "spacing",
         "value": "12"
@@ -316,10 +328,6 @@
         "type": "spacing",
         "value": "16"
       },
-      "spacing-2": {
-        "type": "spacing",
-        "value": "2"
-      },
       "spacing-24": {
         "type": "spacing",
         "value": "24"
@@ -327,10 +335,6 @@
       "spacing-32": {
         "type": "spacing",
         "value": "32"
-      },
-      "spacing-4": {
-        "type": "spacing",
-        "value": "4"
       },
       "spacing-40": {
         "type": "spacing",
@@ -347,10 +351,6 @@
       "spacing-64": {
         "type": "spacing",
         "value": "64"
-      },
-      "spacing-8": {
-        "type": "spacing",
-        "value": "8"
       }
     },
     "status": {
