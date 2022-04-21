@@ -99,10 +99,6 @@
           "value": "{colors.brand-tokens.grey-5}",
           "description": "Main text color (in light mode)"
         },
-        "disabled-background": {
-          "value": "{colors.brand-tokens.grey-1}",
-          "type": "color"
-        },
         "feedback": {
           "neutral": {
             "value": "{colors.brand-tokens.feedback-info}",
@@ -118,6 +114,14 @@
           },
           "danger": {
             "value": "{colors.brand-tokens.feedback-error}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{colors.brand-tokens.grey-4}",
+            "type": "color"
+          },
+          "disabled-background": {
+            "value": "{colors.brand-tokens.grey-1}",
             "type": "color"
           }
         }
