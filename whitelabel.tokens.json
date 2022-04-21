@@ -363,10 +363,6 @@
         "value": "{borderWidth.border-width-2}"
       }
     },
-    "status-font-family": {
-      "type": "fontFamilies",
-      "value": "{fontFamilies.document-font-family}"
-    },
     "typography": {
       "backlink": {
         "type": "typography",
