@@ -123,6 +123,14 @@
         }
       },
       "component-tokens": {
+        "heading": {
+          "type": "color",
+          "value": "{colors.common-tokens.document}"
+        },
+        "icon": {
+          "value": "{colors.brand-tokens.grey-6}",
+          "type": "color"
+        },
         "form-helpertext": {
           "type": "color",
           "value": "{colors.brand-tokens.grey-6}"
@@ -130,10 +138,6 @@
         "form-input-border": {
           "type": "color",
           "value": "{colors.brand-tokens.grey-5}"
-        },
-        "heading": {
-          "type": "color",
-          "value": "{colors.common-tokens.document}"
         }
       }
     },
