@@ -94,6 +94,15 @@
           "value": "{colors.brand-tokens.black}",
           "description": "Main text color (in light mode)"
         },
+        "text-muted": {
+          "type": "color",
+          "value": "{colors.brand-tokens.grey-5}",
+          "description": "Main text color (in light mode)"
+        },
+        "disabled-background": {
+          "value": "{colors.brand-tokens.grey-1}",
+          "type": "color"
+        },
         "feedback": {
           "neutral": {
             "value": "{colors.brand-tokens.feedback-info}",
