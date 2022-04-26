@@ -175,6 +175,10 @@
           "type": "color",
           "value": "{colors.brand-tokens.grey-5}"
         },
+        "form-input-border-hover": {
+          "type": "color",
+          "value": "{colors.brand-tokens.gc-blue}"
+        },
         "form-input-border-disabled": {
           "type": "color",
           "value": "{colors.common-tokens.feedback.disabled}"
