@@ -41,9 +41,9 @@
           "description": "NLDS Green"
         },
         "gc-blue": {
-          "value": "#0085bf",
+          "value": "#005F89",
           "type": "color",
-          "description": "NLDS Blue (10% black) (Insufficient color contrast (4.11) when set on white)"
+          "description": "Was NLDS Blue (10% black) #0085bf which had Insufficient color contrast (4.11) when set on white. Now tuned to be AAA compliant when set on white."
         },
         "black": {
           "description": "",
@@ -117,6 +117,10 @@
           "type": "color",
           "value": "{colors.brand-tokens.white}",
           "description": "Main text color (in light mode)"
+        },
+        "text-link": {
+          "value": "{colors.brand-tokens.gc-blue}",
+          "type": "color"
         },
         "text-muted": {
           "type": "color",
