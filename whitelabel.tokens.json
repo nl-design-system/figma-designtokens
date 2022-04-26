@@ -696,7 +696,7 @@
             "y": "0",
             "blur": "6",
             "spread": "6",
-            "color": "{colors.brand-tokens.black}",
+            "color": "{colors.brand-tokens.gc-blue}",
             "type": "dropShadow"
           },
           {
