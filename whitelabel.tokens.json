@@ -167,6 +167,10 @@
           "type": "color",
           "value": "{colors.brand-tokens.grey-6}"
         },
+        "form-input-background": {
+          "type": "color",
+          "value": "{colors.brand-tokens.white}"
+        },
         "form-input-border": {
           "type": "color",
           "value": "{colors.brand-tokens.grey-5}"
@@ -383,16 +387,6 @@
       "spacing-64": {
         "type": "spacing",
         "value": "64"
-      }
-    },
-    "status": {
-      "step-border-width": {
-        "type": "borderWidth",
-        "value": "{borderWidth.border-width-md}"
-      },
-      "step-line-stroke-width": {
-        "type": "borderWidth",
-        "value": "{borderWidth.border-width-md}"
       }
     },
     "typography": {
