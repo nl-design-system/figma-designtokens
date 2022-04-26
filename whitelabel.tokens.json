@@ -45,6 +45,10 @@
           "type": "color",
           "description": "Was NLDS Blue (10% black) #0085bf which had Insufficient color contrast (4.11) when set on white. Now tuned to be AAA compliant when set on white."
         },
+        "gc-blue-light": {
+          "value": "#0095da",
+          "type": "color"
+        },
         "black": {
           "description": "",
           "type": "color",
@@ -56,7 +60,8 @@
         },
         "feedback-info": {
           "type": "color",
-          "value": "#1e90ff"
+          "value": "{colors.brand-tokens.gc-blue-light}",
+          "description": "Was #1e90ff"
         },
         "feedback-succes": {
           "type": "color",
