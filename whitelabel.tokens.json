@@ -664,6 +664,29 @@
     "text-decoration-none": {
       "value": "none",
       "type": "textDecoration"
+    },
+    "form": {
+      "focus-state": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "6",
+            "spread": "6",
+            "color": "{colors.brand-tokens.black}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1",
+            "color": "{colors.brand-tokens.grey-5}",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   }
 }
