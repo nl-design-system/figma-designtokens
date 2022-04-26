@@ -296,6 +296,14 @@
       "0": {
         "type": "paragraphSpacing",
         "value": "0"
+      },
+      "paragraph": {
+        "value": "{sizing.sizing-8}",
+        "type": "paragraphSpacing"
+      },
+      "heading": {
+        "value": "{sizing.sizing-8}",
+        "type": "paragraphSpacing"
       }
     },
     "sizing": {
@@ -419,7 +427,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.paragraph}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
@@ -433,7 +441,7 @@
           "fontWeight": "{fontWeights.font-weight-bold}",
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.paragraph}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
@@ -447,7 +455,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.paragraph}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
@@ -475,7 +483,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.heading}",
           "textDecoration": "{text-decoration-none}",
           "textCase": "{text-case-normal}"
         },
@@ -489,7 +497,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.heading}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
@@ -503,7 +511,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.heading}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
@@ -517,7 +525,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.heading}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
@@ -531,7 +539,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.heading}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
@@ -545,7 +553,7 @@
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.heading}",
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
