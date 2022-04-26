@@ -122,7 +122,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{colors.brand-tokens.grey-4}",
+            "value": "{colors.brand-tokens.grey-3}",
             "type": "color"
           },
           "disabled-background": {
@@ -147,6 +147,10 @@
         "form-input-border": {
           "type": "color",
           "value": "{colors.brand-tokens.grey-5}"
+        },
+        "form-input-border-disabled": {
+          "type": "color",
+          "value": "{colors.common-tokens.feedback.disabled}"
         }
       }
     },
