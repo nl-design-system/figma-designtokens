@@ -203,6 +203,10 @@
       "document-font-family": {
         "type": "fontFamilies",
         "value": "Fira Sans"
+      },
+      "heading-font-family": {
+        "type": "fontFamilies",
+        "value": "{fontFamilies.document-font-family}"
       }
     },
     "fontSizes": {
