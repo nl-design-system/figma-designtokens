@@ -30,6 +30,21 @@
     },
     "colors": {
       "brand-tokens": {
+        "gc-pinkishpurple": {
+          "value": "#74295f",
+          "type": "color",
+          "description": "NLDS Purplish"
+        },
+        "gc-green": {
+          "value": "#25b34b",
+          "type": "color",
+          "description": "NLDS Green"
+        },
+        "gc-blue": {
+          "value": "#0085bf",
+          "type": "color",
+          "description": "NLDS Blue (10% black) (Insufficient color contrast (4.11) when set on white)"
+        },
         "black": {
           "description": "",
           "type": "color",
@@ -89,6 +104,10 @@
         }
       },
       "common-tokens": {
+        "primaty-action": {
+          "value": "grey",
+          "type": "color"
+        },
         "document": {
           "type": "color",
           "value": "{colors.brand-tokens.black}",
