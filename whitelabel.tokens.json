@@ -113,6 +113,11 @@
           "value": "{colors.brand-tokens.black}",
           "description": "Main text color (in light mode)"
         },
+        "heading": {
+          "type": "color",
+          "value": "{colors.brand-tokens.black}",
+          "description": "Main text color (in light mode)"
+        },
         "document-light": {
           "type": "color",
           "value": "{colors.brand-tokens.white}",
@@ -430,7 +435,7 @@
         },
         "description": "Boldfaced paragraph text"
       },
-      "lead-paragraph-text": {
+      "lead-paragraph": {
         "type": "typography",
         "value": {
           "fontFamily": "{fontFamilies.document-font-family}",
