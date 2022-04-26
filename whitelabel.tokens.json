@@ -402,7 +402,7 @@
       }
     },
     "typography": {
-      "backlink": {
+      "paragraph": {
         "type": "typography",
         "value": {
           "fontFamily": "{fontFamilies.document-font-family}",
@@ -414,13 +414,13 @@
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
-        "description": "Backlink text"
+        "description": "Regular paragraph text"
       },
-      "badge": {
+      "paragraph-bold": {
         "type": "typography",
         "value": {
           "fontFamily": "{fontFamilies.document-font-family}",
-          "fontSize": "{fontSizes.font-size-sm}",
+          "fontSize": "{fontSizes.font-size-md}",
           "fontWeight": "{fontWeights.font-weight-bold}",
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
@@ -428,13 +428,13 @@
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
-        "description": "Text in Badge component"
+        "description": "Boldfaced paragraph text"
       },
-      "breadcrumb": {
+      "lead-paragraph-text": {
         "type": "typography",
         "value": {
           "fontFamily": "{fontFamilies.document-font-family}",
-          "fontSize": "{fontSizes.font-size-sm}",
+          "fontSize": "{fontSizes.font-size-lg}",
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
@@ -442,9 +442,9 @@
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
-        "description": "Breadcrumb text"
+        "description": "Intro paragraph text"
       },
-      "button": {
+      "small-text": {
         "type": "typography",
         "value": {
           "fontFamily": "{fontFamilies.document-font-family}",
@@ -456,7 +456,7 @@
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
-        "description": "Text in button"
+        "description": "Metadata and other text which is to be set smaller than paragraph text"
       },
       "heading-1": {
         "type": "typography",
@@ -555,11 +555,11 @@
           "textCase": "{text-case-normal}"
         }
       },
-      "lead-paragraph-text": {
+      "button": {
         "type": "typography",
         "value": {
           "fontFamily": "{fontFamilies.document-font-family}",
-          "fontSize": "{fontSizes.font-size-lg}",
+          "fontSize": "{fontSizes.font-size-md}",
           "fontWeight": "{fontWeights.font-weight-regular}",
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
@@ -567,7 +567,35 @@
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
-        "description": "Intro paragraph text"
+        "description": "Text in button"
+      },
+      "backlink": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontSize": "{fontSizes.font-size-md}",
+          "fontWeight": "{fontWeights.font-weight-regular}",
+          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeights.line-height-loose}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{text-case-normal}",
+          "textDecoration": "{text-decoration-none}"
+        },
+        "description": "Backlink text"
+      },
+      "breadcrumb": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontSize": "{fontSizes.font-size-sm}",
+          "fontWeight": "{fontWeights.font-weight-regular}",
+          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeights.line-height-loose}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{text-case-normal}",
+          "textDecoration": "{text-decoration-none}"
+        },
+        "description": "Breadcrumb text"
       },
       "pagination": {
         "type": "typography",
@@ -583,25 +611,11 @@
         },
         "description": "Pagination link text"
       },
-      "paragraph": {
+      "badge": {
         "type": "typography",
         "value": {
           "fontFamily": "{fontFamilies.document-font-family}",
-          "fontSize": "{fontSizes.font-size-md}",
-          "fontWeight": "{fontWeights.font-weight-regular}",
-          "letterSpacing": "{letterSpacing.0}",
-          "lineHeight": "{lineHeights.line-height-loose}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
-        },
-        "description": "Regular paragraph text"
-      },
-      "paragraph-bold": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{fontFamilies.document-font-family}",
-          "fontSize": "{fontSizes.font-size-md}",
+          "fontSize": "{fontSizes.font-size-sm}",
           "fontWeight": "{fontWeights.font-weight-bold}",
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
@@ -609,24 +623,10 @@
           "textCase": "{text-case-normal}",
           "textDecoration": "{text-decoration-none}"
         },
-        "description": "Boldfaced paragraph text"
-      },
-      "small-text": {
-        "type": "typography",
-        "value": {
-          "fontFamily": "{fontFamilies.document-font-family}",
-          "fontSize": "{fontSizes.font-size-md}",
-          "fontWeight": "{fontWeights.font-weight-regular}",
-          "letterSpacing": "{letterSpacing.0}",
-          "lineHeight": "{lineHeights.line-height-loose}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
-        },
-        "description": "Metadata and other text which is to be set smaller than paragraph text"
+        "description": "Text in Badge component"
       },
       "form": {
-        "disabled-text": {
+        "label": {
           "type": "typography",
           "value": {
             "fontFamily": "{fontFamilies.document-font-family}",
@@ -637,33 +637,8 @@
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{text-case-normal}",
             "textDecoration": "{text-decoration-none}"
-          }
-        },
-        "feedback-error-text": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "{fontFamilies.document-font-family}",
-            "fontSize": "{fontSizes.font-size-sm}",
-            "fontWeight": "{fontWeights.font-weight-regular}",
-            "letterSpacing": "{letterSpacing.0}",
-            "lineHeight": "{lineHeights.line-height-loose}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
-          }
-        },
-        "helper-text": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "{fontFamilies.document-font-family}",
-            "fontSize": "{fontSizes.font-size-sm}",
-            "fontWeight": "{fontWeights.font-weight-regular}",
-            "letterSpacing": "{letterSpacing.0}",
-            "lineHeight": "{lineHeights.line-height-loose}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
-          }
+          },
+          "description": "Formfield label text"
         },
         "input-text": {
           "type": "typography",
@@ -676,20 +651,8 @@
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{text-case-normal}",
             "textDecoration": "{text-decoration-none}"
-          }
-        },
-        "label": {
-          "type": "typography",
-          "value": {
-            "fontFamily": "{fontFamilies.document-font-family}",
-            "fontSize": "{fontSizes.font-size-md}",
-            "fontWeight": "{fontWeights.font-weight-regular}",
-            "letterSpacing": "{letterSpacing.0}",
-            "lineHeight": "{lineHeights.line-height-loose}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
-          }
+          },
+          "description": "Form input text"
         },
         "optional-text": {
           "type": "typography",
@@ -702,9 +665,52 @@
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{text-case-normal}",
             "textDecoration": "{text-decoration-none}"
-          }
+          },
+          "description": "Formfield optional indication text"
+        },
+        "helper-text": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-sm}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{text-case-normal}",
+            "textDecoration": "{text-decoration-none}"
+          },
+          "description": "Formfield helper text"
         },
         "placeholder": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-md}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{text-case-normal}",
+            "textDecoration": "{text-decoration-none}"
+          },
+          "description": "Form placeholder text"
+        },
+        "feedback-error-text": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-sm}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{text-case-normal}",
+            "textDecoration": "{text-decoration-none}"
+          },
+          "description": "Formfield error text"
+        },
+        "disabled-text": {
           "type": "typography",
           "value": {
             "fontFamily": "{fontFamilies.document-font-family}",
