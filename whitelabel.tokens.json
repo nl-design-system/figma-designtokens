@@ -19,11 +19,11 @@
       }
     },
     "borderWidth": {
-      "border-width-1": {
+      "border-width-sm": {
         "type": "borderWidth",
         "value": "1"
       },
-      "border-width-2": {
+      "border-width-md": {
         "type": "borderWidth",
         "value": "2"
       }
@@ -157,6 +157,10 @@
         },
         "icon": {
           "value": "{colors.brand-tokens.grey-6}",
+          "type": "color"
+        },
+        "icon-light": {
+          "value": "{colors.common-tokens.document-light}",
           "type": "color"
         },
         "form-helpertext": {
@@ -384,11 +388,11 @@
     "status": {
       "step-border-width": {
         "type": "borderWidth",
-        "value": "{borderWidth.border-width-2}"
+        "value": "{borderWidth.border-width-md}"
       },
       "step-line-stroke-width": {
         "type": "borderWidth",
-        "value": "{borderWidth.border-width-2}"
+        "value": "{borderWidth.border-width-md}"
       }
     },
     "typography": {
