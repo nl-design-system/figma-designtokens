@@ -755,6 +755,13 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "text": {
+      "measure-standard": {
+        "value": "600",
+        "type": "sizing",
+        "description": "Horizontal measure (line-length). Set only on horizontal axis (width)!"
+      }
     }
   }
 }
