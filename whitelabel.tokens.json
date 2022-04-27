@@ -278,10 +278,6 @@
       }
     },
     "lineHeights": {
-      "heading-line-height": {
-        "type": "lineHeights",
-        "value": "{lineHeights.line-height-tight}"
-      },
       "line-height-loose": {
         "type": "lineHeights",
         "value": "150%"
@@ -289,6 +285,10 @@
       "line-height-tight": {
         "type": "lineHeights",
         "value": "120%"
+      },
+      "heading-line-height": {
+        "type": "lineHeights",
+        "value": "{lineHeights.line-height-tight}"
       }
     },
     "opacity": {
@@ -312,6 +312,10 @@
       }
     },
     "sizing": {
+      "sizing-0": {
+        "type": "sizing",
+        "value": "0"
+      },
       "sizing-1": {
         "type": "sizing",
         "value": "1"
@@ -374,6 +378,10 @@
       }
     },
     "spacing": {
+      "spacing-0": {
+        "type": "spacing",
+        "value": "0"
+      },
       "spacing-1": {
         "type": "spacing",
         "value": "1"
