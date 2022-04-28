@@ -303,11 +303,11 @@
         "value": "0"
       },
       "paragraph": {
-        "value": "{sizing.sizing-8}",
+        "value": "{sizing.8}",
         "type": "paragraphSpacing"
       },
       "heading": {
-        "value": "{sizing.sizing-8}",
+        "value": "{sizing.8}",
         "type": "paragraphSpacing"
       }
     },
