@@ -312,67 +312,67 @@
       }
     },
     "sizing": {
-      "sizing-0": {
+      "0": {
         "type": "sizing",
         "value": "0"
       },
-      "sizing-1": {
+      "1": {
         "type": "sizing",
         "value": "1"
       },
-      "sizing-2": {
+      "2": {
         "type": "sizing",
         "value": "2"
       },
-      "sizing-4": {
+      "4": {
         "type": "sizing",
         "value": "4"
       },
-      "sizing-8": {
+      "8": {
         "type": "sizing",
         "value": "8"
       },
-      "sizing-12": {
+      "12": {
         "type": "sizing",
         "value": "12"
       },
-      "sizing-16": {
+      "16": {
         "type": "sizing",
         "value": "16"
       },
-      "sizing-24": {
+      "24": {
         "type": "sizing",
         "value": "24"
       },
-      "sizing-32": {
+      "32": {
         "type": "sizing",
         "value": "32"
       },
-      "sizing-40": {
+      "40": {
         "type": "sizing",
         "value": "40"
       },
-      "sizing-48": {
+      "48": {
         "type": "sizing",
         "value": "48"
       },
-      "sizing-56": {
+      "56": {
         "type": "sizing",
         "value": "56"
       },
-      "sizing-64": {
+      "64": {
         "type": "sizing",
         "value": "64"
       },
-      "sizing-72": {
+      "72": {
         "type": "sizing",
         "value": "72"
       },
-      "sizing-80": {
+      "80": {
         "type": "sizing",
         "value": "80"
       },
-      "sizing-96": {
+      "96": {
         "type": "sizing",
         "value": "96"
       }
