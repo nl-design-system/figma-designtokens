@@ -193,6 +193,10 @@
           "type": "color",
           "value": "{colors.brand-tokens.gc-blue}"
         },
+        "form-input-border-active": {
+          "type": "color",
+          "value": "{colors.brand-tokens.grey-6}"
+        },
         "form-input-border-disabled": {
           "type": "color",
           "value": "{colors.common-tokens.feedback.disabled}"
