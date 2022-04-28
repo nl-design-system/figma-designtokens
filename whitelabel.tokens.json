@@ -26,6 +26,10 @@
       "border-width-md": {
         "type": "borderWidth",
         "value": "2"
+      },
+      "form-input-border-width": {
+        "type": "borderWidth",
+        "value": "{borderWidth.border-width-md}"
       }
     },
     "colors": {
