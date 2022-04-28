@@ -378,55 +378,55 @@
       }
     },
     "spacing": {
-      "spacing-0": {
+      "0": {
         "type": "spacing",
         "value": "0"
       },
-      "spacing-1": {
+      "1": {
         "type": "spacing",
         "value": "1"
       },
-      "spacing-2": {
+      "2": {
         "type": "spacing",
         "value": "2"
       },
-      "spacing-4": {
+      "4": {
         "type": "spacing",
         "value": "4"
       },
-      "spacing-8": {
+      "8": {
         "type": "spacing",
         "value": "8"
       },
-      "spacing-12": {
+      "12": {
         "type": "spacing",
         "value": "12"
       },
-      "spacing-16": {
+      "16": {
         "type": "spacing",
         "value": "16"
       },
-      "spacing-24": {
+      "24": {
         "type": "spacing",
         "value": "24"
       },
-      "spacing-32": {
+      "32": {
         "type": "spacing",
         "value": "32"
       },
-      "spacing-40": {
+      "40": {
         "type": "spacing",
         "value": "40"
       },
-      "spacing-48": {
+      "48": {
         "type": "spacing",
         "value": "48"
       },
-      "spacing-56": {
+      "56": {
         "type": "spacing",
         "value": "56"
       },
-      "spacing-64": {
+      "64": {
         "type": "spacing",
         "value": "64"
       }
