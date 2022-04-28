@@ -202,11 +202,11 @@
     "component": {
       "status-step-margin-inline-end": {
         "type": "spacing",
-        "value": "{spacing.spacing-16}"
+        "value": "{spacing.16}"
       },
       "status-text-margin-block-end": {
         "type": "spacing",
-        "value": "{spacing.spacing-4}"
+        "value": "{spacing.4}"
       }
     },
     "fontFamilies": {
