@@ -150,12 +150,12 @@
             "value": "{colors.brand-tokens.feedback-succes}",
             "type": "color"
           },
-          "warning": {
-            "value": "{colors.brand-tokens.feedback-warning}",
-            "type": "color"
-          },
           "danger": {
             "value": "{colors.brand-tokens.feedback-error}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{colors.brand-tokens.feedback-warning}",
             "type": "color"
           },
           "disabled": {
@@ -175,6 +175,14 @@
         },
         "icon": {
           "value": "{colors.brand-tokens.grey-6}",
+          "type": "color"
+        },
+        "icon-hover": {
+          "value": "{colors.brand-tokens.gc-blue}",
+          "type": "color"
+        },
+        "icon-disabled": {
+          "value": "{colors.common-tokens.feedback.disabled}",
           "type": "color"
         },
         "icon-light": {
