@@ -141,6 +141,11 @@
           "value": "{colors.brand-tokens.grey-5}",
           "description": "Main text color (in light mode)"
         },
+        "text-disabled": {
+          "type": "color",
+          "value": "{colors.brand-tokens.grey-4}",
+          "description": "Disabled text"
+        },
         "feedback": {
           "neutral": {
             "value": "{colors.brand-tokens.feedback-info}",
