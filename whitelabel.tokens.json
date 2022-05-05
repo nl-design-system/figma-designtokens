@@ -774,6 +774,36 @@
             "textDecoration": "{text-decoration-none}"
           }
         }
+      },
+      "table": {
+        "heading": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-md}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{text-case-normal}",
+            "textDecoration": "{text-decoration-none}"
+          },
+          "description": "Formfield label text"
+        },
+        "datacell": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-md}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{text-case-normal}",
+            "textDecoration": "{text-decoration-none}"
+          },
+          "description": "Formfield label text"
+        }
       }
     },
     "text-case-normal": {
