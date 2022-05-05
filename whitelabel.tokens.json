@@ -151,16 +151,32 @@
             "value": "{colors.brand-tokens.feedback-info}",
             "type": "color"
           },
+          "neutral-inverse": {
+            "value": "rgba({colors.brand-tokens.feedback-info}, {opacity.5})",
+            "type": "color"
+          },
           "safe": {
             "value": "{colors.brand-tokens.feedback-succes}",
+            "type": "color"
+          },
+          "safe-inverse": {
+            "value": "rgba({colors.brand-tokens.feedback-succes}, {opacity.5})",
             "type": "color"
           },
           "danger": {
             "value": "{colors.brand-tokens.feedback-error}",
             "type": "color"
           },
+          "danger-inverse": {
+            "value": "rgba({colors.brand-tokens.feedback-error}, {opacity.5})",
+            "type": "color"
+          },
           "warning": {
             "value": "{colors.brand-tokens.feedback-warning}",
+            "type": "color"
+          },
+          "warning-inverse": {
+            "value": "rgba({colors.brand-tokens.feedback-warning}, {opacity.5})",
             "type": "color"
           },
           "disabled": {
@@ -313,7 +329,7 @@
       }
     },
     "opacity": {
-      "opacity-5": {
+      "5": {
         "type": "opacity",
         "value": "5%"
       }
