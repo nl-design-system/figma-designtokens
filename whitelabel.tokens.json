@@ -136,6 +136,10 @@
           "value": "{colors.brand-tokens.gc-blue}",
           "type": "color"
         },
+        "text-focus-outline": {
+          "value": "rgba( {colors.brand-tokens.gc-blue}, {opacity.50} )",
+          "type": "color"
+        },
         "text-muted": {
           "type": "color",
           "value": "{colors.brand-tokens.grey-5}",
@@ -340,6 +344,18 @@
       "5": {
         "type": "opacity",
         "value": "5%"
+      },
+      "25": {
+        "value": "25%",
+        "type": "opacity"
+      },
+      "50": {
+        "value": "50%",
+        "type": "opacity"
+      },
+      "75": {
+        "value": "75%",
+        "type": "opacity"
       }
     },
     "paragraphSpacing": {
