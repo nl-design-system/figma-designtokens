@@ -486,8 +486,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.paragraph}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Regular paragraph text"
       },
@@ -500,8 +500,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.paragraph}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Boldfaced paragraph text"
       },
@@ -514,8 +514,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.paragraph}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Intro paragraph text"
       },
@@ -528,10 +528,24 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Metadata and other text which is to be set smaller than paragraph text"
+      },
+      "text-link": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{fontFamilies.document-font-family}",
+          "fontSize": "{fontSizes.font-size-md}",
+          "fontWeight": "{fontWeights.font-weight-regular}",
+          "letterSpacing": "{letterSpacing.0}",
+          "lineHeight": "{lineHeights.line-height-loose}",
+          "paragraphSpacing": "{paragraphSpacing.paragraph}",
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.underline}"
+        },
+        "description": "Regular paragraph text"
       },
       "heading-1": {
         "type": "typography",
@@ -542,8 +556,8 @@
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
           "paragraphSpacing": "{paragraphSpacing.heading}",
-          "textDecoration": "{text-decoration-none}",
-          "textCase": "{text-case-normal}"
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.normal}"
         },
         "description": "Heading level 1"
       },
@@ -556,8 +570,8 @@
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
           "paragraphSpacing": "{paragraphSpacing.heading}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Heading level 2"
       },
@@ -570,8 +584,8 @@
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
           "paragraphSpacing": "{paragraphSpacing.heading}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Heading level 3"
       },
@@ -584,8 +598,8 @@
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
           "paragraphSpacing": "{paragraphSpacing.heading}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Heading level 4"
       },
@@ -598,8 +612,8 @@
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
           "paragraphSpacing": "{paragraphSpacing.heading}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Heading level 5"
       },
@@ -612,8 +626,8 @@
           "letterSpacing": "{letterSpacing.heading}",
           "lineHeight": "{lineHeights.heading-line-height}",
           "paragraphSpacing": "{paragraphSpacing.heading}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Heading level 6"
       },
@@ -626,8 +640,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.heading-line-height}",
           "paragraphSpacing": "{paragraphSpacing.0}",
-          "textDecoration": "{text-decoration-none}",
-          "textCase": "{text-case-normal}"
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.normal}"
         }
       },
       "button": {
@@ -639,8 +653,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Text in button"
       },
@@ -653,8 +667,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Backlink text"
       },
@@ -667,8 +681,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Breadcrumb text"
       },
@@ -681,8 +695,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Pagination link text"
       },
@@ -695,8 +709,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.0}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Text in Badge component"
       },
@@ -709,8 +723,8 @@
           "letterSpacing": "{letterSpacing.0}",
           "lineHeight": "{lineHeights.line-height-loose}",
           "paragraphSpacing": "{paragraphSpacing.paragraph}",
-          "textCase": "{text-case-normal}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.normal}",
+          "textDecoration": "{text-decoration.none}"
         },
         "description": "Regular paragraph text"
       },
@@ -724,8 +738,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Form input text"
         },
@@ -738,8 +752,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Formfield label text"
         },
@@ -752,8 +766,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Formfield optional indication text"
         },
@@ -766,8 +780,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Formfield helper text"
         },
@@ -780,8 +794,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Form placeholder text"
         },
@@ -794,8 +808,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Formfield error text"
         },
@@ -808,8 +822,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           }
         }
       },
@@ -823,8 +837,8 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Formfield label text"
         },
@@ -837,20 +851,28 @@
             "letterSpacing": "{letterSpacing.0}",
             "lineHeight": "{lineHeights.line-height-loose}",
             "paragraphSpacing": "{paragraphSpacing.0}",
-            "textCase": "{text-case-normal}",
-            "textDecoration": "{text-decoration-none}"
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
           },
           "description": "Formfield label text"
         }
       }
     },
-    "text-case-normal": {
-      "value": "none",
-      "type": "textCase"
+    "text-case": {
+      "normal": {
+        "value": "none",
+        "type": "textCase"
+      }
     },
-    "text-decoration-none": {
-      "value": "none",
-      "type": "textDecoration"
+    "text-decoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      }
     },
     "form": {
       "focus-state": {
