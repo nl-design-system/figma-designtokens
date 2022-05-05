@@ -103,13 +103,13 @@
           "type": "color",
           "value": "#0000cd"
         },
-        "link-visited": {
-          "type": "color",
-          "value": "#800080"
-        },
         "white": {
           "type": "color",
           "value": "#ffffff"
+        },
+        "link-visited": {
+          "type": "color",
+          "value": "#800080"
         }
       },
       "common-tokens": {
