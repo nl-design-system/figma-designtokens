@@ -888,7 +888,49 @@
         }
       },
       "progress-steps": {
+        "marker": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-lg}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.paragraph}",
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
+          },
+          "description": "Intro paragraph text"
+        },
         "label": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-lg}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.paragraph}",
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
+          },
+          "description": "Intro paragraph text"
+        },
+        "metadata": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-lg}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.paragraph}",
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
+          },
+          "description": "Intro paragraph text"
+        },
+        "date": {
           "type": "typography",
           "value": {
             "fontFamily": "{fontFamilies.document-font-family}",
