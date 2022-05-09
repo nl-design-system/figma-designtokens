@@ -99,13 +99,13 @@
           "type": "color",
           "value": "#3f3f3f"
         },
-        "link": {
-          "type": "color",
-          "value": "#0000cd"
-        },
         "white": {
           "type": "color",
           "value": "#ffffff"
+        },
+        "link": {
+          "type": "color",
+          "value": "#0000cd"
         },
         "link-visited": {
           "type": "color",
