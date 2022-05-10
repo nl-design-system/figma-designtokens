@@ -136,6 +136,10 @@
           "value": "{colors.brand-tokens.gc-blue}",
           "type": "color"
         },
+        "text-link-hover": {
+          "value": "{colors.brand-tokens.gc-blue}",
+          "type": "color"
+        },
         "text-focus-outline": {
           "value": "rgba( {colors.brand-tokens.gc-blue}, {opacity.50} )",
           "type": "color"
