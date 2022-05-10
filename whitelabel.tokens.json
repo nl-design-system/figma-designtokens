@@ -244,16 +244,6 @@
         }
       }
     },
-    "component": {
-      "status-step-margin-inline-end": {
-        "type": "spacing",
-        "value": "{spacing.16}"
-      },
-      "status-text-margin-block-end": {
-        "type": "spacing",
-        "value": "{spacing.4}"
-      }
-    },
     "fontFamilies": {
       "document-font-family": {
         "type": "fontFamilies",
