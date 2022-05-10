@@ -910,6 +910,20 @@
           },
           "description": "Intro paragraph text"
         },
+        "substep-label": {
+          "type": "typography",
+          "value": {
+            "fontFamily": "{fontFamilies.document-font-family}",
+            "fontSize": "{fontSizes.font-size-lg}",
+            "fontWeight": "{fontWeights.font-weight-regular}",
+            "letterSpacing": "{letterSpacing.0}",
+            "lineHeight": "{lineHeights.line-height-loose}",
+            "paragraphSpacing": "{paragraphSpacing.paragraph}",
+            "textCase": "{text-case.normal}",
+            "textDecoration": "{text-decoration.none}"
+          },
+          "description": "Intro paragraph text"
+        },
         "metadata": {
           "type": "typography",
           "value": {
