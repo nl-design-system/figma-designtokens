@@ -259,6 +259,26 @@
       }
     },
     "fontSizes": {
+      "font-size-xs": {
+        "type": "fontSizes",
+        "value": "{fontSizes.font-size-md} * .75"
+      },
+      "font-size-sm": {
+        "type": "fontSizes",
+        "value": "{fontSizes.font-size-md} * .875"
+      },
+      "font-size-md": {
+        "type": "fontSizes",
+        "value": "16"
+      },
+      "font-size-lg": {
+        "type": "fontSizes",
+        "value": "{fontSizes.font-size-md} * 1.125"
+      },
+      "font-size-xl": {
+        "type": "fontSizes",
+        "value": "{fontSizes.font-size-md} * 1.25"
+      },
       "font-size-2xl": {
         "type": "fontSizes",
         "value": "{fontSizes.font-size-md} * 1.5"
@@ -274,26 +294,6 @@
       "font-size-5xl": {
         "type": "fontSizes",
         "value": "{fontSizes.font-size-md} * 2.25"
-      },
-      "font-size-lg": {
-        "type": "fontSizes",
-        "value": "{fontSizes.font-size-md} * 1.125"
-      },
-      "font-size-md": {
-        "type": "fontSizes",
-        "value": "16"
-      },
-      "font-size-sm": {
-        "type": "fontSizes",
-        "value": "{fontSizes.font-size-md} * .875"
-      },
-      "font-size-xl": {
-        "type": "fontSizes",
-        "value": "{fontSizes.font-size-md} * 1.25"
-      },
-      "font-size-xs": {
-        "type": "fontSizes",
-        "value": "{fontSizes.font-size-md} * .75"
       }
     },
     "fontWeights": {
