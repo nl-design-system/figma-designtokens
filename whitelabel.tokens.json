@@ -226,6 +226,10 @@
           "type": "color",
           "value": "{colors.brand-tokens.grey-6}"
         },
+        "form-placeholder": {
+          "type": "color",
+          "value": "{colors.brand-tokens.grey-4}"
+        },
         "form-input-background": {
           "type": "color",
           "value": "{colors.brand-tokens.white}"
@@ -1000,5 +1004,6 @@
         "description": "Horizontal measure (line-length). Set only on horizontal axis (width)!"
       }
     }
-  }
+  },
+  "$themes": []
 }
