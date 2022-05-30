@@ -113,8 +113,8 @@
         }
       },
       "common-tokens": {
-        "primaty-action": {
-          "value": "grey",
+        "primary-action": {
+          "value": "{colors.brand-tokens.gc-pinkishpurple}",
           "type": "color"
         },
         "document": {
