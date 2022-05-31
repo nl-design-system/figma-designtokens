@@ -117,6 +117,10 @@
           "value": "{colors.brand-tokens.gc-pinkishpurple}",
           "type": "color"
         },
+        "interactive-hover": {
+          "value": "{colors.brand-tokens.gc-blue}",
+          "type": "color"
+        },
         "document": {
           "type": "color",
           "value": "{colors.brand-tokens.black}",
@@ -136,7 +140,7 @@
           "value": "{colors.brand-tokens.gc-blue}",
           "type": "color"
         },
-        "text-link-hover": {
+        "text-link-hover-copy": {
           "value": "{colors.brand-tokens.gc-blue}",
           "type": "color"
         },
