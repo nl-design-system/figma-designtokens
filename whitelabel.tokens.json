@@ -911,7 +911,7 @@
             "fontSize": "{fontSizes.font-size-lg}",
             "fontWeight": "{fontWeights.font-weight-bold}",
             "letterSpacing": "{letterSpacing.0}",
-            "lineHeight": "{lineHeights.line-height-loose}",
+            "lineHeight": "{lineHeights.line-height-tight}",
             "paragraphSpacing": "{paragraphSpacing.paragraph}",
             "textCase": "{text-case.normal}",
             "textDecoration": "{text-decoration.none}"
