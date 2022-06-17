@@ -1010,5 +1010,6 @@
     }
   },
   "white-label (dark mode)": {},
+  "white-label (high contrast)": {},
   "$themes": []
 }
