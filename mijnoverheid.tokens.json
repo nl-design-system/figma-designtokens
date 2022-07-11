@@ -231,6 +231,11 @@
       },
       "type": "typography",
       "description": "H1"
+    },
+    "spacer-24px-all": {
+      "value": "24",
+      "type": "spacing"
     }
-  }
+  },
+  "$themes": []
 }
