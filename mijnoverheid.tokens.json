@@ -90,6 +90,30 @@
           "value": "#e6e6e6",
           "type": "color"
         },
+        "thunderbird": {
+          "value": "#d52b1e",
+          "type": "color"
+        },
+        "tundora": {
+          "value": "#444",
+          "type": "color"
+        },
+        "tawny": {
+          "value": "#a95400",
+          "type": "color"
+        },
+        "white": {
+          "value": "#fff",
+          "type": "color"
+        },
+        "wildSand": {
+          "value": "#f5f5f5",
+          "type": "color"
+        },
+        "willowBrook": {
+          "value": "#e1eddb",
+          "type": "color"
+        },
         "font-size-regular": {
           "value": "16",
           "type": "fontSizes"
@@ -150,8 +174,8 @@
           "value": "{MijnOverheid.brand-tokens.alablaster}",
           "type": "color"
         },
-        "disabled-color": {
-          "value": "{MijnOverheid.brand-tokens.General.Grey}",
+        "gray": {
+          "value": "{MijnOverheid.brand-tokens.emperor}",
           "type": "color"
         },
         "feedback-info-background-color": {
