@@ -2,103 +2,93 @@
   "MijnOverheid": {
     "MijnOverheid": {
       "brand-tokens": {
-        "MijnOverheid": {
-          "Blue": {
-            "value": "#007bc7",
-            "type": "color"
-          },
-          "Light-blue": {
-            "value": "#d9ebf7",
-            "type": "color"
-          }
+        "alablaster": {
+          "value": "#fafafa",
+          "type": "color"
         },
-        "DigiD": {
-          "Orange": {
-            "value": "#e17000",
-            "type": "color"
-          }
+        "alto": {
+          "value": "#d6d6d6",
+          "type": "color"
         },
-        "General": {
-          "Grey": {
-            "value": "#696969",
-            "type": "color"
-          },
-          "White": {
-            "value": "#fff",
-            "type": "color"
-          }
+        "bahamaBlue": {
+          "value": "#01689b",
+          "type": "color"
         },
-        "Red": {
-          "Red": {
-            "value": "#d52b1e",
-            "type": "color"
-          },
-          "Light-red": {
-            "value": "#f9dfdd",
-            "type": "color"
-          }
+        "bamboo": {
+          "value": "#dd6200",
+          "type": "color"
         },
-        "Orange": {
-          "Dark-orange": {
-            "value": "#a95400",
-            "type": "color"
-          },
-          "Light-orange": {
-            "value": "#fbead9",
-            "type": "color"
-          }
+        "black": {
+          "value": "#000",
+          "type": "color"
         },
-        "Green": {
-          "Green": {
-            "value": "#39870c",
-            "type": "color"
-          },
-          "Light-green": {
-            "value": "#e1eddb",
-            "type": "color"
-          }
+        "blizzardBlue": {
+          "value": "#b2d7ee",
+          "type": "color"
         },
-        "Blue": {
-          "Blue": {
-            "value": "#007bc7",
-            "type": "color"
-          },
-          "Light-blue": {
-            "value": "#d9ebf7",
-            "type": "color"
-          }
+        "boulder": {
+          "value": "#767676",
+          "type": "color"
         },
-        "Text": {
-          "Dark-grey": {
-            "value": "#282828",
-            "type": "color"
-          },
-          "Blue": {
-            "value": "#004ca0",
-            "type": "color"
-          }
+        "champagne": {
+          "value": "#fbead9",
+          "type": "color"
         },
-        "Basics": {
-          "Black": {
-            "value": "#000",
-            "type": "color"
-          },
-          "Dark-grey": {
-            "value": "#666",
-            "type": "color"
-          },
-          "Grey": {
-            "value": "#999",
-            "type": "color"
-          },
-          "Middle-grey": {
-            "value": "#c8c8c8",
-            "type": "color"
-          },
-          "Light-grey": {
-            "value": "#f2f2f0",
-            "type": "color"
-          }
+        "chathamsBlue": {
+          "value": "#154273",
+          "type": "color"
+        },
+        "concrete": {
+          "value": "#f3f3f3",
+          "type": "color"
+        },
+        "denim": {
+          "value": "#0d72b0",
+          "type": "color"
+        },
+        "doveGray": {
+          "value": "#696969",
+          "type": "color"
+        },
+        "emperor": {
+          "value": "#535353",
+          "type": "color"
+        },
+        "endeavour": {
+          "value": "#004ca0",
+          "type": "color"
+        },
+        "greenLeaf": {
+          "value": "#39870c",
+          "type": "color"
+        },
+        "grenadier": {
+          "value": "#d84f00",
+          "type": "color"
+        },
+        "linen": {
+          "value": "#f9dfdd",
+          "type": "color"
+        },
+        "linkWater": {
+          "value": "#d9ebf7",
+          "type": "color"
+        },
+        "lochmara": {
+          "value": "#007bc7",
+          "type": "color"
+        },
+        "mangoTango": {
+          "value": "#e17000",
+          "type": "color"
+        },
+        "mineShaft": {
+          "value": "#282828",
+          "type": "color"
+        },
+        "mercury": {
+          "value": "#e6e6e6",
+          "type": "color"
         },
         "font-size-regular": {
           "value": "16",
@@ -152,12 +142,12 @@
         }
       },
       "common-tokens": {
-        "document-color": {
-          "value": "{MijnOverheid.brand-tokens.Text.Dark-grey}",
+        "primary": {
+          "value": "{MijnOverheid.brand-tokens.lochmara}",
           "type": "color"
         },
-        "link-color": {
-          "value": "{MijnOverheid.brand-tokens.Text.Blue}",
+        "background": {
+          "value": "{MijnOverheid.brand-tokens.alablaster}",
           "type": "color"
         },
         "disabled-color": {
