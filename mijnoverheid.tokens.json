@@ -178,36 +178,64 @@
           "value": "{MijnOverheid.brand-tokens.emperor}",
           "type": "color"
         },
-        "feedback-info-background-color": {
-          "value": "{MijnOverheid.brand-tokens.Blue.Light-blue}",
+        "success": {
+          "value": "{MijnOverheid.brand-tokens.greenLeaf}",
           "type": "color"
         },
-        "feedback-info-color": {
-          "value": "{MijnOverheid.brand-tokens.Blue.Blue}",
+        "info": {
+          "value": "{MijnOverheid.brand-tokens.lochmara}",
           "type": "color"
         },
-        "feedback-success-background-color": {
-          "value": "{MijnOverheid.brand-tokens.Green.Light-green}",
+        "warning": {
+          "value": "{MijnOverheid.brand-tokens.mangoTango}",
           "type": "color"
         },
-        "feedback-success-color": {
-          "value": "{MijnOverheid.brand-tokens.Green.Green}",
+        "error": {
+          "value": "{MijnOverheid.brand-tokens.thunderbird}",
           "type": "color"
         },
-        "feedback-warning-background-color": {
-          "value": "{MijnOverheid.brand-tokens.Orange.Light-orange}",
+        "successLight": {
+          "value": "{MijnOverheid.brand-tokens.willowBrook}",
           "type": "color"
         },
-        "feedback-warning-color": {
-          "value": "{MijnOverheid.brand-tokens.Orange.Dark-orange}",
+        "infoLight": {
+          "value": "{MijnOverheid.brand-tokens.linkWater}",
           "type": "color"
         },
-        "feedback-error-background-color": {
-          "value": "{MijnOverheid.brand-tokens.Red.Light-red}",
+        "warningLight": {
+          "value": "{MijnOverheid.brand-tokens.champagne}",
           "type": "color"
         },
-        "feedback-error-color": {
-          "value": "{MijnOverheid.brand-tokens.Red.Red}",
+        "errorLight": {
+          "value": "{MijnOverheid.brand-tokens.linen}",
+          "type": "color"
+        },
+        "textPrimary": {
+          "value": "{MijnOverheid.brand-tokens.mineShaft}",
+          "type": "color"
+        },
+        "textWhite": {
+          "value": "{MijnOverheid.brand-tokens.white}",
+          "type": "color"
+        },
+        "textHint": {
+          "value": "{MijnOverheid.brand-tokens.doveGray}",
+          "type": "color"
+        },
+        "textLink": {
+          "value": "{MijnOverheid.brand-tokens.endeavour}",
+          "type": "color"
+        },
+        "buttonDisabled": {
+          "value": "{MijnOverheid.brand-tokens.mercury}",
+          "type": "color"
+        },
+        "buttonPrimaryHover": {
+          "value": "{MijnOverheid.brand-tokens.denim}",
+          "type": "color"
+        },
+        "buttonWarningHover": {
+          "value": "{MijnOverheid.brand-tokens.bamboo}",
           "type": "color"
         }
       },
