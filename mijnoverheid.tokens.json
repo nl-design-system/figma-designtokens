@@ -1,7 +1,7 @@
 {
   "MijnOverheid": {
     "MijnOverheid": {
-      "brand-tokens": {
+      "brandTokens": {
         "alablaster": {
           "value": "#fafafa",
           "type": "color"
@@ -114,169 +114,432 @@
           "value": "#e1eddb",
           "type": "color"
         },
-        "font-size-regular": {
-          "value": "16",
-          "type": "fontSizes"
+        "fontSize": {
+          "sm": {
+            "value": "14px",
+            "description": "sub",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "16px",
+            "description": "body",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "18px",
+            "description": "intro",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "20px",
+            "description": "h3",
+            "type": "fontSizes"
+          },
+          "2xl": {
+            "value": "24px",
+            "description": "h2",
+            "type": "fontSizes"
+          },
+          "3xl": {
+            "value": "32px",
+            "description": "h1",
+            "type": "fontSizes"
+          }
         },
-        "font-size-3xl": {
-          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 2",
-          "description": "Extra extra extra large font size",
-          "type": "fontSizes"
+        "lineHeight": {
+          "2xs": {
+            "value": "20px",
+            "type": "lineHeights"
+          },
+          "xs": {
+            "value": "22px",
+            "type": "lineHeights"
+          },
+          "sm": {
+            "value": "24px",
+            "type": "lineHeights"
+          },
+          "md": {
+            "value": "26px",
+            "type": "lineHeights"
+          },
+          "lg": {
+            "value": "32px",
+            "type": "lineHeights"
+          },
+          "xl": {
+            "value": "40px",
+            "type": "lineHeights"
+          }
         },
-        "font-size-xxl": {
-          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.625",
-          "description": "Extra extra large font size",
-          "type": "fontSizes"
+        "fontFamily": {
+          "value": "RijksoverheidSansWebText",
+          "description": "Default font",
+          "type": "fontFamilies"
         },
-        "font-size-xl": {
-          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.5",
-          "description": "Extra large font size",
-          "type": "fontSizes"
+        "fontWeight": {
+          "normal": {
+            "value": "Regular",
+            "type": "fontWeights"
+          },
+          "bold": {
+            "value": "Bold",
+            "type": "fontWeights"
+          }
         },
-        "font-size-l": {
-          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.25",
-          "description": "Large font size",
-          "type": "fontSizes"
+        "boxShadow": {
+          "md": {
+            "value": {
+              "x": "2px",
+              "y": "4px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0,0,0, 0.24)",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "lg": {
+            "value": {
+              "x": "2px",
+              "y": "6px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.16)",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
         },
-        "font-size-md": {
-          "value": "{MijnOverheid.brand-tokens.font-size-regular} * 1.125",
-          "description": "Medium font size",
-          "type": "fontSizes"
+        "borderWidth": {
+          "sm": {
+            "value": "1px",
+            "type": "borderWidth"
+          },
+          "md": {
+            "value": "2px",
+            "type": "borderWidth"
+          }
         },
-        "line-height-sm": {
-          "value": "20",
-          "description": "",
-          "type": "lineHeights"
-        },
-        "line-height-md": {
-          "value": "22",
-          "type": "lineHeights"
-        },
-        "line-height-l": {
-          "value": "24",
-          "type": "lineHeights"
-        },
-        "line-height-xl": {
-          "value": "32",
-          "type": "lineHeights"
-        },
-        "line-height-xxl": {
-          "value": "40",
-          "type": "lineHeights"
+        "borderRadius": {
+          "md": {
+            "value": "2px",
+            "type": "borderRadius"
+          },
+          "lg": {
+            "value": "4px",
+            "type": "borderRadius"
+          }
         }
       },
-      "common-tokens": {
+      "commonTokens": {
         "primary": {
-          "value": "{MijnOverheid.brand-tokens.lochmara}",
+          "value": "{MijnOverheid.brandTokens.lochmara}",
           "type": "color"
         },
         "background": {
-          "value": "{MijnOverheid.brand-tokens.alablaster}",
+          "value": "{MijnOverheid.brandTokens.alablaster}",
           "type": "color"
         },
         "gray": {
-          "value": "{MijnOverheid.brand-tokens.emperor}",
+          "value": "{MijnOverheid.brandTokens.emperor}",
           "type": "color"
         },
         "success": {
-          "value": "{MijnOverheid.brand-tokens.greenLeaf}",
+          "value": "{MijnOverheid.brandTokens.greenLeaf}",
           "type": "color"
         },
         "info": {
-          "value": "{MijnOverheid.brand-tokens.lochmara}",
+          "value": "{MijnOverheid.brandTokens.lochmara}",
           "type": "color"
         },
         "warning": {
-          "value": "{MijnOverheid.brand-tokens.mangoTango}",
+          "value": "{MijnOverheid.brandTokens.mangoTango}",
           "type": "color"
         },
         "error": {
-          "value": "{MijnOverheid.brand-tokens.thunderbird}",
+          "value": "{MijnOverheid.brandTokens.thunderbird}",
           "type": "color"
         },
         "successLight": {
-          "value": "{MijnOverheid.brand-tokens.willowBrook}",
+          "value": "{MijnOverheid.brandTokens.willowBrook}",
           "type": "color"
         },
         "infoLight": {
-          "value": "{MijnOverheid.brand-tokens.linkWater}",
+          "value": "{MijnOverheid.brandTokens.linkWater}",
           "type": "color"
         },
         "warningLight": {
-          "value": "{MijnOverheid.brand-tokens.champagne}",
+          "value": "{MijnOverheid.brandTokens.champagne}",
           "type": "color"
         },
         "errorLight": {
-          "value": "{MijnOverheid.brand-tokens.linen}",
+          "value": "{MijnOverheid.brandTokens.linen}",
           "type": "color"
         },
         "textPrimary": {
-          "value": "{MijnOverheid.brand-tokens.mineShaft}",
+          "value": "{MijnOverheid.brandTokens.mineShaft}",
           "type": "color"
         },
         "textWhite": {
-          "value": "{MijnOverheid.brand-tokens.white}",
+          "value": "{MijnOverheid.brandTokens.white}",
           "type": "color"
         },
         "textHint": {
-          "value": "{MijnOverheid.brand-tokens.doveGray}",
+          "value": "{MijnOverheid.brandTokens.doveGray}",
           "type": "color"
         },
         "textLink": {
-          "value": "{MijnOverheid.brand-tokens.endeavour}",
+          "value": "{MijnOverheid.brandTokens.endeavour}",
           "type": "color"
         },
         "buttonDisabled": {
-          "value": "{MijnOverheid.brand-tokens.mercury}",
+          "value": "{MijnOverheid.brandTokens.mercury}",
           "type": "color"
         },
         "buttonPrimaryHover": {
-          "value": "{MijnOverheid.brand-tokens.denim}",
+          "value": "{MijnOverheid.brandTokens.denim}",
           "type": "color"
         },
         "buttonWarningHover": {
-          "value": "{MijnOverheid.brand-tokens.bamboo}",
+          "value": "{MijnOverheid.brandTokens.bamboo}",
           "type": "color"
+        },
+        "textPreset": {
+          "body": {
+            "content": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "body"
+            },
+            "alert": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.xs}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "alert"
+            },
+            "intro-txt": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.md}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "intro"
+            },
+            "hint": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "hint"
+            },
+            "content-20": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.2xs}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "content"
+            },
+            "sub-txt": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.xs}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.sm}"
+              },
+              "type": "typography",
+              "description": "sub"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.bold}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "bold"
+            },
+            "button": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.bold}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.2xs}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "button"
+            },
+            "breadcrumb": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.sm}"
+              },
+              "type": "typography",
+              "description": "breadcrumb"
+            }
+          },
+          "headings": {
+            "h1": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.xl}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.3xl}"
+              },
+              "type": "typography",
+              "description": "h1"
+            },
+            "h2": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.md}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.2xl}"
+              },
+              "type": "typography",
+              "description": "h2"
+            },
+            "h3": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.xl}"
+              },
+              "type": "typography",
+              "description": "h3"
+            },
+            "h4": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.lg}"
+              },
+              "type": "typography",
+              "description": "h4"
+            },
+            "h5": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.2xs}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "h5"
+            }
+          },
+          "forms": {
+            "label": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.bold}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.lg}"
+              },
+              "type": "typography",
+              "description": "label"
+            },
+            "input": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.md}"
+              },
+              "type": "typography",
+              "description": "input"
+            },
+            "description": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.normal}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.xs}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.sm}"
+              },
+              "type": "typography",
+              "description": "description"
+            },
+            "sliders": {
+              "value": {
+                "fontFamily": "{MijnOverheid.brandTokens.fontFamily}",
+                "fontWeight": "{MijnOverheid.brandTokens.fontWeight.bold}",
+                "lineHeight": "{MijnOverheid.brandTokens.lineHeight.sm}",
+                "fontSize": "{MijnOverheid.brandTokens.fontSize.sm}"
+              },
+              "type": "typography",
+              "description": "sliders"
+            }
+          }
+        },
+        "space": {
+          "4xs": {
+            "value": "2px",
+            "type": "spacing"
+          },
+          "3xs": {
+            "value": "4px",
+            "type": "spacing"
+          },
+          "2xs": {
+            "value": "8px",
+            "type": "spacing"
+          },
+          "xs": {
+            "value": "12px",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "16px",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "24px",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "32px",
+            "type": "spacing"
+          },
+          "xl": {
+            "value": "40px",
+            "type": "spacing"
+          },
+          "2xl": {
+            "value": "48px",
+            "type": "spacing"
+          },
+          "3xl": {
+            "value": "56px",
+            "type": "spacing"
+          },
+          "4xl": {
+            "value": "64px",
+            "type": "spacing"
+          }
         }
-      },
-      "document-font-family": {
-        "value": "RijksoverheidSansText",
-        "description": "Broodtekst",
-        "type": "fontFamilies"
-      },
-      "heading-font-family": {
-        "value": "RijksoverheidSansHeading",
-        "description": "Kopteksten",
-        "type": "fontFamilies"
-      },
-      "font-weight-regular": {
-        "value": "Regular",
-        "type": "fontWeights",
-        "description": "Normaal lettergewicht"
-      },
-      "font-weight-bold": {
-        "value": "Bold",
-        "type": "fontWeights",
-        "description": "Vet lettergewicht"
       }
-    },
-    "H1": {
-      "value": {
-        "fontFamily": "$MijnOverheid.heading-font-family",
-        "fontWeight": "$MijnOverheid.font-weight-bold",
-        "lineHeight": "$MijnOverheid.brand-tokens.line-height-xxl",
-        "fontSize": "$MijnOverheid.brand-tokens.font-size-3xl",
-        "letterSpacing": "0%",
-        "paragraphSpacing": "0",
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "type": "typography",
-      "description": "H1"
-    },
-    "spacer-24px-all": {
-      "value": "24",
-      "type": "spacing"
     }
   },
   "$themes": []
