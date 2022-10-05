@@ -2712,7 +2712,7 @@
         },
         "border-radius": {
           "type": "borderRadius",
-          "value": "{example.brand.border-radius.md}"
+          "value": "{example.brand.border-radius.none}"
         },
         "border-width": {
           "type": "borderWidth",
