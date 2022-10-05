@@ -1349,7 +1349,7 @@
           "value": "{example.brand.icon-scale.3xl}"
         },
         "icon-gap": {
-          "value": "{example.brand.inline.md}",
+          "value": "{example.brand.inline.sm}",
           "type": "spacing"
         },
         "md": {
