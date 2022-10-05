@@ -3038,7 +3038,7 @@
           "hover": {
             "color": {
               "type": "color",
-              "value": "{example.brand.white}"
+              "value": "{x.brand.white}"
             },
             "background-color": {
               "type": "color",
