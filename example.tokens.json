@@ -1227,7 +1227,7 @@
             "type": "lineHeights"
           },
           "font-size": {
-            "value": "{example.brand.font-scale.xl.font-size}",
+            "value": "{example.brand.font-scale.lg.font-size}",
             "type": "fontSizes"
           }
         },
@@ -1248,7 +1248,7 @@
             "type": "lineHeights"
           },
           "font-size": {
-            "value": "{example.brand.font-scale.lg.font-size}",
+            "value": "{example.brand.font-scale.md.font-size}",
             "type": "fontSizes"
           }
         },
@@ -1269,7 +1269,7 @@
             "type": "lineHeights"
           },
           "font-size": {
-            "value": "{example.brand.font-scale.md.font-size}",
+            "value": "{example.brand.font-scale.sm.font-size}",
             "type": "fontSizes"
           }
         },
