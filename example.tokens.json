@@ -1349,7 +1349,7 @@
           "value": "{example.brand.icon-scale.3xl}"
         },
         "icon-gap": {
-          "value": "{example.brand.inline.sm}",
+          "value": "{example.brand.inline.xs}",
           "type": "spacing"
         },
         "md": {
@@ -2076,12 +2076,6 @@
             "type": "boxShadow"
           }
         },
-        "primary": {
-          "font-family": {
-            "value": "Roboto Slab",
-            "type": "fontFamilies"
-          }
-        },
         "font-style": {
           "inherit": {
             "value": "inherit",
@@ -2090,12 +2084,6 @@
           "normal": {
             "value": "normal",
             "type": "other"
-          }
-        },
-        "secondary": {
-          "font-family": {
-            "value": "Roboto",
-            "type": "fontFamilies"
           }
         },
         "icon-scale": {
@@ -2204,13 +2192,13 @@
         },
         "heading": {
           "font-family": {
-            "value": "{example.brand.primary.font-family}",
+            "value": "{gx.font-family}",
             "type": "fontFamilies"
           }
         },
         "body": {
           "font-family": {
-            "value": "{example.brand.secondary.font-family}",
+            "value": "{gx.font-family}",
             "type": "fontFamilies"
           }
         },
@@ -2571,7 +2559,7 @@
           "value": "{example.brand.icon-scale.3xl}"
         },
         "icon-gap": {
-          "value": "{example.brand.inline.sm}",
+          "value": "{example.brand.inline.xs}",
           "type": "spacing"
         },
         "md": {
@@ -2997,9 +2985,9 @@
         "value": "hsl(0, 0%, 0%)",
         "type": "color"
       },
-      "white": {
-        "value": "hsl(0, 0%, 100%)",
-        "type": "color"
+      "font-family": {
+        "value": "Lucida Grande",
+        "type": "fontFamilies"
       }
     }
   },
