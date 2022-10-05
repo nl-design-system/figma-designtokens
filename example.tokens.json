@@ -2988,6 +2988,10 @@
       "font-family": {
         "value": "Lucida Grande",
         "type": "fontFamilies"
+      },
+      "white": {
+        "value": "hsl(0, 0%, 100%)",
+        "type": "color"
       }
     }
   },
